@@ -1,0 +1,784 @@
+Image Name;Original Caption;Generated Caption;BLEU;METEOR;ROGUE;BERTscore Precision;BERTscore Recall;BERTscore F1;SentenceBERT_MRL;SentenceBERT_MPNET
+0001.jpg;Rankoje laikomi čekiai;Receipts accumulate, a tangible record of spending and experiences.;0.0;0.0;0.0;0.82804096;0.8186841;0.82333595;0.07922128;0.58463877
+0002.jpg;Vyras neša vėliavą;Palestinian flag waves during a demonstration or rally.;0.0;0.0;0.15384615;0.83579755;0.85321951;0.8444187;0.11583448;0.61462116
+0003.jpg;Du kareiviai stovintys su vėliava;Soldiers stand guard with a unique green and white flag.;0.0;0.0;0.0;0.83931875;0.84101433;0.84016567;0.30948734;0.79634976
+0004.jpg;Minia protestuojančių žmonių laikančių plakatus;Lithuanian protesters demonstrate against cultural changes and ministerial decisions.;0.0;0.0;0.0;0.8364011;0.83131826;0.83385199;0.26842538;0.67240417
+0005.jpg;Ant stalo padėtos kodekso knygos;Lithuanian law books and a red judicial robe are shown.;0.0;0.0;0.0;0.83305615;0.83810282;0.83557183;0.17003341;0.45924485
+0006.jpg;Ranka virš čekių;A pile of receipts held in a person’s hands.;0.0;0.0;0.0;0.82796299;0.82539731;0.8266781;0.23712637;0.6845032
+0007.jpg;Vyras tikrinasi regėjimą;"Eye exam with an occluder to test visual acuity.
+
+
+
+";0.0;0.0;0.0;0.83780789;0.85285127;0.84526265;0.11333416;0.72833019
+0008.jpg;Daugiabučio namo renovacija;Building facade under renovation with scaffolding and protective sheeting.;0.0;0.0;0.0;0.83695495;0.81984949;0.82831389;0.22469884;0.63165194
+0009.jpg;Lietuvos pašto dėžutė ant sienos;"Lithuanian post box, bright yellow, mounted on a building.
+
+
+
+";0.0;0.0;0.0;0.85137945;0.85845965;0.85490489;0.26258433;0.82146639
+0010.jpg;Krovininis laivas plaukiantis į uostą;MSC Amsterdam container ship entering the port channel.;0.0;0.0;0.0;0.84247494;0.83861554;0.84054083;0.13627894;0.69227999
+0011.jpg;Pervažas stebi išmaniosios vaizdo sistemos;Camera surveillance in progress at this railway crossing.;0.0;0.0;0.0;0.84056467;0.83017755;0.83533877;0.09656079;0.57544744
+0012.jpg;Prekių vežimėlis prekybos centre;Grocery shopping: navigating aisles with a full cart.;0.0;0.0;0.0;0.83355355;0.83468276;0.83411783;0.14055644;0.70641559
+0013.jpg;Tiltu einantys žmonės ir esantys šalia jo;People enjoy a summer day by the water.;0.0;0.0;0.0;0.85740626;0.84466839;0.8509897;0.3186999;0.44717571
+0014.jpg;Vėjo jėgainės jūroje;Offshore wind turbines and coastal grasses on a sunny day.;0.0;0.0;0.0;0.838682;0.85192084;0.84524959;0.23499051;0.8154496
+0015.jpg;Pinigų banknotai;"Euro banknotes: twenty and ten euro bills are shown.
+
+
+
+";0.0;0.0;0.0;0.82295519;0.86964869;0.84565789;0.31151405;0.71148682
+0016.jpg;Indai pilni persikų;Donut peaches—nature’s sweetest surprise, freshly picked and ready!;0.0;0.0;0.0;0.80095851;0.81678003;0.80879194;0.19733897;0.68892717
+0017.jpg;Traktorius dirba laukuose;Agricultural sprayer applying chemicals to a lush green field.;0.0;0.0;0.0;0.84070373;0.8550415;0.84781206;0.19959851;0.63678551
+0018.jpg;Kombainas dirba laukuose;Harvest time: combine working in a golden wheat field.;0.0;0.0;0.0;0.83625078;0.84764659;0.84191012;0.19829951;0.68362105
+0019.jpg;Žmogus rankose nešantis įvairių daržovių krepšį;Freshly harvested garden vegetables in a woven basket.;0.0;0.0;0.0;0.8619585;0.87650454;0.86917073;0.14464343;0.69131941
+0020.jpg;Virtuvė prieš ir po remonto;Kitchen renovation: before and after a bright, modern transformation.;0.0;0.0;0.0;0.85892594;0.88022077;0.869443;0.38676375;0.87592298
+0021.jpg;Kondensatas susidaręs prie lango;Condensation on window indicates high humidity or poor insulation.;0.0;0.0;0.0;0.82960743;0.84552133;0.83748883;0.18120798;0.626104
+0022.jpg;Maža mergaitė sėdinti ant grindų;Child watching television, sitting on the floor at home.;0.0;0.0;0.0;0.87088025;0.879632;0.87523425;0.09074526;0.62481391
+0023.jpg;Kompostuojamos atliekos angare;Compost piles under a large metal shelter structure.;0.0;0.0;0.0;0.82057917;0.80545795;0.81294823;0.25413921;0.57266259
+0024.jpg;Sodo komposto dėžė;"Compost bin full of onion and vegetable scraps.
+
+
+
+";0.0;0.0;0.0;0.82737589;0.86742622;0.84692788;0.230584;0.77611691
+0025.jpg;Šiukšliavežė su šiukšlėmis ir darbininku;Garbage worker emptying a truck full of plastic waste.;0.0;0.0;0.0;0.86117721;0.84155297;0.85125202;0.15236557;0.74081969
+0026.jpg;Daug vikšrų;"Army of spiny caterpillars build a communal web shelter.
+
+
+
+";0.0;0.0;0.0;0.79236436;0.80276138;0.79752898;0.08613619;0.54294133
+0027.jpg;Daug vikšrų;Spiny caterpillars march together in a delicate web habitat.;0.0;0.0;0.0;0.79706478;0.79096723;0.79400426;0.01917509;0.48387837
+0028.jpg;Antrankiais surakintas žmogus;"Handcuffed individual holding a sock, likely in custody.
+
+
+
+";0.0;0.0;0.0;0.81660151;0.79648209;0.80641639;0.1738857;0.40551141
+0029.jpg;Naftos terminalas Rusijoje;Oil depot and bridge over the Neva River, Russia.;0.0;0.0;0.0;0.86409664;0.87565261;0.86983627;0.305482;0.79266304
+0030.jpg;Vyras laikantis automobilio ratą;Mechanic changing a car tire in an auto repair shop.;0.0;0.0;0.0;0.82653129;0.83408153;0.83028924;0.38120687;0.58243859
+0031.jpg;Aukso luitai ir žmogaus pirštas;Investing in gold with digital technology and financial growth.;0.0;0.0;0.0;0.84490907;0.82744974;0.8360883;0.09160618;0.35214394
+0032.jpg;Moksleiviai sėdintys klasėje;Students focused on work in a classroom setting.;0.0;0.0;0.0;0.88142383;0.87398815;0.87769026;0.45381665;0.8323257
+0033.jpg;Mokytoja stovinti prie išmanios lentos;Classroom view with teacher and students focused on a screen.;0.0;0.0;0.0;0.87401325;0.87662613;0.87531769;0.17612301;0.72723979
+0034.jpg;Vaistai ir pinigai;Money, pills, and a calculator—financial and health concerns.;0.0;0.0;0.0;0.85847652;0.8440733;0.85121399;0.22900598;0.76378512
+0035.jpg;Nobelio prizas skiriamas labiausiai nusipelniusiems mokslininkams;Nobel Prize medal honoring Alfred Nobel’s legacy and achievements.;0.0;0.0;0.0;0.8542316;0.85347545;0.8538534;0.36212772;0.74654979
+0036.jpg;Žemė ir skriejantis asteroidas;Asteroid approaching Earth—a potential planetary impact scenario depicted.;0.0;0.0;0.0;0.84589446;0.84386307;0.84487748;0.37294513;0.90593076
+0037.jpg;Žemė ir skriejantis asteroidas;Asteroid approaching Earth, a potential planetary impact threat.;0.0;0.0;0.0;0.84724861;0.84563506;0.84644103;0.37870327;0.88996202
+0038.jpg;Palydovas kosmose;Russian Progress spacecraft approaches the International Space Station for docking.;0.0;0.0;0.0;0.8305999;0.83331412;0.83195484;0.37888792;0.58646071
+0039.jpg;Blogas kvapas;"Pop art style illustration of a woman smoking.
+
+
+
+";0.0;0.0;0.0;0.80267042;0.80090475;0.8017866;0.03381942;0.29835501
+0040.jpg;Naujagimius ligoninėje prižiūri seselė;Newborn babies receiving care in a hospital nursery setting.;0.0;0.0;0.0;0.85872829;0.85703766;0.85788214;0.36884034;0.8317641
+0041.jpg;Zebras;Zebra blends seamlessly with its striking black and white stripes.;0.0;0.26315789;0.18181818;0.78325117;0.8534084;0.81682611;0.66597885;0.76752073
+0042.jpg;Rankos pirštų nagai;"Hand making a fist with short, natural nails.
+
+
+
+";0.0;0.0;0.0;0.83492738;0.84535003;0.84010643;0.26586819;0.76001877
+0043.jpg;Daug radioteleskopų;Very Large Array: radio telescopes studying the universe.;0.0;0.0;0.0;0.84553176;0.87481421;0.85992378;0.54385972;0.87484992
+0044.jpg;Du šernai pievoje;Two wild pigs forage for food in a grassy field.;0.0;0.0;0.0;0.80387521;0.8052175;0.80454582;0.18382105;0.31836927
+0045.jpg;Pomidorai ir bulvės;Fresh tomatoes and potatoes—healthy choices from the produce section.;0.0;0.0;0.0;0.84268057;0.83862615;0.84064847;0.14146687;0.79299599
+0046.jpg;Du vilkai miške;Majestic wolf stands proudly in its natural woodland habitat.;0.0;0.0;0.0;0.80567312;0.82740581;0.81639487;0.08231198;0.42354995
+0047.jpg;Vilkas miške prie medžio;A beautiful wolf stands alert in a forest setting.;0.0;0.0;0.0;0.85138655;0.84107292;0.84619832;0.16430122;0.83193994
+0048.jpg;Rudasis lokys miške;"Majestic brown bear stands alert in its natural habitat.
+
+
+
+";0.0;0.0;0.0;0.8118552;0.82807148;0.81988311;0.23498276;0.58292425
+0049.jpg;Skrendančių paukščių būrys;A flock of swans gracefully soaring through the sky.;0.0;0.0;0.0;0.84130877;0.83639252;0.83884346;0.13754125;0.80055463
+0050.jpg;Žmogus miške pjauna grybą;Foraging for mushrooms in a lush, green forest setting.;0.0;0.0;0.0;0.81439042;0.80796385;0.81116444;0.21511352;0.64665073
+0051.jpg;Angis ant kibiro;Adder found in a bucket, needs rescuing safely.;0.0;0.0;0.0;0.79908204;0.80904359;0.80403191;0.03223848;0.42204675
+0052.jpg;Sužymėtos sraigės;Tagged snails are studied for research purposes in the field.;0.0;0.0;0.0;0.82528389;0.83449215;0.82986253;0.0991307;0.33753541
+0053.jpg;Žmogus laužiantis šokoladą;Delicious matcha and chocolate bar being broken in half.;0.0;0.0;0.0;0.8330071;0.83879542;0.83589125;0.23939487;0.71377659
+0054.jpg;Apgraužti baravykai prie pintinės;Freshly foraged mushrooms gathered in a woven basket.;0.0;0.0;0.0;0.81335497;0.80764294;0.81048888;0.01205519;0.48770538
+0055.jpg;Skaičiuojami pinigai;Calculating finances with euro banknotes and a calculator.;0.0;0.0;0.0;0.835742;0.85262728;0.84410024;0.18734568;0.6794433
+0056.jpg;Seselė skiepiją žmogų;"Healthcare worker administering a vaccine injection to a patient’s arm.
+
+
+
+";0.0;0.0;0.0;0.80910152;0.82037908;0.81470126;0.00962753;0.57435417
+0057.jpg;Zaporižios atominė elektrinė;Fukushima Daiichi nuclear power plant, damaged by the 2011 tsunami.;0.0;0.0;0.0;0.82199687;0.85169196;0.83658099;0.23865026;0.55507898
+0058.jpg;Lazdyno riešutų sauja;"A handful of hazelnuts being held in two hands.
+
+
+
+";0.0;0.0;0.0;0.83989948;0.82953;0.83468246;0.0874855;0.57496941
+0059.jpg;Troleibusas prie troleibusų stotelės;Vilnius public transport: bus stop with real-time information display.;0.0;0.0;0.0;0.83367461;0.81537259;0.82442212;0.27320245;0.6708824
+0060.jpg;Minia žmonių protestuojančių su ženklais;Protestors hold signs warning of “culture” ahead in Latvia.;0.0;0.0;0.0;0.83067095;0.82997173;0.83032119;0.27857226;0.68158507
+0061.jpg;Negalią turintys asmenys;Person in a wheelchair propelling themselves forward outdoors.;0.0;0.0;0.0;0.82106733;0.83358264;0.82727766;0.00197317;0.41620287
+0062.jpg;Neapdoroti makaronai esantys restorano terasoje;"Breadsticks await diners at an outdoor restaurant setting.
+
+
+
+";0.0;0.0;0.0;0.85072768;0.84549052;0.84810102;0.29204899;0.54036993
+0063.jpg;Bendras vaizdas į Žmogaus teisių ir civilizacijų aljanso kambarį;United Nations Human Rights Council chamber with colorful ceiling art.;0.0;0.0;0.0;0.83710575;0.80911916;0.82287455;0.12253504;0.59679466
+0064.jpg;Utėlės plaukuose;"Dandruff flakes visible on dark hair and scalp.
+
+
+
+";0.0;0.0;0.0;0.81842995;0.85569459;0.83664757;0.18740568;0.6705839
+0065.jpg;Moteriai operacinėje atliekama akių operacija;LASIK eye surgery corrects vision with a laser procedure.;0.0;0.0;0.0;0.79963446;0.8182407;0.80883062;0.40966064;0.65709114
+0066.jpg;Europos Centrinis Bankas;European Central Bank headquarters with the Euro symbol in front.;0.0;0.0;0.0;0.84167069;0.84965879;0.84564584;0.61834687;0.73985535
+0067.jpg;Kalifornijos Nacionalinės gvardijos kariai ir jūrų pėstininkai sulaiko demonstrantus;National Guard confronts protestors during a demonstration in Washington, D.C.;0.0;0.0;0.0;0.88746464;0.86891371;0.87809122;0.28465298;0.70948821
+0068.jpg;Automobilių servise taisomas automobilis;Car repair shop with tires and a mechanic present.;0.0;0.0;0.0;0.83073866;0.84561574;0.83811116;0.3543607;0.59726393
+0069.jpg;Avižų košė su obuoliais;Apple pie oatmeal with peanut butter – cozy breakfast!;0.0;0.0;0.0;0.82531273;0.84050316;0.83283871;0.25868577;0.66067767
+0070.jpg;Kavos stiklinė;Rich, dark espresso with coffee beans – a perfect brew.;0.0;0.0;0.0;0.80885696;0.84066999;0.82445669;0.28600797;0.71347785
+0071.jpg;Kavos puodelis;Warm, frothy chocolate drink in a white mug.;0.0;0.0;0.0;0.8100332;0.83748531;0.82353055;0.11921174;0.721632
+0072.jpg;Keptos perlinės kruopos su grybais;Creamy mushroom risotto with parmesan and fresh thyme garnish.;0.0;0.0;0.0;0.83716011;0.8547551;0.84586608;0.23490703;0.7077533
+0073.jpg;Elektros stulpai ir kabantys laidai;High-voltage power lines and towers against a hazy landscape.;0.0;0.0;0.0;0.8393929;0.83398402;0.83667976;0.24752009;0.54586345
+0074.jpg;Pleviasuojanti Japonijos vėliava;The flag of Japan waves proudly in the sunlight.;0.0;0.0;0.0;0.85495996;0.83504498;0.84488511;0.38680261;0.88255143
+0075.jpg;Moteris su puodelius susiėmusi už gerklės;Sore throat and a warm drink for comfort.;0.0;0.0;0.0;0.81999433;0.80645627;0.813169;0.09020566;0.48039895
+0076.jpg;Moteris susiėmusi už gerklės ir krūtinės;Woman clutching chest and throat, experiencing discomfort or pain.;0.0;0.0;0.0;0.83093441;0.83582008;0.83337009;0.17803656;0.79045004
+0077.jpg;Moteris su puodelius susiėmusi už gerklės;Feeling unwell, seeking comfort with a warm drink and blanket.;0.0;0.0;0.0;0.83089876;0.80624157;0.81838453;0.09537753;0.42824635
+0078.jpg;Seselė skiepija vaiką;Healthcare worker administering a vaccine to a child’s arm.;0.0;0.0;0.0;0.84239388;0.87497503;0.85837543;0.06885172;0.78480965
+0079.jpg;Seselė skiepija vaiką;Healthcare worker administering a vaccine to a patient's arm.;0.0;0.0;0.0;0.84344983;0.8713609;0.85717827;0.03195469;0.66697115
+0080.jpg;Tamponas laikomas rankose;"A hand holding a white tampon with a string.
+
+
+
+";0.0;0.0;0.0;0.83461487;0.83839548;0.83650088;0.38120964;0.54379016
+0081.jpg;Plaukų slinkimas, plaukų netekimas;Excessive hair loss is concerning and may require medical attention.;0.0;0.0;0.0;0.85032248;0.86439782;0.85730237;0.05254485;0.86223572
+0082.jpg;Švirkštai ant žemės;Discarded needles and packaging pose a public health hazard.;0.0;0.0;0.0;0.8162446;0.79735386;0.80668867;-0.00604666;0.43275741
+0083.jpg;Gaminama mačia;Matcha green tea powder and prepared drink, traditional Japanese beverage.;0.0;0.0;0.0;0.80359852;0.81266266;0.80810517;0.03926976;0.44514701
+0084.jpg;Moteris žindo kūdikį;A mother lovingly cradles and feeds her newborn baby.;0.0;0.0;0.0;0.83317196;0.82903957;0.83110064;0.16557534;0.82444149
+0085.jpg;Besilaukianti moteris laikosi už pilvo;A pregnant woman lovingly cradles her growing baby bump.;0.0;0.0;0.0;0.83779669;0.83900803;0.83840191;0.22041158;0.7554512
+0086.jpg;Uodas siurbia kraują;Mosquito biting human skin, seeking a blood meal.;0.0;0.0;0.0;0.81842226;0.83871704;0.82844537;0.16835606;0.39775795
+0087.jpg;Automobilis degalinėje;Gas station pumps offering diesel and gasoline fuel options.;0.0;0.0;0.0;0.82493031;0.84882975;0.83670944;0.23944929;0.60145187
+0088.jpg;Moteris kraunanti elektromobilį;Charging an electric vehicle at home is convenient and easy.;0.0;0.0;0.0;0.84975779;0.851349;0.85055268;0.29462186;0.47723061
+0089.jpg;Eismas draudžiamas;"Road closed ahead; traffic rerouted due to construction work.
+
+
+
+";0.0;0.0;0.0;0.80264437;0.83060962;0.81638759;0.12510328;0.28824863
+0090.jpg;Slenkantys ledynai;Antarctic ice shelf calving reveals stunning blue underwater formations.;0.0;0.0;0.0;0.79785538;0.83757269;0.81723177;0.24994349;0.67725027
+0091.jpg;Baltyminiai milteliai;Adding protein powder to a blender for a healthy shake.;0.0;0.0;0.0;0.81864953;0.82827044;0.82343191;0.13297993;0.41083071
+0092.jpg;Spermatozoidai ir kiaušialąstės;Sperm racing to fertilize an egg, the start of life.;0.0;0.0;0.0;0.8407625;0.810956;0.82559031;0.26371691;0.7332955
+0093.jpg;DNR struktūra;DNA: The blueprint of life, beautifully complex and intricate.;0.0;0.0;0.0;0.83395702;0.85699177;0.84531754;0.18176742;0.81543696
+0094.jpg;Grūdai;Golden rice grains, a bountiful harvest ready for milling.;0.0;0.0;0.0;0.77258635;0.80083245;0.78645581;0.17154978;0.25081486
+0095.jpg;Obuolys rankoje;Freshly picked, ripe red apple held in a hand.;0.0;0.0;0.0;0.82311356;0.82437497;0.82374376;0.25270134;0.34853429
+0096.jpg;Daug obuolių dėžėje;Freshly picked apples displayed for sale at a market.;0.0;0.0;0.0;0.83067316;0.80878425;0.81958252;0.06794498;0.77624202
+0097.jpg;Didelių gabaritų atliekos;"Pile of discarded furniture and trash against a brick wall.
+
+
+
+";0.0;0.0;0.0;0.84509361;0.82609671;0.83548725;0.16929035;0.47306475
+0098.jpg;Didelių gabaritų atliekos prie tvoros;"Illegal dumping of furniture and trash by the roadside.
+
+
+
+";0.0;0.0;0.0;0.84857589;0.84037644;0.84445626;0.14535043;0.71602827
+0099.jpg;Dubajaus šokoladas su pistacijomis;Delicious chocolate bar with pistachios, a sweet treat.;0.0;0.0;0.0;0.83926088;0.83016169;0.83468646;0.38010097;0.83051836
+0100.jpg;Augančios raudonos saldžiosios paprikos;Ripe red bell peppers growing on the vine.;0.0;0.0;0.0;0.84827882;0.83965689;0.84394586;0.41662824;0.88689822
+0101.jpg;Įdarytos paprikos su smulkinta mėsa ir ryžiais;Delicious stuffed bell peppers, a hearty and flavorful meal.;0.0;0.0;0.0;0.84079933;0.82750195;0.83409762;0.34692323;0.70528442
+0102.jpg;Du baliniai vėžliai;Turtles basking in the sun near lush green vegetation.;0.0;0.0;0.0;0.84955329;0.88751429;0.868119;0.19071653;0.42417336
+0103.jpg;Moteris konservuoja daržoves;Making fermented vegetables at home is easy and healthy.;0.0;0.0;0.0;0.84114343;0.82419091;0.83258086;0.11983448;0.56549799
+0104.jpg;Rusijos karys leidžia droną karinėse pratybose;Soldier launches a drone with a cable in a field.;0.0;0.0;0.0;0.84778875;0.85230523;0.85004097;0.1871748;0.67874998
+0105.jpg;Dronai nešantys dvi vėliavas;Russian and Belarusian flags are flown by drones.;0.0;0.0;0.0;0.87451231;0.86939168;0.87194449;0.28961691;0.72788101
+0106.jpg;Dronas skraidantis danguje;Hexacopter drone carrying a bomb or explosive ordnance.;0.0;0.0;0.0;0.83616483;0.82384866;0.82996112;0.19682533;0.65409672
+0107.jpg;Rusijos tankai parade;Russian military vehicles parade in Moscow’s Red Square.;0.0;0.14285714;0.16666667;0.85998768;0.88006973;0.8699128;0.63118434;0.84933221
+0108.jpg;Pastatyti užtvarai ant tilto prie šalių sienos;Border crossing between Latvia and Russia is closed.;0.0;0.0;0.0;0.83814526;0.83494294;0.83654106;0.17594594;0.35981229
+0109.jpg;Gyvenamasis namas po Rusijos smūgių Kijeve;Firefighters battle a blaze at a high-rise building.;0.0;0.0;0.0;0.83485508;0.83347499;0.83416444;0.05347287;0.30883977
+0110.jpg;Pusiau perpjauti avokadai;Avocados at different stages of ripeness, halved and displayed.;0.0;0.0;0.0;0.7985208;0.80860919;0.80353332;0.24264005;0.81295913
+0111.jpg;Sumuštinis su mėsa ir daržovėmis;Delicious steak sandwich with pickled onions and fresh sprouts.;0.0;0.0;0.0;0.84904277;0.85041869;0.84973019;0.161365;0.71774155
+0112.jpg;Kapų žvakės lentynoje;Candles fill shelves in a store, awaiting purchase by customers.;0.0;0.0;0.0;0.80738759;0.81607044;0.81170577;0.20155087;0.74471259
+0113.jpg;Viena deganti elektros lemputė tarp kitų lempučių;"Stand out from the crowd; be the bright idea.";0.0;0.0;0.0;0.83503461;0.79957056;0.8169179;0.01896575;0.29448435
+0114.jpg;Pelė prie vamzdžio;A curious rat peeks out from a dark hiding spot.;0.0;0.0;0.0;0.83637583;0.85225677;0.84424162;0.12330028;0.62720031
+0115.jpg;Lėktuvo keleivė lėktuve;Inside an airplane cabin with passengers and a flight attendant.;0.0;0.0;0.0;0.85190749;0.86091411;0.85638714;0.22366555;0.64761186
+0116.jpg;Lobių skrynios;Ancient gold coins unearthed—a treasure from the past revealed.;0.0;0.0;0.0;0.81500018;0.83074564;0.82279766;0.06940472;0.36271518
+0117.jpg;Popieriniai dokumentai ir kompiuteris;Business team analyzing data and charts for strategic planning.;0.0;0.0;0.0;0.83618152;0.83213782;0.83415473;0.15143716;0.22931132
+0118.jpg;Nelaimingas jaunas vyras;Man looks stressed, hands covering mouth in disbelief.;0.0;0.0;0.0;0.81206208;0.83403575;0.82290226;0.05719854;0.62671322
+0119.jpg;Krūties vėžys, mamografija;Doctor reviewing mammogram images for breast cancer screening.;0.0;0.0;0.0;0.87692297;0.88784289;0.88234913;0.28034455;0.83690333
+0120.jpg;Pokalbis su vaiku;A father comforts his son with a reassuring touch.;0.0;0.0;0.0;0.81949878;0.80848014;0.81395215;0.08942636;0.50634241
+0121.jpg;Neteisėtai pagautos žuvys, unguriai;Successful fishing day with a variety of catches!;0.0;0.0;0.0;0.84537631;0.82298684;0.8340314;0.18487197;0.49721271
+0122.jpg;Kontrabandininkų balionas prie baidarininko;"Kayaker paddles near a large, white map marker balloon.
+
+
+
+";0.0;0.0;0.0;0.80832469;0.8003695;0.80432743;0.23748557;0.65227711
+0123.jpg;Fizinio barjero pasienyje su Baltarusija statyba;Polish border guards monitor a newly constructed fence with Belarus.;0.0;0.0;0.0;0.84090239;0.84735525;0.84411645;0.28802401;0.75731456
+0124.jpg;Vagis laužiasi į automobilį;"Car break-in: A thief attempting to steal from a vehicle.
+
+
+
+";0.0;0.0;0.0;0.83104104;0.82404578;0.82752872;0.31448913;0.91468996
+0125.jpg;Ūkininko laukas prie miško;Autumn landscape with golden trees and rolling green hills.;0.0;0.0;0.0;0.84776306;0.86091661;0.85428923;-0.00999875;0.5844726
+0126.jpg;Pistoletas rankose;Lietuvos policija—Lithuanian police holding a black Glock handgun.;0.0;0.0;0.0;0.80945683;0.84235168;0.82557672;0.20694128;0.6226325
+0127.jpg;Sprogmuo žolėje;Armadillos hiding in the grass, blending with their surroundings.;0.0;0.0;0.0;0.80394739;0.81714368;0.8104918;0.02476203;0.45794168
+0128.jpg;Marihuanos suktinės;"Hand-rolled cigarettes lie on a wooden surface.
+
+
+
+";0.0;0.0;0.0;0.80685318;0.80450213;0.80567592;0.0667966;0.5160622
+0129.jpg;Kapų žvakė rankose;"A lit candle held in remembrance and respect.
+
+
+
+";0.0;0.0;0.0;0.82748175;0.83285713;0.83016074;0.17620304;0.81648225
+0130.jpg;Auganti kanapė;Cannabis plant showing healthy growth and developing buds.;0.0;0.0;0.0;0.80791426;0.81369007;0.81079185;0.45167258;0.66144085
+0131.jpg;Krosnis su malkomis ir popieriumi;Fireplace surrounded by wood and boxes in a room.;0.0;0.0;0.0;0.84829026;0.85329729;0.85078645;0.16716051;0.31868032
+0132.jpg;Ginklas rankose;"Hand holding a black Glock pistol with trigger exposed.
+
+
+
+";0.0;0.0;0.0;0.78853238;0.77619725;0.78231615;0.24909049;0.78011477
+0133.jpg;Ekskavatorius kelia betoną;"Demolition in progress with a CASE excavator and debris.
+
+
+
+";0.0;0.0;0.0;0.84124565;0.8569504;0.84902537;0.24275836;0.63906151
+0134.jpg;Daug alaus butelių automobilyje;Messy car interior filled with beer bottles and clothes.;0.0;0.0;0.0;0.83472854;0.82891405;0.83181107;0.22345036;0.79661262
+0135.jpg;Pistoletas;"Baikal MP-654K pistol with magazine, likely air pistol variant.
+
+
+
+";0.0;0.0;0.0;0.7936421;0.840792;0.81653696;0.55405653;0.75050265
+0136.jpg;Vaikai laikantys telefoną rankose;Students secretly using phones in class, distracted from learning.;0.0;0.0;0.0;0.85389078;0.8517378;0.85281289;0.23034999;0.59073746
+0137.jpg;Dėstytojo paskaita studentams;Large lecture hall filled with students listening to a presentation.;0.0;0.0;0.0;0.83813655;0.83349621;0.83580995;0.40712708;0.66591287
+0138.jpg;Vaikinas ir mergina mokosi iš knygų;Students collaborating and studying together in a classroom setting.;0.0;0.0;0.0;0.85153806;0.84652603;0.84902465;-0.02808929;0.54022741
+0139.jpg;Kazachstane nukrito Azerbaidžano avialinijų lėktuvas;Plane crash site with emergency responders and investigators present.;0.0;0.0;0.0;0.84778285;0.83661234;0.84216052;0.25430536;0.374865
+0140.jpg;Humanitarinės pagalbos sunkvežimiai;Aid trucks carrying supplies enter Gaza via the Rafah crossing.;0.0;0.0;0.0;0.83235735;0.83129811;0.83182734;0.13152064;0.65788937
+0141.jpg;Latvijoje rastas dronas;Space Shuttle debris washes ashore on a beach.;0.0;0.0;0.0;0.82702219;0.83117241;0.82909214;0.1317451;0.31462255
+0142.jpg;Europos Parlamento posėdžių salė;European Parliament plenary session in Strasbourg, France.;0.0;0.0;0.0;0.85387242;0.86448395;0.8591454;0.46591359;0.83112937
+0143.jpg;Laivai jūroje;Boats and a naval vessel sail on the sea.;0.0;0.0;0.0;0.84227335;0.86205167;0.8520478;0.28254232;0.89982921
+0144.jpg;Pūga ant Everesto, lipantys žmonės;Pilgrims and pack animals trek through heavy snowfall in Nepal.;0.0;0.0;0.0;0.83329129;0.83718073;0.83523154;0.09826629;0.58057612
+0145.jpg;Elektroninės cigaretės lentynoje;A store shelf stocked with various colorful vape products.;0.0;0.0;0.0;0.83188212;0.83535433;0.83361459;0.06148742;0.6200583
+0146.jpg;Izraelio lėktuvas danguje;F-35A Lightning II performs a high-speed pass during an airshow.;0.0;0.0;0.0;0.85468662;0.87735885;0.86587435;0.15322021;0.56361192
+0147.jpg;Baltasis delfinas;Beluga whale gracefully swims in the deep blue sea.;0.0;0.0;0.0;0.81837547;0.83823097;0.82818419;0.2513811;0.49116984
+0148.jpg;Raketa Flamingo;Hypersonic missile model on display at a defense exhibition.;0.0;0.0;0.0;0.81342119;0.82932878;0.82129794;0.18844575;0.50072724
+0149.jpg;Gelbėjimo valtis jūroje;People in boats on a cloudy, calm river.;0.0;0.0;0.0;0.83954954;0.84968483;0.84458679;0.08483099;0.56426775
+0150.jpg;Prie radiatorių šildomos kojos;Cozy socks and warm radiators—winter comfort at its finest.;0.0;0.0;0.0;0.84774107;0.88808161;0.86744255;0.36065185;0.69796824
+0151.jpg;Ranka sukanti termostatą;"Adjusting the radiator valve to control room temperature.
+
+
+
+";0.0;0.0;0.0;0.84281158;0.83425713;0.83851248;0.18834788;0.69874853
+0152.jpg;Lietuvos pašto logistikos centras;Large sorting facility with conveyor belts and many packages.;0.0;0.0;0.0;0.81658244;0.81678367;0.81668305;0.0663446;0.50235426
+0153.jpg;Elektros perdavimo linija;"High-voltage power lines and tower amidst autumn trees.
+
+
+
+";0.0;0.0;0.0;0.84000897;0.86527306;0.85245395;0.21306826;0.62608087
+0154.jpg;Saulės jėgainės Nevadoje;Solar panels harnessing the sun's energy in a desert landscape.;0.0;0.0;0.11764706;0.85350031;0.87176609;0.86253649;0.44365773;0.78616536
+0155.jpg;Metano srovės, besiveržiančios iš jūros dugno;Deep-sea hydrothermal vent field with diverse marine life.;0.0;0.0;0.0;0.85176754;0.82951665;0.84049487;0.18760407;0.6787076
+0156.jpg;Grynieji pinigai;"A stack of fifty euro banknotes on a table.
+
+
+
+";0.0;0.0;0.0;0.81067628;0.81272507;0.81169933;0.00875912;0.49204475
+0157.jpg;Užimtumo tarnybos klientų aptarnavimo skyrius Vilniuje;Digital queue system with numbers and job search information.;0.0;0.0;0.0;0.86985058;0.85407794;0.8618921;0.12524143;0.44445387
+0158.jpg;Rusiškos naftos tanklaivis laukia iškrovimo prie Banijaso uosto Sirijoje;Large oil tanker sailing on a clear blue ocean.;0.0;0.0;0.0;0.82391918;0.79944515;0.81149763;0.31702515;0.54155493
+0159.jpg;Investicinio aukso ir sidabro luitai;Gold bars from Valcambi Suisse, weighing 500g and 1kg.;0.0;0.0;0.0;0.81366372;0.82971513;0.82161105;0.07025716;0.42637199
+0160.jpg;Formulių lenktynės uždaroje trasoje;Formula E race cars indoors, ready for competition.;0.0;0.0;0.0;0.87705243;0.88847357;0.88272607;0.31650251;0.73146319
+0161.jpg;Teslos automobilių gamykla;Car body parts stacked in a factory warehouse.;0.0;0.0;0.0;0.84560782;0.8333835;0.83945119;0.35591602;0.73233879
+0162.jpg;Robotai surinkinėja automobilį;Robotic arms paint a car body in a factory.;0.0;0.0;0.0;0.85936368;0.84616983;0.85271573;0.49006271;0.78941774
+0163.jpg;Amerikietiški sunkvežimiai kelyje;"Trucks transport shipping containers near a busy port area.
+
+
+
+";0.0;0.0;0.0;0.82296848;0.80782682;0.81532741;0.10384636;0.63769358
+0164.jpg;LP Express paštomatas;Man uses LPEXPRESS parcel locker to send or receive package.;0.0;0.0;0.0;0.83669031;0.85845989;0.84743536;0.39488679;0.65228403
+0165.jpg;Geležinkelio ruožas;Railway tracks curving through a landscape with power lines.;0.0;0.0;0.0;0.83711082;0.82523263;0.83112925;0.16424736;0.71670753
+0166.jpg;Rygos autobusų stotis;Bus station with departure information and waiting passengers.;0.0;0.0;0.0;0.82594758;0.84116542;0.83348697;0.38100517;0.73295432
+0167.jpg;Šarvuotas automobilis Taurus 4-1;Ukrainian-made armored vehicle, Taurus, designed for frontline combat operations.;0.0;0.0;0.13333333;0.83040559;0.86695999;0.84828925;0.37978727;0.60859275
+0168.jpg;FPV dronai;Racing drones and batteries ready for a competition flight.;0.0;0.0;0.0;0.81651187;0.83535969;0.82582825;0.20600861;0.6965453
+0169.jpg;Audinė narvelyje;A white ferret looks curiously out from its cage.;0.0;0.0;0.0;0.81061673;0.82565838;0.81806844;0.03316486;0.39561909
+0170.jpg;Naftos perdirbimo gamykla Serbijoje;Industrial complex with pipes and smokestacks under a cloudy sky.;0.0;0.0;0.0;0.8270551;0.81366289;0.82030427;0.10163065;0.39555565
+0171.jpg;Pienas pilamas į stiklinę;Pouring a glass of milk from a bottle.;0.0;0.0;0.0;0.84994638;0.85904592;0.85447192;0.32187772;0.8823303
+0172.jpg;Pluoštinių kanapių gaminami aukštos kokybės sertifikuoti ingredientai;Hemp and pumpkin seeds & products on display.;0.0;0.0;0.0;0.83575368;0.81247246;0.82394862;0.14294302;0.36783406
+0173.jpg;Achemos gamykla;Large industrial complex with pipes, tanks, and smokestacks.;0.0;0.0;0.0;0.80297816;0.80700135;0.80498475;0.11696349;0.23606665
+0174.jpg;Laivų terminale stovintis laivas;LNG carrier Independence docked at a terminal for unloading.;0.0;0.0;0.0;0.84460747;0.85133916;0.84795994;0.4091177;0.72763926
+0175.jpg;Jūros vėjo parkas;Offshore wind farm harnessing clean energy from the sea.;0.0;0.0;0.0;0.84318399;0.85846019;0.85075349;0.33649832;0.74242383
+0176.jpg;Naftos gavyba ir energijos gamyba;Oil pump and wind turbines represent energy transition challenges.;0.0;0.0;0.0;0.83047545;0.8409003;0.83565533;0.31188899;0.66967404
+0177.jpg;Orion erdvėlaivio užfiksuotas Mėnulio vaizdas;Apollo spacecraft views a cratered Moon from space.;0.0;0.0;0.0;0.83990836;0.84796822;0.84391904;0.17533545;0.86434472
+0178.jpg;Jauniūnų dujų kompresorių stotis;Yellow pipelines and industrial equipment at a gas compression station.;0.0;0.0;0.0;0.84311503;0.85040206;0.84674287;0.22719778;0.71366644
+0179.jpg;Naftos gręžiniai Šiaurės Jūroje;Oil rigs silhouetted against a vibrant, colorful sunset sky.;0.0;0.0;0.0;0.80206519;0.81571794;0.80883402;0.10781633;0.61904389
+0180.jpg;Parduotuvės LIDL logotipas;"Lidl supermarket storefront with iconic red circle logo visible.
+
+
+
+";0.0;0.13888889;0.15384615;0.83611035;0.83350313;0.83480471;0.46036357;0.66411632
+0181.jpg;Parduotuvės IKEA logotipas;IKEA: Affordable, stylish furniture for modern living spaces.;0.0;0.0;0.16666667;0.81818402;0.85089189;0.83421743;0.21220046;0.65938443
+0182.jpg;Parduotuvės Aibė logotipas;Aibė store front with illuminated signage and glass windows.;0.0;0.13888889;0.15384615;0.82068729;0.84180242;0.83111084;0.25770003;0.71298599
+0183.jpg;Vilniaus prekyba logotipas;Vilniaus Prekyba sign on a white wall with blue frame.;0.0;0.50675676;0.30769231;0.81572777;0.87424678;0.84397411;0.43252742;0.66516042
+0184.jpg;Lora klausos centras;Hearing aid center with modern interior and product display.;0.0;0.0;0.0;0.81159824;0.83840013;0.82478148;0.17421551;0.55160928
+0185.jpg;Revolut logotipas ant pastato;Revolut’s new London headquarters building is strikingly modern.;0.0;0.0;0.15384615;0.83355755;0.85193396;0.84264559;0.2646212;0.45941889
+0186.jpg;Nvidia logotipas ant pastato;NVIDIA headquarters building with logo against a blue sky.;0.0;0.11111111;0.15384615;0.82947159;0.84725165;0.83826739;0.49282032;0.79334581
+0187.jpg;Bitcoin logotipas;Bitcoin: The leading cryptocurrency, a digital and decentralized currency.;0.0;0.0;0.18181818;0.82538247;0.86921692;0.8467328;0.1589312;0.73870683
+0188.jpg;Deepseek logotipas;DeepSeek logo: an elephant within a rounded square.;0.0;0.19230769;0.2;0.82021201;0.86203086;0.84060162;0.51685119;0.5927099
+0189.jpg;Oracle logotipas ant pastato;"Oracle building signage against a clear blue sky.
+
+
+
+";0.0;0.11363636;0.16666667;0.85563242;0.86939299;0.86245781;0.36555165;0.78058016
+0190.jpg;Tik tok logotipas ant pastato;TikTok logo displayed on the side of a building.;0.0;0.0;0.0;0.8302331;0.8383463;0.83427;0.5701257;0.74243045
+0191.jpg;Nexos.ai logotipas;Nexos.ai: Innovative artificial intelligence solutions for a smarter future.;0.0;0.0;0.30769231;0.82266331;0.88254237;0.85155153;0.22925384;0.46012452
+0192.jpg;Nord Security logotipas ant sienos;Nord Security logo displayed on a white wall.;0.0;0.35377358;0.30769231;0.86307991;0.86757195;0.86532015;0.64631504;0.93913084
+0193.jpg;3D biotechnologinio spausdinimo technologija;Bioprinting creates tissue-like structures layer by layer with cells.;0.0;0.0;0.0;0.85361624;0.87418509;0.86377823;0.09916402;0.63651752
+0194.jpg;Naujosios AirPods Pro 3 ausinės;Apple AirPods Pro wireless earbuds in their charging case.;0.0;0.34722222;0.26666667;0.86035132;0.88544989;0.87272018;0.3415097;0.82337087
+0195.jpg;Microsoft įmonės logotipas ant pastato;Microsoft headquarters building with iconic logo displayed prominently.;0.0;0.09433962;0.14285714;0.8503505;0.86719882;0.85869199;0.54958296;0.90231228
+0196.jpg;Mediniai stalo įrankiai dėžutėje;Wooden spoons in a metal bucket, eco-friendly tableware.;0.0;0.0;0.0;0.85487241;0.86554098;0.86017358;0.15864626;0.71800488
+0197.jpg;Restoranas La pasta makaronų namai;La pasta restaurant with outdoor seating and string lights.;0.0;0.34722222;0.28571429;0.8340742;0.85272014;0.84329414;0.47999364;0.81673032
+0198.jpg;Dronas danguje virš medžių;"Foodora drone delivers food through the sky and trees.
+
+
+
+";0.0;0.0;0.0;0.83870161;0.85509592;0.84681934;0.41994852;0.72351456
+0199.jpg;Ilte logotipas prie sienos;"Large, freestanding letters spell out the word “ilte”.
+
+
+
+";0.0;0.0;0.16666667;0.79314029;0.80045569;0.79678124;0.081275;0.54311454
+0200.jpg;Automobilių stovėjimo aikštelė;Large parking lot filled with many cars and vehicles.;0.0;0.0;0.0;0.87885314;0.86784101;0.87331241;0.45587683;0.82552928
+0201.jpg;Automobilių stovėjimo aikštelė;Aerial view of a busy parking lot with many cars.;0.0;0.0;0.0;0.85191661;0.85949087;0.85568702;0.37485021;0.79078746
+0202.jpg;Automobilių stovėjimo aikštelė;Large car park with city skyline in the background.;0.0;0.0;0.0;0.86055815;0.86454153;0.86254525;0.31052691;0.7761665
+0203.jpg;Policijos automobilio sirenos;"Police vehicle with flashing lights, responding to an emergency.
+
+
+
+";0.0;0.0;0.0;0.81785643;0.84087342;0.82920527;0.3539539;0.72487742
+0204.jpg;Lėkštės su maistu ir pinigai lėkštėje;Leftover cake and a twenty euro bill on a table.;0.0;0.0;0.0;0.85531271;0.86415064;0.85970896;0.11729468;0.58589137
+0205.jpg;Bulvių salotos indelyje su šauktu;Classic potato salad with ham, peas, and fresh parsley.;0.0;0.0;0.0;0.82434654;0.82792997;0.82613438;0.08161522;0.83400148
+0206.jpg;Moteris guli tarp pinigų ir rankose laiko pinigus;"Child happily surrounded by and holding euro banknotes.
+
+
+
+";0.0;0.0;0.0;0.86134291;0.87207729;0.86667687;0.10909775;0.41909787
+0207.jpg;Skubios medicininės pagalbos skyrius;Emergency department: healthcare professionals assisting a patient down the hall.;0.0;0.0;0.0;0.82787406;0.82277882;0.82531857;0.20201123;0.79293418
+0208.jpg;Skubios medicininės pagalbos skyrius;Hospital ward with beds and a healthcare worker attending to a patient.;0.0;0.0;0.0;0.82903636;0.80928564;0.81904197;0.20528679;0.71057057
+0209.jpg;Organizuotas paciento pervežimas iš įvykio vietos į aukštesnio lygio ligoninę;"Paramedics transport a patient on a stretcher outdoors.
+
+
+
+";0.0;0.0;0.0;0.83591336;0.82770324;0.831788;0.19167143;0.64550871
+0210.jpg;Tablečių lapelis ir pakelis laikomas rankose;"Prescription medication in a blister pack and its box.
+
+
+
+";0.0;0.0;0.0;0.83077633;0.81831944;0.82450086;0.16800664;0.34041816
+0211.jpg;Skirtingų vaistų lapeliai;"Various medications displayed on a wooden surface with a hand.
+
+
+
+";0.0;0.0;0.0;0.83013201;0.82984233;0.82998711;0.21210748;0.73165023
+0212.jpg;Skirtingų vaistų lapeliai;"Medication and pills on a wooden table, healthcare concept.
+
+
+
+";0.0;0.0;0.0;0.82956886;0.83073306;0.83015054;0.08862688;0.74342406
+0213.jpg;Vaistų lapeliai rankoje;"Hand holding blister packs of yellow and white pills.
+
+
+
+";0.0;0.0;0.0;0.83885086;0.83161938;0.8352195;0.19670501;0.70177561
+0214.jpg;Moteris valosi veidą nuo kosmetikos;Self-care routine: removing makeup and enjoying a peaceful moment.;0.0;0.0;0.0;0.82603681;0.82515001;0.82559317;0.11955409;0.72040218
+0215.jpg;Moteris tepasi veidą kremu;Woman examining skin and applying cream in mirror.;0.0;0.0;0.0;0.84306818;0.8393293;0.84119463;0.27946112;0.87422097
+0216.jpg;Vėžio ląstelė;"Cancer cells invading and spreading through healthy tissue.
+
+
+
+";0.0;0.0;0.0;0.82153994;0.86233974;0.84144562;0.2366665;0.51212704
+0217.jpg;Vėžio ląstelė;"Cancer cell with invasive pseudopodia extending into surrounding tissue.
+
+
+
+";0.0;0.0;0.0;0.82503569;0.86168075;0.84296012;0.248413;0.47757122
+0218.jpg;Žmogaus ranka imanti veido kaukę;Person taking a disposable face mask from a box.;0.0;0.0;0.0;0.82025433;0.82112384;0.8206889;0.28800711;0.71848398
+0219.jpg;Vyras su puodeliu rankose ir laikantis gerklę;Man with a sore throat drinks warm tea.;0.0;0.0;0.0;0.84995306;0.83268023;0.84122801;0.04564433;0.76410037
+0220.jpg;Elektronikos atliekos;E-waste pile: a growing environmental and health hazard.;0.0;0.0;0.0;0.8131004;0.83189481;0.82239026;0.11943635;0.50375372
+0221.jpg;Kalakutai garde;Young white turkeys gather in a rustic, wood-chip enclosure.;0.0;0.0;0.0;0.80919743;0.82366204;0.81636566;0.09247018;0.15089975
+0222.jpg;Daug vištų kieme;A large flock of chickens foraging in a farmyard.;0.0;0.0;0.0;0.83028114;0.82127458;0.82575333;0.09947909;0.888143
+0223.jpg;Gaidys uždarytas narve su višta;Chickens and a rooster in a coop with hay.;0.0;0.0;0.0;0.85129017;0.81436157;0.83241647;0.03195544;0.74869394
+0224.jpg;Žmonės einantis kelkraščiu;People walking along a road near trees and cars.;0.0;0.0;0.0;0.83545136;0.84382915;0.8396194;0.29108506;0.64793879
+0225.jpg;Ledų gaminimo aparatas;Ice cream cones being filled on a factory production line.;0.0;0.0;0.0;0.83705282;0.85554904;0.84619981;0.26032493;0.79689538
+0226.jpg;Koncerto klausosi žmonės;Orchestra performing for a large, attentive audience in a hall.;0.0;0.0;0.0;0.82987881;0.8213582;0.82559651;0.30434281;0.68642378
+0227.jpg;Koncertuojantys muzikantai;Orchestra performing music on stage with a conductor leading.;0.0;0.0;0.0;0.83002722;0.84342182;0.83667088;0.53134823;0.6451053
+0228.jpg;Droną bando numušti karys;Countering drones with anti-drone technology for security and defense.;0.0;0.0;0.0;0.823439;0.81521994;0.81930882;0.28733417;0.5055747
+0229.jpg;Žmogus laikantis už nugaros kėdėje;Man experiencing back pain while sitting at a desk.;0.0;0.0;0.0;0.84747642;0.8450892;0.84628111;0.14338064;0.57552516
+0230.jpg;Moteris susiėmusi už nugaros kelyje;"Back pain while walking outdoors; seeking relief and support.";0.0;0.0;0.0;0.81946135;0.80869871;0.81404448;0.04547905;0.4651247
+0231.jpg;Automobilių eismas kelyje;Heavy traffic congestion on a city street with vehicles.;0.0;0.0;0.0;0.83800983;0.84100592;0.8395052;0.33338875;0.84446639
+0232.jpg;Medaus stiklainis prie žiedadulkių;Golden honey, beeswax, and wildflowers – nature’s sweet gifts.;0.0;0.0;0.0;0.81744885;0.82812256;0.82275105;0.18832874;0.70993632
+0233.jpg;Humusas lėkštėje su šaukšteliu;Muhammara: A spicy Middle Eastern red pepper and walnut dip.;0.0;0.0;0.0;0.84578323;0.8538394;0.84979218;-0.00238544;0.65533847
+0234.jpg;Žmonių protestai prie pastato;Protestors demonstrate against Arizona policies with smoke and a balloon.;0.0;0.0;0.0;0.84173822;0.8281154;0.83487123;0.27167368;0.65315121
+0235.jpg;Žmonių protestai prie pastato;Protest with sign depicting a man with a gun.;0.0;0.0;0.0;0.84277153;0.83335543;0.83803701;0.30214182;0.68027294
+0236.jpg;Žmonės protestuojantys su plakatais;Protest against the targeting of the unemployed in France.;0.0;0.0;0.0;0.83934259;0.84942299;0.84435272;0.27215177;0.72567803
+0237.jpg;Daug kiaulių garde;Confined pigs in a factory farm endure harsh conditions.;0.0;0.0;0.0;0.81451404;0.84171975;0.82789344;0.09427747;0.69899267
+0238.jpg;Iqos elektroninės cigaretės ir cigarečių nuorūkos lėkštėje;Discarded cigarettes and a pack of tobacco in an ashtray.;0.0;0.0;0.0;0.84708679;0.85407227;0.8505652;0.46863258;0.72487801
+0239.jpg;Rankoje laikoma cigaretė automobilyje;"Smoking while driving is dangerous and harmful to health.
+
+
+
+";0.0;0.0;0.0;0.830854;0.83775073;0.83428812;0.23467681;0.59256196
+0240.jpg;Traktorius dirbantis ūkyje;Farm work: A tractor pulls a large, muddy tanker.;0.0;0.0;0.0;0.84164655;0.87529534;0.8581413;0.31827343;0.72104198
+0241.jpg;Moteris dirbanti valgykloje tiekia maistą;Chef stirring a large pot in a professional kitchen.;0.0;0.0;0.0;0.83631587;0.83180887;0.83405626;0.14335652;0.37275523
+0242.jpg;Moteris dirbanti valgykloje laiko rankoje lėkštę su maistu;Chef plating a meal with rice, beet salad, and meat.;0.0;0.0;0.0;0.86138159;0.85259438;0.85696548;0.16160288;0.49900705
+0243.jpg;Pistoletas ir asmens kortelės;"A silver handgun in a worn leather holster.
+
+
+
+";0.0;0.0;0.0;0.82941443;0.84536338;0.83731294;0.23408408;0.70308566
+0244.jpg;Peilis rankoje;"Dangerous weapon, knife held in a threatening manner.
+
+
+
+";0.0;0.0;0.0;0.80688059;0.81543094;0.81113321;0.21935709;0.78321278
+0245.jpg;Povandeninis laivas jūroje;Russian submarine surfaces with crew members on deck.;0.0;0.0;0.0;0.82677805;0.81914055;0.82294154;0.21672237;0.72948456
+0246.jpg;Sudegęs autobusas ir prie jo stovintys žmonės;"Wreckage of a plane crash in Afghanistan; investigation ongoing.";0.0;0.0;0.0;0.84922457;0.83325875;0.8411659;-0.05742497;0.11988904
+0247.jpg;Migruojantys paukščiai skrenda danguje;Birds flying in a V-formation against a clear blue sky.;0.0;0.0;0.0;0.83232236;0.83846414;0.83538198;0.25873256;0.82446164
+0248.jpg;Migruojantys paukščiai skrenda danguje;A flock of birds flying in a blue sky.;0.0;0.0;0.0;0.85617322;0.84932494;0.85273528;0.26295942;0.83042848
+0249.jpg;Baltymų milteliai indelyje;Pea protein powder: a healthy and versatile supplement option.;0.0;0.0;0.0;0.83248413;0.84587795;0.83912754;0.187142;0.65086687
+0250.jpg;Žmogus sėdintis ant suoliuko su neregio lazdele;"Person with a white cane resting on a bench.
+
+
+
+";0.0;0.0;0.0;0.86851382;0.84368581;0.85591978;0.11906166;0.62812197
+0251.jpg;Arbatos puodelis laikomas rankose;Warm hands, warm drink, cozy moment of peace.;0.0;0.0;0.0;0.81599641;0.81473207;0.81536376;0.12456752;0.56196517
+0252.jpg;Sirupas nuo kosulio pilamas į šaukštelį;Liquid medicine being poured onto a spoon for dosage.;0.0;0.0;0.0;0.85209394;0.85253412;0.85231405;0.11007861;0.74780107
+0253.jpg;Mėsainis su bulvytėmis;Delicious burger with fries and a refreshing drink.;0.0;0.0;0.0;0.83967865;0.8225776;0.83104014;0.10301644;0.60267186
+0254.jpg;Moteris pučiasi nosį prie arbatos puodelio;Feeling unwell with a cold, enjoying tea and tissues.;0.0;0.0;0.0;0.83194661;0.83324218;0.83259386;0.15378228;0.61999333
+0255.jpg;Žmonės valgantys maistą restorane su vyno taurėmis;Friends enjoying a delicious meal and red wine together.;0.0;0.0;0.0;0.85275877;0.8632319;0.85796338;0.33696425;0.82480997
+0256.jpg;Bakterijos organizme;Microscopic view of bacteria, potential pathogens causing illness or disease.;0.0;0.0;0.0;0.79598147;0.826478;0.81094313;0.38646466;0.79376704
+0257.jpg;Kepenų sveikata;"Human liver with digital data streams and green background.
+
+
+
+";0.0;0.0;0.0;0.79930514;0.8058241;0.80255139;0.04857549;0.41485938
+0258.jpg;Vaizdo stebėjimo kamera;Security camera mounted on a tiled exterior wall.;0.0;0.0;0.0;0.86314309;0.88674468;0.87478477;0.38833338;0.73402303
+0259.jpg;Išvartyti šiukšlių konteineriai gatvėje;Trash cans overturned on a dimly lit street at night.;0.0;0.0;0.0;0.86436582;0.88836235;0.87619978;0.16981433;0.7284795
+0260.jpg;Vandens gręžinio vamzdis ir iš jo bėgantis vanduo;Water gushes from a broken blue pipe in the ground.;0.0;0.0;0.0;0.8363843;0.84554112;0.84093779;0.30864376;0.76424581
+0261.jpg;Iš puodelio pilamas vanduo į kibirą;Water pours from a mug into a bucket.;0.0;0.0;0.0;0.87275499;0.87532181;0.87403649;0.3098813;0.87514019
+0262.jpg;Žmogaus širdies sistema;Atherosclerosis: Plaque buildup narrows arteries, restricting blood flow to heart.;0.0;0.0;0.0;0.79266125;0.80990183;0.80118877;0.15183353;0.54437464
+0263.jpg;Tamsoje deganti žvakė;A single candle flame glows brightly in the darkness.;0.0;0.0;0.0;0.85485888;0.8473469;0.85108632;0.14982308;0.92235845
+0264.jpg;Įvairių automobilių padangų krūva;"Pile of used tires awaiting recycling or repurposing.
+
+
+
+";0.0;0.0;0.0;0.82991886;0.83508068;0.83249176;0.08603117;0.80986822
+0265.jpg;Rauginti kopūstai indelyje;Traditional Polish sauerkraut with carrots, a flavorful side dish.;0.0;0.0;0.0;0.81223029;0.79369473;0.80285555;0.06045997;0.57112557
+0266.jpg;Greitosios pagalbos automobilis;Lithuanian ambulance providing urgent medical assistance and help.;0.0;0.0;0.0;0.83505303;0.84128255;0.83815622;0.30326477;0.77439356
+0267.jpg;Daugiabučio laiptinė ir durys;Indoor staircase with tiled steps and a metal railing.;0.0;0.0;0.0;0.84461743;0.84426898;0.84444314;0.04628731;0.82414502
+0268.jpg;Seimo posėdžių salė;Lithuanian Parliament hall during a session with members present.;0.0;0.0;0.0;0.82683563;0.82734907;0.82709223;0.15036362;0.82617599
+0269.jpg;Karvė žvelgianti į kamerą;Cow with flies, surrounded by herd, under blue sky.;0.0;0.0;0.0;0.83979297;0.83643299;0.83810967;0.11143221;0.6526953
+0270.jpg;Darbininkai atlieka remontą;Workers installing flooring in a room with large windows.;0.0;0.0;0.0;0.84784865;0.87826812;0.86279035;0.12765361;0.66573989
+0271.jpg;Senyvo amžiaus moteris neša maišus;Elderly woman with shopping cart and colorful attire walks by sushi shop.;0.0;0.0;0.0;0.81051737;0.84671009;0.82821846;0.05438481;0.60942352
+0272.jpg;Senyvo amžiaus moteris apsiperka turguje;Elderly woman shopping at a market stall with groceries.;0.0;0.0;0.0;0.85343182;0.84939122;0.85140675;0.20219867;0.89961249
+0273.jpg;Nerūkymo zonos ženklas;No smoking allowed in this area.;0.0;0.0;0.0;0.88052797;0.88132876;0.88092816;0.1050873;0.70768178
+0274.jpg;Saulės ir vėjo energijos parkas;Renewable energy sources: wind turbines and solar panels coexist.;0.0;0.0;0.0;0.84392297;0.87224787;0.85785174;0.52877772;0.73857462
+0275.jpg;Lauke grėbiami medžių lapai;Autumn leaves and a blue rake on the lawn.;0.0;0.0;0.0;0.83648825;0.83578503;0.83613646;0.17901745;0.77171779
+0276.jpg;Rudenį ant suoliuko sėdintys žmonės;An elderly man enjoys autumn on a park bench.;0.0;0.0;0.0;0.87162256;0.87669402;0.87415093;0.31865394;0.4633407
+0277.jpg;Žmogus balina medžio kamieną;Whitewashing a tree trunk for sun protection and health.;0.0;0.0;0.0;0.83281779;0.85542893;0.84397191;0.106322;0.40515774
+0278.jpg;Greičio matuoklis matuoja automobilių greitį;"Speed camera monitoring traffic for violations on the roadway.
+
+
+
+";0.0;0.0;0.0;0.84376466;0.84932542;0.84653586;0.21805087;0.70668721
+0279.jpg;Formulės 1 lenktynės;Formula 1 race start with a large crowd watching.;0.0;0.13888889;0.14285714;0.86344439;0.91124046;0.88669878;0.4018912;0.7296921
+0280.jpg;Moteris prie Sodra pastato logotipo;SoDra building in Vilnius, Lithuania, with a woman walking by.;0.0;0.09090909;0.13333333;0.83034527;0.84529376;0.83775288;0.15974127;0.69051039
+0281.jpg;Seimo posėdžių salė;Lithuanian Parliament hall with desks and flags visible.;0.0;0.0;0.0;0.83315688;0.8236782;0.82839042;0.08058018;0.79925352
+0282.jpg;Žmonių minia prie automobilio;Red Cross vehicle surrounded by people in a damaged area.;0.0;0.0;0.0;0.84114921;0.84914517;0.84512824;0.36461219;0.59427321
+0283.jpg;Ant grindų padėta karūna;A golden crown rests on a wooden surface.;0.0;0.0;0.0;0.84940946;0.86436272;0.85682082;0.19249073;0.64157736
+0284.jpg;Vyras šaudo iš ginklo;Aleksandar Vučić practices shooting with an AR-15 style rifle.;0.0;0.0;0.13333333;0.82111841;0.85072196;0.83565807;0.10386569;0.7064122
+0285.jpg;Lietuvos Respublikos Seimo pastatas;Council of Europe headquarters in Strasbourg, France.;0.0;0.0;0.0;0.82050967;0.8294208;0.82494116;0.0331454;0.38425836
+0286.jpg;Naikintuvai danguje;Belgian Air Force F-16 and Eurofighter Typhoon in flight.;0.0;0.0;0.0;0.80549312;0.80615354;0.80582321;0.05953887;0.19494852
+0287.jpg;Žalgirio klinikos pastatas;Vilnius University Hospital Santariski Clinics, Lithuania.;0.0;0.0;0.0;0.85876167;0.91779858;0.88729912;0.43559036;0.56660724
+0288.jpg;Daktarai operuoja žmogų;Doctors perform a medical procedure in a hospital operating room.;0.0;0.0;0.0;0.83945566;0.84165215;0.84055251;0.29514849;0.86826885
+0289.jpg;Odontologas taiso dantis;Dental procedure in progress with tools and patient's open mouth.;0.0;0.0;0.0;0.81788063;0.8310551;0.82441521;0.15179639;0.85410023
+0290.jpg;Lieptelis ant tvenkinio kranto;"Dilapidated wooden platform stands in murky wetland waters.
+
+
+
+";0.0;0.0;0.0;0.80402339;0.80899864;0.8065033;0.16605741;0.67705196
+0291.jpg;Žmonės apsiperka vaistinėje;People at a pharmacy counter waiting to be served.;0.0;0.0;0.0;0.84209836;0.82989824;0.83595377;0.3457849;0.80158007
+0292.jpg;Seselė einanti ligoninės koridoriumi;Doctor walking down a long hospital hallway.;0.0;0.0;0.0;0.83520424;0.83918279;0.83718884;0.27136663;0.82031393
+0293.jpg;Žmogus laikantis telefoną rankose prie kompiuterio;Cybersecurity threat: phone and laptop surrounded by warning signs.;0.0;0.0;0.0;0.83246845;0.82719296;0.8298223;0.21098016;0.5129115
+0294.jpg;Žmogus rašantis kompiuteriu;Cybersecurity threat: System hack warning and data breach risk.;0.0;0.0;0.0;0.79990888;0.82691038;0.81318557;0.07202928;0.23782933
+0295.jpg;Žmogus laikantis kavos puodelį ir telefoną rankose;ChatGPT on a phone with a coffee nearby.;0.0;0.0;0.0;0.82221878;0.812033;0.81709409;0.24501441;0.77607983
+0296.jpg;Sąnarių skausmas ir uždegimas;Knee pain: a common issue with many possible causes.;0.0;0.0;0.0;0.85346824;0.86241293;0.85791725;0.12468526;0.70801777
+0297.jpg;Moteris gulinti lovoje, miega;Peaceful sleep is essential for a healthy mind and body.;0.0;0.0;0.0;0.82175291;0.80032635;0.81089813;0.1350385;0.45434627
+0298.jpg;Rankose laikomas papildų buteliukas ir tabletė rankose;Taking daily vitamins for health and wellness support.;0.0;0.0;0.0;0.82863873;0.81967032;0.82413018;0.07962285;0.32872376
+0299.jpg;Visi zodiako ženklai;Zodiac constellations illuminate the night sky with celestial beauty.;0.0;0.0;0.0;0.81995553;0.85038388;0.83489257;0.24501505;0.6945312
+0300.jpg;Ranka prijungta prie lašelinės ir sensorių;Patient receiving medical care with IV and monitoring devices.;0.0;0.0;0.0;0.83254242;0.82902598;0.83078051;0.17335038;0.48826933
+0301.jpg;Moteris mieganti lovoje;Peaceful sleep is essential for a healthy mind and body.;0.0;0.0;0.0;0.81898248;0.80007833;0.80942005;0.1627121;0.40048885
+0302.jpg;Senas šulinys pievoje;Old well with a wooden crank and bucket system.;0.0;0.0;0.0;0.82857609;0.82351547;0.82603806;0.13164808;0.55545014
+0303.jpg;Ugniagesių automobilis prie tvoros;Fire trucks respond to an emergency in a wooded area.;0.0;0.0;0.0;0.85212255;0.84319699;0.84763628;0.24474294;0.68057352
+0304.jpg;Cukrus ir medus;Sugar versus honey: Sweeteners with different nutritional profiles.;0.0;0.0;0.0;0.83062565;0.85122764;0.84080046;0.20564458;0.85471189
+0305.jpg;Medus, cinamonas ir citrina;Honey, lemons, cinnamon, and star anise – a sweet treat.;0.0;0.0;0.0;0.84740949;0.86936826;0.85824841;0.38341415;0.84456205
+0306.jpg;Morkos rankose ir kitos daržovės;Freshly harvested carrots with greens, from the garden.;0.0;0.0;0.0;0.82600057;0.84787852;0.83679652;0.17927906;0.84056109
+0307.jpg;Kraujospūdžio matavimas;Checking blood pressure with a digital monitor at home.;0.0;0.0;0.0;0.84613544;0.82436687;0.83510935;0.14998919;0.51099819
+0308.jpg;Ciberžolės gėrimas;Golden turmeric drink for health and wellness benefits.;0.0;0.0;0.0;0.84391809;0.84120542;0.84255964;0.13656661;0.71393186
+0309.jpg;Motina žindo kūdikį;A mother lovingly nurses her newborn baby.;0.0;0.0;0.0;0.83121836;0.85036737;0.84068382;0.11779626;0.84523875
+0310.jpg;Mama maitina naujagimį krūtimi;Mother breastfeeding her baby, a beautiful and natural moment.;0.0;0.0;0.0;0.84996533;0.85531336;0.85263097;0.3323105;0.89896631
+0311.jpg;Mama maitina naujagimį krūtimi;A baby peacefully nursing, content and close to mom.;0.0;0.0;0.0;0.84181774;0.84268129;0.84224933;0.29026803;0.77500606
+0312.jpg;Prie ligonio rankos prijungta lašelinė;Patient receiving intravenous fluids while resting in a hospital bed.;0.0;0.0;0.0;0.84605438;0.84660345;0.84632879;0.14810239;0.5694226
+0313.jpg;Gydytojas operacinėje su sesele;Surgical team working diligently in a sterile operating room.;0.0;0.0;0.0;0.85269237;0.8410244;0.84681815;0.37056753;0.74647874
+0314.jpg;Į kamerą nutaisytas ginklas;"Gun violence is a serious issue with devastating consequences.
+
+
+
+";0.0;0.0;0.0;0.83499855;0.82052112;0.8276965;0.02639466;0.42146477
+0315.jpg;Traktorius dirba laukuose;"John Deere 8330 tractor plowing a field for crops.
+
+
+
+";0.0;0.0;0.0;0.84441972;0.86169505;0.85296988;0.28902858;0.82339102
+0316.jpg;Sprogimo dūmai danguje;Massive explosion sends fiery debris and smoke into the sky.;0.0;0.0;0.0;0.82753503;0.80837822;0.81784445;0.30780345;0.8300938
+0317.jpg;Žmogus dirba naftos perdirbo gamykloje;Worker adjusts valves at a Rosneft oil facility in winter.;0.0;0.0;0.0;0.83876044;0.83864814;0.83870429;0.18143994;0.65487748
+0318.jpg;Alyvuogių aliejus pilamas į indelį;Golden olive oil pouring into a glass dish.;0.0;0.0;0.0;0.84240979;0.82739258;0.83483362;0.36404702;0.81838948
+0319.jpg;Kryžius ant pastato viršau;Church cross silhouetted against a beautiful blue sky.;0.0;0.0;0.0;0.83297712;0.84253156;0.83772707;0.2587162;0.76793885
+0320.jpg;Migrantai jūroje plaukia valtimi;Migrants in a dinghy are assisted by a coast guard vessel.;0.0;0.0;0.0;0.84874833;0.85033637;0.8495416;0.33186102;0.84719831
+0321.jpg;Keliu bėgantis lokys;"Bear walking down the road, be careful driving!
+
+
+
+";0.0;0.0;0.0;0.81240547;0.82424927;0.81828451;0.12400184;0.60920405
+0322.jpg;Naujagimio kojos;Tiny toes, sweet dreams, and a whole lot of love.;0.0;0.0;0.0;0.81422073;0.81351095;0.81386566;0.0497813;0.4863171
+0323.jpg;Hamas kovotojai;Armed militants display weapons in front of a mosque.;0.0;0.0;0.0;0.82374465;0.85495794;0.83906108;0.23977029;0.53547078
+0324.jpg;Eurofighter naikintuvas skrendantis danguje;"German Eurofighter Typhoon soaring through a clear blue sky.
+
+
+
+";0.0;0.11111111;0.15384615;0.83156824;0.80002952;0.81549406;0.37929213;0.70664012
+0325.jpg;Asmuo su negalia kieme;Person in wheelchair enjoying a walk in the park.;0.0;0.0;0.0;0.84215444;0.85749304;0.84975457;0.06506769;0.69475108
+0326.jpg;Uodas ant augalo lapų;A mosquito rests on a vibrant green blade of grass.;0.0;0.0;0.0;0.84074235;0.85019076;0.84544015;0.11399779;0.50819433
+0327.jpg;Telefono sim kortelė;"Close-up of a SIM card and phone connector.
+
+
+
+";0.0;0.14285714;0.16666667;0.84637535;0.86817324;0.85713571;0.58378088;0.87406725
+0328.jpg;Teisingumas, skulptūra;Lady Justice: fairness, truth, and law prevail for all.;0.0;0.0;0.0;0.83659816;0.85130715;0.84388858;0.11249642;0.63233131
+0329.jpg;Vairuotojo pažymėjimas su automobilio rakteliais;Road trip essentials: keys, license, and a map!;0.0;0.0;0.0;0.84536409;0.84495437;0.84515917;0.14165446;0.65169215
+0330.jpg;Teismas, skulptūra;Lady Justice: symbol of fairness, truth, and the law.;0.0;0.0;0.0;0.83793867;0.86306816;0.85031778;0.10976969;0.55253518
+0331.jpg;Kepti briuseliniai kopūstai;Roasted Brussels sprouts with rosemary and lemon—delicious and healthy!;0.0;0.0;0.0;0.84027076;0.86853683;0.85417002;0.16469273;0.60626131
+0332.jpg;Mažas laikrodis rankose;"Time is precious; make every moment count today.";0.0;0.0;0.0;0.81204385;0.78762996;0.79965067;0.05990577;0.4059608
+0333.jpg;Minia žmonių Kalėdų eglės įžiebime;Crowd gathers for a festive Christmas celebration with lights.;0.0;0.0;0.0;0.83278692;0.81873262;0.82569999;0.23103485;0.86520523
+0334.jpg;Žvejojimas ežere su valtimi;Peaceful fishing at sunset—a perfect autumn day on the water.;0.0;0.0;0.0;0.83632803;0.82883394;0.83256412;0.09088726;0.66089982
+0335.jpg;Moliūgų sausainiai su riešutais ir šokoladu;Delicious chocolate chip pumpkin cookies, perfect for fall baking!;0.0;0.0;0.0;0.83994299;0.83206844;0.83598715;0.16553347;0.75187474
+0336.jpg;Migdolų riešutų kekė ant medžio;Almonds growing on the tree, still in their shells.;0.0;0.0;0.0;0.8220917;0.82195866;0.82202518;0.09348657;0.74408829
+0337.jpg;Pyragas pabarstytas cukraus pudra;Moist gingerbread squares dusted with powdered sugar, perfect for fall.;0.0;0.0;0.0;0.81551957;0.8176775;0.81659716;0.38659242;0.72757816
+0338.jpg;Moliūgų braunis lėkštėje;Rich, fudgy brownies—a perfect treat for any chocolate lover.;0.0;0.0;0.0;0.84033185;0.85947973;0.84979796;0.26560569;0.5359326
+0339.jpg;Seselė laikanti skiepo švirkštą;Healthcare worker preparing a syringe for vaccination or injection.;0.0;0.0;0.0;0.84618282;0.85608214;0.85110366;0.10895644;0.70690036
+0340.jpg;Kruasanai su moliūgų įdaru;Pumpkin crescent rolls with powdered sugar—a delightful autumn treat!;0.0;0.0;0.0;0.82550371;0.82702154;0.82626194;0.24413911;0.60183793
+0341.jpg;Nektarinų pyragas;Delicious peach cake, perfect for a summer treat!;0.0;0.0;0.0;0.84606934;0.84478951;0.84542888;0.0163771;0.71087778
+0342.jpg;COVID-19 vakcina;COVID-19 Coronavirus Vaccine vials ready for distribution and use.;0.0;0.18518519;0.30769231;0.84068465;0.88172638;0.86071658;0.63320994;0.77709734
+0343.jpg;Aronijų keksiukai;Delicious blueberry muffins, freshly baked and dusted with powdered sugar.;0.0;0.0;0.0;0.80574954;0.8399213;0.82248062;0.11483169;0.52806967
+0344.jpg;COVID-19 testas;Positive COVID-19 rapid antigen test result shown in image.;0.0;0.18518519;0.30769231;0.85676479;0.90606314;0.88072473;0.58408034;0.78366876
+0345.jpg;Cukinijų vafliai su graikišku padažu;Savory zucchini waffles with dill yogurt—a delicious, healthy meal!;0.0;0.0;0.0;0.8455019;0.85640693;0.85091949;0.2544888;0.57008094
+0346.jpg;Trupininis juodųjų serbentų pyragas;Delicious blackcurrant crumble pie with a golden, crumbly topping.;0.0;0.0;0.0;0.82859957;0.83817184;0.83335823;0.29112765;0.72614133
+0347.jpg;Miesto daugiabučiai;Aerial view of apartment buildings and surrounding infrastructure.;0.0;0.0;0.0;0.83074045;0.82944196;0.83009064;0.21838519;0.76777011
+0348.jpg;Naftos perdirbimo gamykla;Industrial facility with large tanks and complex piping systems.;0.0;0.0;0.0;0.82243013;0.81868041;0.82055098;0.08870356;0.54025739
+0349.jpg;Daug kiaušinių;Fresh eggs in a carton, ready for breakfast.;0.0;0.0;0.0;0.82113552;0.84568912;0.83323151;0.068758;0.75858891
+0350.jpg;Vėžlys dėžėje;A large turtle rests inside a cardboard box.;0.0;0.0;0.0;0.83373052;0.82917815;0.83144808;0.06644835;0.57116419
+0351.jpg;Vilkas staugia miške;"A lone wolf howls amidst the snowy forest trees.
+
+
+
+";0.0;0.0;0.0;0.80206192;0.83114243;0.81634331;0.17276852;0.69819176
+0352.jpg;Vyras laikantis termometrą ir susiėmęs už gerklės;Man feeling unwell, possibly with a sore throat.;0.0;0.0;0.0;0.84554207;0.82326567;0.83425522;0.11586618;0.55124098
+0353.jpg;Maisto produktai šaldytuve;Refrigerator drawer filled with various fresh food items.;0.0;0.0;0.0;0.84438956;0.82598269;0.83508474;0.37019396;0.82761794
+0354.jpg;Motina ir dukra paplūdimio smėlyje;"Golden hour joy with my favorite person. ☀️
+
+
+
+";0.0;0.0;0.0;0.83193159;0.8208009;0.82632875;0.04123223;0.25950062
+0355.jpg;Virtuvė su atidarytu šaldytuvu;Nearly empty refrigerator with a few fresh vegetables inside.;0.0;0.0;0.0;0.83543658;0.81935191;0.82731605;0.09957571;0.73666173
+0356.jpg;Pavargusi moteris susiėmusi už galvos;Overwhelmed, stressed, and needing a moment to breathe deeply.;0.0;0.0;0.0;0.81674773;0.80179572;0.80920273;0.09928462;0.51615065
+0357.jpg;Žemės riešutai;"Pile of peanuts in their shells, ready to enjoy.
+
+
+
+";0.0;0.0;0.0;0.83944541;0.86338556;0.85124719;0.17222276;0.57224536
+0358.jpg;Konservuoto maisto stiklainiai;Homemade pickled vegetables in jars, ready for preserving season.;0.0;0.0;0.0;0.82760763;0.8438397;0.8356449;0.26971531;0.5517652
+0359.jpg;Agrastas augantis ant krūmo;Green gooseberries growing amongst lush, leafy branches in sunlight.;0.0;0.0;0.0;0.81246322;0.84210217;0.82701725;0.29589754;0.73243541
+0360.jpg;Maisto produktai šaldytuve;Organized fridge with fresh produce and colorful containers.;0.0;0.0;0.0;0.83836949;0.82043087;0.82930315;0.28851402;0.84330654
+0361.jpg;Tortas su arbata;Traditional parkin cake with a warming cup of tea.;0.0;0.0;0.0;0.82506895;0.84870577;0.83672047;0.24829702;0.90023547
+0362.jpg;Šuo iškišęs galvą automobilyje;"Ready for adventure! This pup loves car rides.
+
+
+
+";0.0;0.0;0.0;0.8652066;0.86293727;0.86407042;0.22893876;0.62275642
+0363.jpg;Žemės riešutai ant stalo;"Pile of raw peanuts on a white surface.
+
+
+
+";0.0;0.0;0.0;0.8665843;0.88472486;0.87556058;0.27077383;0.65192538
+0364.jpg;Žemės riešutai baltame maiše;Pile of raw peanuts in their shells, ready to eat.;0.0;0.0;0.0;0.85291922;0.86494768;0.85889137;0.18225576;0.60376072
+0365.jpg;Du vaikiški vežimėliai lauke;Two baby strollers sit near a park bench outdoors.;0.0;0.0;0.0;0.85694742;0.86605424;0.86147672;0.0803391;0.72675413
+0366.jpg;Vyras užsidėjęs ausines žiūri į kompiuterio ekraną;Man working at a desk with a headset on.;0.0;0.0;0.0;0.88267815;0.88395357;0.88331538;0.12567066;0.73172241
+0367.jpg;Moterys vaikšto lauke kai sninga;People walk in the snow with umbrellas and warm clothes.;0.0;0.0;0.0;0.84193015;0.83246529;0.83717096;0.16649033;0.79315698
+0368.jpg;Moteris su skėčiu vaikšto lauke kai lyja;Woman with umbrella walks on a wet city street.;0.0;0.0;0.0;0.8610096;0.86845148;0.8647145;0.14352223;0.9238171
+0370.jpg;Kompiuteris, puodelis ir knyga ant lovos;Cozy work from bed setup with laptop and coffee.;0.0;0.0;0.0;0.82875234;0.83894908;0.83381951;0.25283021;0.75382113
+0371.jpg;Rūmai už stiklinės piramidės;Louvre Museum in Paris, France, under a cloudy sky.;0.0;0.0;0.0;0.82601333;0.83371186;0.82984471;0.00226691;0.55220753
+0372.jpg;Daug monetų ant stalo;Ancient silver and gold coins, a historical treasure trove.;0.0;0.0;0.0;0.8417927;0.8659066;0.85367936;0.21121681;0.74372023
+0373.jpg;Sugriuvęs pastatas už keturių stovinčių vyrų;Building collapse in Turkey following a reported earthquake.;0.0;0.0;0.0;0.83898127;0.82354963;0.8311938;0.1615378;0.53071034
+0374.jpg;Rankose esantys pinigai prie bankomato;"Withdrawing euros from an ATM machine with banknotes.
+
+
+
+";0.0;0.0;0.0;0.8432039;0.83893454;0.8410638;0.29481387;0.67589366
+0375.jpg;Raudonas pilkas traukinys ant bėgių apsuptas dūmų;Modern LTG Link train with steam release at station.;0.0;0.0;0.0;0.83188474;0.82662922;0.82924861;0.11459315;0.58341312
+0376.jpg;Automobiliai ir krovininis automobilis važiuoja per potvynį;Vehicles navigate a flooded road during heavy rainfall.;0.0;0.0;0.0;0.84967595;0.85186803;0.85077059;0.32813451;0.85957789
+0377.jpg;Rankose esantis telefonas rašo Luminor;Luminor bank app displayed on a smartphone and laptop.;0.0;0.09259259;0.13333333;0.85065687;0.83788097;0.84422058;0.3603915;0.70693111
+0378.jpg;Geltonas ančiukas žiūri į priekį;"A cheerful flock of bright yellow rubber duckies!
+
+
+
+";0.0;0.0;0.0;0.8497684;0.84947634;0.84962231;0.2400766;0.48181778
+0379.jpg;Dvi perpjauto granato pusės;Ruby red pomegranate seeds, a burst of sweet flavor.;0.0;0.0;0.0;0.80345619;0.83223438;0.81759214;0.21109816;0.18983722
+0380.jpg;Rankos laiko penkias bulves;Freshly harvested potatoes, a bounty from the earth.;0.0;0.0;0.0;0.82042938;0.82184529;0.82113677;0.08801732;0.6988399
+0381.jpg;Žmogus laiko bičių korį su bitėmis;Beekeeper inspecting a frame full of honeybees in a hive.;0.0;0.0;0.0;0.82469881;0.82293236;0.82381469;0.02521873;0.75146073
+0382.jpg;Žmonės su raudonais skėčiais žiūri į lėktuvo nuolaužas;"Plane crash site in Brazil; investigation underway after tragedy.";0.0;0.0;0.0;0.86363196;0.85987902;0.86175138;0.02813913;0.49515182
+0383.jpg;Prie balto baliono pririšta juodą dėžę;High-altitude balloon carrying a payload into the stratosphere.;0.0;0.0;0.0;0.84099388;0.83582169;0.83839983;0.1301887;0.67577565
+0384.jpg;Raudona lentelė ant tvoros su užrašu DĖMESIO!;Danger: Razor wire! Security fence with warning sign.;0.0;0.0;0.0;0.86100942;0.85825861;0.85963178;0.15559468;0.59874398
+0385.jpg;Elektros aukštos įtampos stulpai ir debesuota diena;Power lines silhouetted against a dramatic sunset sky.;0.0;0.0;0.0;0.83073258;0.81627041;0.82343805;0.25175628;0.72238272
+0386.jpg;Du raudonais apskritimais bėgantys žmonės formulės trasoje;Protestors breach security during British Grand Prix qualifying session.;0.0;0.0;0.0;0.82310665;0.82676339;0.82493097;0.10138527;0.29985726
+0387.jpg;Povandeninis laivas išniręs iš vandens kalnų peizaže;Russian nuclear submarine travels through choppy waters near mountains.;0.0;0.0;0.0;0.83587158;0.83887529;0.83737075;0.43381989;0.7237643
+0388.jpg;Naikintuvas kyla nuo laivo denio;An F/A-18E Super Hornet launches from a U.S. Navy aircraft carrier.;0.0;0.0;0.0;0.81480211;0.8127501;0.81377476;0.12286803;0.35264462
+0389.jpg;Keturi vaikai bėga per patvinusį kelią;Boys play in floodwaters during a heavy rainstorm.;0.0;0.0;0.0;0.84783232;0.8361696;0.84196061;0.1165379;0.45137358
+0390.jpg;Du žmonės važiuoja motociklu per patvinusią gatvę;Motorbike navigates flooded street during heavy rainfall.;0.0;0.0;0.0;0.86279297;0.85467196;0.85871327;0.2079971;0.58614576
+0391.jpg;Moteris einanti per patvinusią gatvę;"Flooding impacts a neighborhood; a woman wades through the water.";0.0;0.0;0.0;0.84298217;0.83377099;0.83835131;0.05868984;0.53435057
+0392.jpg;Raudonų, baltų ir mėlynų gėlių laukas;Vibrant wildflowers bloom in a peaceful, expansive field.;0.0;0.0;0.0;0.85172606;0.83241016;0.84195739;0.15821944;0.629529
+0393.jpg;Nukritę rudi lapai ant medinio suoliuko;"Autumn leaves rest on a weathered park bench.
+
+
+
+";0.0;0.0;0.0;0.85344273;0.83467269;0.84395343;-0.00582505;0.55153608
+0394.jpg;Horizonte matomas saulėtekis ir plūduriuojantis paukštis;Golden sunset over calm waters, a peaceful moment.;0.0;0.0;0.0;0.85541523;0.85000324;0.85270065;0.24651608;0.75656432
+0395.jpg;Rankomis laikomas kūdikis su kepure ištiesęs ranką;Sweet newborn baby peacefully sleeping in loving arms.;0.0;0.0;0.0;0.83901334;0.8140353;0.82633561;0.08945437;0.61130238
+0396.jpg;Katė guli ant radiatoriaus, šalia auga gėlė;Cozy cat enjoying a warm spot on the radiator.;0.0;0.0;0.0;0.88080847;0.87259841;0.87668419;0.4006007;0.75857413
+0397.jpg;Miesto gatvėmis važiuojantys automobiliai;Vilnius city street with modern architecture and traffic flow.;0.0;0.0;0.0;0.87033165;0.868384;0.86935669;0.290234;0.70358658
+0398.jpg;Pilkos spalvos katinas iškėlęs priekines letenas;"Adorable gray kitten with big eyes, ready to pounce!
+
+
+
+";0.0;0.0;0.0;0.84869266;0.83140922;0.83996201;0.13656075;0.8297593
+0399.jpg;Mergina padėjus galvą ant stalo šalia knygų;Overwhelmed and exhausted from studying, needing a break now.;0.0;0.0;0.0;0.82659996;0.82805383;0.8273263;0.11129446;0.49279231
+0400.jpg;Dvi rankos laiko juodą padangą;Mechanic handling a tire with care and precision.;0.0;0.0;0.0;0.82526374;0.80104512;0.8129741;-0.01088546;0.48769739
+0401.jpg;Miegantis vyras šalia laikrodžio;Peaceful sleep is essential for a healthy mind and body.;0.0;0.0;0.0;0.83927798;0.81792462;0.82846367;0.03533281;0.41925758
+0402.jpg;Baltas mėlynų akių katinas juodame fone;"Precious kitten with striking blue eyes and pink nose.
+
+
+
+";0.0;0.0;0.0;0.86557817;0.883196;0.87429833;0.25597128;0.75204611
+0403.jpg;Skrendantis lėktuvas šalia skrendantys paukščiai;China Southern Airlines Airbus A330 approaching for landing with birds.;0.0;0.0;0.0;0.84829319;0.86050087;0.85435343;0.11796224;0.66693455
+0404.jpg;Ukrainos pareigūnas apžiūri Rusijos paleistą droną Shahed;Debris from a downed drone examined by a soldier.;0.0;0.0;0.0;0.85707676;0.84405494;0.85051596;0.20802625;0.5949707
+0405.jpg;Paukštis tupi ant spygliuočio šakos;Golden-crowned kinglet perched amongst the green pine needles.;0.0;0.0;0.0;0.82293975;0.82007182;0.82150328;0.13264668;0.64155364
+0406.jpg;Būrys paukščių gervių tupi, o kiti skrenda;Cranes taking flight over a golden field.;0.0;0.0;0.0;0.84569579;0.83003956;0.83779454;0.14767778;0.61989999
+0407.jpg;Mažasis erelis rėksnys skrydyje;Majestic eagle soars through the sky with powerful wings.;0.0;0.0;0.0;0.86379629;0.85661709;0.8601917;0.24208662;0.64059973
+0408.jpg;Gulinti viena kiaulė;A sleepy pig rests its head on concrete.;0.0;0.0;0.0;0.81868142;0.84192789;0.83014202;0.11593218;0.58804166
+0409.jpg;Žmogus einantis tuščioje mokyklos klasėje;Classroom with a teacher and mathematical equations on the board.;0.0;0.0;0.0;0.82860374;0.8275246;0.82806379;0.44531667;0.55864465
+0410.jpg;Geriamo vandens čiaupas iš kurio bėga vanduo;Water flows freely from a shiny, modern faucet.;0.0;0.0;0.0;0.85475266;0.87539107;0.86494875;0.3397941;0.7026543
+0411.jpg;Moteris laiko druskinę rankose ir beria druską ant kiaušinio;Person seasoning fried eggs and bacon with salt.;0.0;0.0;0.0;0.83558607;0.81927216;0.82734871;0.13281986;0.693923
+0412.jpg;Rausvas runkelis guli ant baltų svarstyklių;Giant turnip weighs 159 pounds – a garden record!;0.0;0.0;0.0;0.81457794;0.83550096;0.82490677;0.14174786;0.32440007
+0413.jpg;Dvi moterys lipa laiptais į polikliniką;P KORPUSAS POLIKLINIKA building with people at the entrance.;0.0;0.0;0.0;0.83592427;0.84526479;0.8405686;0.37326127;0.49398959
+0414.jpg;Daug vilkikų stovi eilėjė miško peizaže;Long line of semi-trucks traveling along a highway road.;0.0;0.0;0.0;0.84094948;0.8266834;0.83375543;0.12638327;0.28181309
+0415.jpg;Du tiltai virš vandens;Raising section of the Genkai Sea Bridge in Japan.;0.0;0.0;0.0;0.82663512;0.82924372;0.82793736;0.16465367;0.63714015
+0416.jpg;Du ugniagesiai gesina degantį pastatą;Firefighters battle a large warehouse fire with water hoses.;0.0;0.0;0.0;0.84570813;0.85193646;0.84881091;0.14799365;0.75616759
+0417.jpg;Du ugniagesiai gesina sugriuvusį pastatą;Firefighters battle a blaze at a damaged industrial building.;0.0;0.0;0.0;0.85885656;0.85177737;0.85530227;0.19311652;0.80221117
+0418.jpg;Du ugniagesiai gesina degantį pastatą;Firefighters battle a large blaze at a damaged building.;0.0;0.0;0.0;0.85478628;0.8560788;0.85543209;0.15849912;0.83802354
+0419.jpg;Ugniagesiai gesina degantį pastatą;Firefighters battle a large industrial blaze at night.;0.0;0.0;0.0;0.85035706;0.85149932;0.85092783;0.09500945;0.74217749
+0420.jpg;Ugniagesiai gesina degantį pastatą;Firefighters battle a massive blaze engulfing a large building.;0.0;0.0;0.0;0.8397274;0.84186828;0.84079647;0.12983125;0.86064547
+0421.jpg;Ugniagesys neša geltoną žarną, o kitas ugniagesys gesina sugriuvusį pastatą;Firefighter carries hose amid building destruction and ongoing fire.;0.0;0.0;0.0;0.86606306;0.84587073;0.85584778;0.18020532;0.79301029
+0422.jpg;Degantis sugriuvęs pastatas;Firefighters battle a large blaze at an industrial building.;0.0;0.0;0.0;0.84519827;0.84613323;0.84566551;0.08253463;0.56163573
+0423.jpg;Policininkas atidaro policijos automobilio bagažinę;Police investigate after a man died in a shooting.;0.0;0.0;0.13333333;0.84226358;0.83432317;0.8382746;0.35422134;0.3429094
+0424.jpg;Karinis sraigtasparnis skrendantis tarp pilkų debesų;Military helicopter flies against a cloudy, overcast sky.;0.0;0.0;0.0;0.85275787;0.83861417;0.84562689;0.28375;0.85160059
+0425.jpg;Karinis sraigtasparnis skrendantis tarp pilkų debesų;Helicopter flying against a cloudy sky with tree branches.;0.0;0.0;0.0;0.85012472;0.837587;0.84380931;0.21671273;0.83069623
+0426.jpg;Tarp sugriuvusių pastatų stovi automobiliai ir žmonės;Devastation in Syria: rubble, tents, and remnants of buildings remain.;0.0;0.0;0.0;0.85157406;0.85734528;0.85444993;0.03229506;0.60293907
+0427.jpg;Stovinti šalia tribūnos moteris sako kalbą, fone dvi valstybinės vėliavos;Lithuanian President speaks with Ukrainian and Lithuanian flags behind her.;0.0;0.0;0.0;0.8565625;0.86378533;0.86015868;0.18489954;0.7000429
+0428.jpg;Stetoskopas ir atidarytas vaistų buteliukas guli ant stalo;Doctor’s visit: prescription, stethoscope, and healthcare professional focused on care.;0.0;0.0;0.0;0.85024065;0.86214286;0.85615039;0.16500506;0.60030115
+0429.jpg;Obuolių ir cinamono pyragas lėkštėje su ledais ir cinamono lazdelėmis;Warm apple pie with vanilla ice cream and cinnamon sticks.;0.0;0.0;0.0;0.87941414;0.85956359;0.86937559;0.30057034;0.79026973
+0430.jpg;Pjaustytas špinatų pyragas and medinio apvalaus padėklo;Delicious spinach quiche, a savory and satisfying meal option.;0.0;0.06944444;0.11764706;0.84475601;0.83015859;0.83739364;0.16510469;0.40386781
+0431.jpg;Aštuonių raudonų pomidorų kekė su žaliu kotu;Fresh, ripe tomatoes on the vine—a healthy and delicious treat.;0.0;0.0;0.10526316;0.84021181;0.81217539;0.82595575;0.17321305;0.72483492
+0432.jpg;Ranka laiko pomidoro šakelę su raudonais pomidorais;Red currant tomatoes growing on the vine in a greenhouse.;0.0;0.0;0.0;0.83529699;0.81479686;0.82491958;0.27209961;0.66155273
+0433.jpg;Ranka ant automobilio vairo;Truck driver on the road, focused and in control.;0.0;0.0;0.0;0.84639466;0.85208261;0.8492291;0.32225749;0.4388051
+0434.jpg;Jūrų uostas su kranais, laivai plaukia;Busy port with many cranes loading and unloading cargo.;0.0;0.0;0.0;0.86790454;0.87160885;0.86975276;0.19619672;0.73848724
+0435.jpg;Moteris stumia vaikišką vežimėlį, vyras eina šalia;Couple with baby in stroller walk in a park.;0.0;0.0;0.0;0.85124195;0.8461442;0.84868544;0.11922306;0.59391248
+0436.jpg;Merginos eina per tiltą link miesto stiklinių dangoraižių;Friends enjoying a sunny day walk in the city.;0.0;0.0;0.0;0.85356474;0.81404853;0.83333844;0.27966949;0.62111688
+0437.jpg;Moteris laikosi už pilvo;Woman experiencing abdominal pain while sitting on a couch.;0.0;0.0;0.0;0.83943486;0.82763863;0.83349496;0.17848068;0.66932118
+0438.jpg;Iš stiklinio butelio pilamas pienas į juodą kavą baltame puodelyje;Pouring milk into a cup of freshly brewed coffee.;0.0;0.0;0.0;0.84874153;0.85185659;0.8502962;0.31062034;0.89439607
+0439.jpg;Pienas pilamas į juodą kavą, kruasanai šiaudinėje lėkštėje;Coffee and croissants: a perfect cozy morning pairing.;0.0;0.0;0.0;0.84568298;0.83225644;0.838916;0.2044757;0.65390897
+0440.jpg;Žemės riešutai baltame maiše;"Woman holding hot water bottle for period pain relief.
+
+
+
+";0.0;0.0;0.0;0.84852302;0.85522753;0.85186201;0.11157231;0.07771716
+0441.jpg;Vyras laikosi už žando, veidas susiraukęs;Toothache pain: seeking relief and dental care is essential.;0.0;0.0;0.0;0.83693117;0.82549107;0.83117181;0.08732764;0.22130914
+0442.jpg;Gulinti moteris laikosi už pilvo;Woman experiencing abdominal pain, possibly from menstrual cramps.;0.0;0.0;0.0;0.82589221;0.8270821;0.82648671;0.09049504;0.67719376
+0443.jpg;Gulinti mergaitė laikosi už pilvo;Child experiencing abdominal pain, possibly stomachache or discomfort.;0.0;0.0;0.0;0.7998848;0.80616271;0.80301154;0.04896785;0.5959174
+0444.jpg;Ryanair lėktuvas kylą iš oro uosto naktį;Ryanair plane taking off at night from a wet runway.;0.0;0.06849315;0.11111111;0.89722115;0.89650226;0.89686161;0.51111686;0.8914212
+0445.jpg;Kiaulė sėdi ant žolės, kita kiaulė stovi prie namelio;Pigs relaxing in a green pasture with a shelter.;0.0;0.0;0.0;0.87486196;0.86176598;0.86826462;0.14098242;0.75373137
+0446.jpg;Vyras stovi prie valdymo pulto baldų gamybos sandėlyje;Worker operates machinery in a large tile manufacturing facility.;0.0;0.0;0.0;0.86620736;0.86059785;0.86339355;0.1091101;0.51597488
+0447.jpg;Elektros tinklų stulpai;High-voltage power lines and towers transmit electricity across the landscape.;0.0;0.0;0.0;0.83208179;0.8376084;0.83483601;0.27636391;0.6812318
+0448.jpg;Suguldyti medienos rastai ir šakos miške prie kelio;Muddy forest road with piles of freshly cut timber.;0.0;0.0;0.0;0.8471303;0.84337795;0.84524995;0.23992038;0.82401806
+0449.jpg;Geležinkelio bėgiai sukasi į dešinę pusę ir miškas fone;Railway tracks curving through a scenic autumn landscape.;0.0;0.0;0.0;0.88334203;0.87286139;0.87807041;0.10778981;0.86520368
+0450.jpg;Moteris ir dvi du vaikai šalia vieni kitų;A mother and daughter share a sweet, tender moment.;0.0;0.0;0.0;0.85129452;0.82320797;0.83701569;0.19053458;0.58617258
+0451.jpg;Ant stalo trys dokumentų papkės už kurių moteris;Overwhelmed with paperwork, but still managing a smile.;0.0;0.0;0.0;0.82360542;0.81923807;0.82141596;0.18645142;0.45401844
+0452.jpg;Moteris laiko rankas ant vaikiško vežimėlio rankenų;Grandmother enjoying a peaceful walk with her grandchild.;0.0;0.0;0.0;0.84912759;0.8343631;0.84168053;0.06751863;0.51798886
+0453.jpg;Šypsodamasi moteris laiko mergaitę;A mother and daughter share a joyful, loving moment.;0.0;0.0;0.0;0.83541;0.81128013;0.82316828;0.23275283;0.69363874
+0454.jpg;Būrys rudų vištų, fone žalias namelis su baltais langais;Happy free-range chickens enjoying a beautiful day outdoors.;0.0;0.0;0.0;0.85146368;0.85333788;0.85239977;0.20234284;0.63860136
+0455.jpg;Mygtukinių telefonai sudėti vienas šalia kito;A collection of vintage mobile phones from the past.;0.0;0.0;0.0;0.84667766;0.81458271;0.83032018;0.36949554;0.74257046
+0456.jpg;Moteris sėdi su šunimi ant suoliuko;Woman with dog enjoys a sunny day on a bench.;0.0;0.0;0.0;0.86723304;0.86372441;0.86547512;0.36370587;0.81414247
+0457.jpg;Pirštai laiko cigaretės nuorūką;"Hand holding a cigarette over a full ashtray.
+
+
+
+";0.0;0.0;0.0;0.82827336;0.8284089;0.82834113;0.3666378;0.76060903
+0458.jpg;Cigarečių atidaryti pakeliai padėti ant medinio paviršiaus;Cigarettes and open packs on a wooden surface.;0.0;0.0;0.0;0.86865878;0.86874545;0.86870211;0.28718334;0.94735092
+0459.jpg;Vyras laiko automobilio ratą, keičia padangą;Mechanic working on a Volkswagen wheel in a garage.;0.0;0.0;0.0;0.84689194;0.84515494;0.84602255;0.29286277;0.70977521
+0460.jpg;Mergina laiko dėžę sandėlyje;Volunteers sort aid packages for Ukraine at a warehouse.;0.0;0.0;0.0;0.82811332;0.84055102;0.83428586;0.060549;0.31087741
+0461.jpg;Vaikai žaidžia prie mėlynos lego pilies;Building magical memories with Disney Princess LEGO castles.;0.0;0.08064516;0.125;0.86548901;0.87359428;0.86952275;0.40791705;0.640912
+0462.jpg;Trys jojimo balnai pakabinti ant medinės tvoros;Horse saddles hanging on a wooden fence outdoors.;0.0;0.0;0.0;0.8589139;0.86011434;0.8595137;0.05600677;0.49916503
+0463.jpg;Moteris stovi tarp dviejų žirgų;A peaceful moment with gentle giants in the pasture.;0.0;0.0;0.0;0.84109342;0.84997708;0.84551191;0.10132034;0.28587455
+0464.jpg;Trys žirgai stovi miške;Horses and a Shetland pony graze peacefully in a field.;0.0;0.0;0.0;0.80110687;0.82280946;0.81181312;0.01497357;0.29135564
+0465.jpg;Moteris ištiesus ranką, delne turi raudoną kamuoliuką, duoda kraują;"Donating blood saves lives; a selfless act of kindness.";0.0;0.0;0.0;0.84469062;0.81826782;0.83126932;0.14557235;0.46917063
+0466.jpg;Vyras kerpa elektros laidos;Lineman working on high-voltage power lines with safety equipment.;0.0;0.0;0.0;0.81641829;0.81922787;0.81782067;0.17596835;0.64126998
+0467.jpg;Degantis miškas šalia vandens, kylantys dūmai naktį;Devastating fire engulfs buildings and trees at night.;0.0;0.0;0.0;0.85010886;0.84597361;0.84803623;0.22606291;0.71405411
+0468.jpg;Uraganas tarp namo ir medžių;"A tornado looms over a rural landscape and house.
+
+
+
+";0.0;0.0;0.0;0.85188448;0.86424387;0.85801965;0.13757513;0.68827581
+0469.jpg;Ugniagesių automobilis ir lengvasis automobilis stovi šalia pastato;Firefighters rescue operation with ladder extended to building window.;0.0;0.0;0.0;0.84438396;0.84054494;0.8424601;0.09768048;0.55029184
+0470.jpg;Ugniagesys gesina degančius daiktus šalia kopėčių;Firefighter extinguishes a small fire near an apartment building.;0.0;0.0;0.0;0.85250491;0.84985471;0.85117769;0.17155299;0.79741311
+0471.jpg;Baltas odontologijos kabinetas, viduryje ruda odontologijos kėdė;Modern, clean dental office with a comfortable treatment chair.;0.0;0.0;0.0;0.8806963;0.85501146;0.86766386;0.24607307;0.86753368
+0472.jpg;Keturios moterys eina paplūdimiu iki jūros;Beach days with the besties are the best days.;0.0;0.0;0.0;0.842318;0.83534002;0.83881444;0.03087272;0.50754213
+0473.jpg;Du sportiniai automobiliai važiuoja tiltu;Luxury sports cars speeding along a highway on a sunny day.;0.0;0.0;0.0;0.87818718;0.89564174;0.88682854;0.45432916;0.69326252
+0474.jpg;Dvi merginos su raudonomis suknelėmis prie moliūgo;Spooky sisters pose with a giant pumpkin for Halloween.;0.0;0.0;0.0;0.8306483;0.82629919;0.82846802;0.23602448;0.50172907
+0475.jpg;Kapų antkapiai miške;Spooky Halloween graveyard scene with faux tombstones and fake blood.;0.0;0.0;0.0;0.82059503;0.84073043;0.83054072;0.14082508;0.36403871
+0476.jpg;Keturi žmonės su gitaromis stovi ant mėlynos scenos;Eurovizija.lt: The Roop prepares to represent Lithuania at Eurovision.;0.0;0.0;0.0;0.81361842;0.80817258;0.81088632;-0.01275556;0.17799872
+0477.jpg;Paaugliai meta paauglį į vandenį paplūdimyje;"People enjoying a sunny day at the beach.
+
+
+
+";0.0;0.0;0.0;0.84629667;0.83917695;0.84272176;0.08170217;0.59247857
+0478.jpg;Žmonės guli paplūdimyje ant smėlio ir maudosi vandenyje;People enjoying a sunny day at the lake beach.;0.0;0.0;0.0;0.88221496;0.87054551;0.87634146;0.33005464;0.75478643
+0479.jpg;Tigras guli ir laižo mėsos gabalą;A majestic tiger enjoys a meaty meal in captivity.;0.0;0.0;0.0;0.86263782;0.86660099;0.86461484;0.25727117;0.87820995
+0480.jpg;Burinio laivo modelio denis;Detailed model ship deck with cannons and rigging visible.;0.0;0.0;0.0;0.81544596;0.81975418;0.81759441;0.33452603;0.73590708
+0481.jpg;Burinio laivo su baltomis burėmis modelis;Detailed model ship with impressive sails and rigging.;0.0;0.0;0.0;0.84831619;0.84519899;0.84675473;0.27514654;0.83313543
+0482.jpg;Burinio laivo su baltomis burėmis modelis ant stalo;Detailed model ship with Swedish flags and intricate rigging.;0.0;0.0;0.0;0.84525532;0.83847171;0.8418498;0.24629928;0.71684968
+0483.jpg;Burinio laivo su baltomis burėmis modelis ant stalo;Detailed model ship with sails and intricate rigging displayed.;0.0;0.0;0.0;0.84730297;0.8400262;0.84364891;0.26192561;0.76373714
+0484.jpg;Karinio laivo modelis ant stalo;Detailed model of a warship, likely a frigate or destroyer.;0.0;0.0;0.0;0.82923365;0.82454151;0.82688093;0.27365518;0.78109086
+0485.jpg;Žmogaus pirštai laiko kiaušinį su juoda linija;"Cracked egg with a simple, minimalist line drawing.
+
+
+
+";0.0;0.0;0.0;0.8282941;0.83440322;0.83133739;0.28317916;0.69360906
+0486.jpg;Trys kiaušiniai su juodomis linijomis guli dėžutėje;Fresh eggs from the farm, marked with dates.;0.0;0.0;0.0;0.86418116;0.85745299;0.8608039;0.04650911;0.68774748
+0487.jpg;Lauko tualetai TOI TOI šalia vandens balos ir miško;Portable toilets sit near a road and wooded area.;0.0;0.0;0.0;0.85952318;0.84247482;0.85091364;0.2112051;0.84405065
+0488.jpg;Lauko tualetai TOI TOI šalia vandens balos ir miško;Portable toilets reflect in a puddle after rainfall.;0.0;0.0;0.0;0.83714998;0.834705;0.8359257;0.25321278;0.72186762
+0489.jpg;Du mėlyni tušinukai guli ant stalo, šalia žmogaus rankos;Student preparing for an exam with pens and focus.;0.0;0.0;0.0;0.85820347;0.85279083;0.8554886;0.00197161;0.37659225
+0490.jpg;Žmogus laiko mėlynos spalvos tušinuką;Student contemplating a test, holding a pen thoughtfully.;0.0;0.0;0.0;0.8398037;0.83355331;0.83666682;0.0105455;0.27966768
+0491.jpg;Vyras stovi su rudu apsiaustu prie palapinių;Monk amidst tents at an outdoor festival or event.;0.0;0.0;0.0;0.82861632;0.81468415;0.82159114;0.07518812;0.69781226
+0492.jpg;Sugriuvęs tiltas virš upės;Concrete bridge over murky water on a cloudy day.;0.0;0.0;0.0;0.84292042;0.85515273;0.84899247;0.3084563;0.79433149
+0493.jpg;Pašto dėžutės pakabintos ant geltonos medinės sienos;"Old mailboxes on a weathered wooden wall.
+
+
+
+";0.0;0.0;0.0;0.87041986;0.87011647;0.87026817;0.22745782;0.82565695
+0494.jpg;Balti paspirtukai stovi ant plytelių;Electric scooters parked on a brick sidewalk in sunlight.;0.0;0.0;0.0;0.85289711;0.85952473;0.85619807;0.15808545;0.41284755
+0495.jpg;Moteris sėdi su apyrankėmis ir skrybėle, už jos dega laužas su ugnimi;Woman in hat sits near a warm campfire.;0.0;0.0;0.0;0.88170928;0.85676926;0.8690604;0.15367799;0.85761714
+0496.jpg;Moteris su vaikais dažo automobilio padangas geltonai, mėlynai, žaliai, raudonai;Kids painting tires for a playground renovation project.;0.0;0.0;0.0;0.85623115;0.83412462;0.84503335;0.0581286;0.71579856
+0497.jpg;Vyras su kastuvu kasa duobę, keturios padangos įkastos į žemę;"Building a tire obstacle course in the park.
+
+
+
+";0.0;0.0;0.0;0.85922772;0.83840203;0.84868717;0.05567903;0.50442845
+0498.jpg;Nupjauta gulbės galva ant sniego;Distressing scene: Injured swan lies in the snow, bleeding.;0.0;0.0;0.0;0.84245342;0.83993697;0.84119326;0.15547039;0.65308094
+0499.jpg;Nupjauta gulbės galva ant sniego;Disturbing scene: a deceased bird in the snow.;0.0;0.0;0.0;0.85368264;0.83987749;0.84672374;0.155737;0.78069925
+0500.jpg;Policijos, skubios pagalbos ir ugniagesių automobiliai;Emergency vehicles at a scene, likely an incident.;0.0;0.0;0.0;0.84325576;0.83194011;0.83755964;0.23403624;0.81913495

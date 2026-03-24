@@ -1,0 +1,500 @@
+Image Name;Original Caption;Generated Caption;BLEU;METEOR;ROGUE;BERTscore Precision;BERTscore Recall;BERTscore F1;SentenceBERT_MRL;SentenceBERT_MPNET
+0001.jpg;Rankoje laikomi čekiai;Receptai rankoje naktį.;0.0;0.16666667;0.33333333;0.86704379;0.84116775;0.85390979;0.6122182;0.384215
+0002.jpg;Vyras neša vėliavą;Vairuojantis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis vaisingasis;0.0;0.0;0.0;0.60128284;0.72726142;0.65829921;0.11933171;0.14145052
+0003.jpg;Du kareiviai stovintys su vėliava;Soldatai su vabaguojančiu vabagu.;0.0;0.10204082;0.18181818;0.84131247;0.85916334;0.85014421;0.26049051;0.35249305
+0004.jpg;Minia protestuojančių žmonių laikančių plakatus;Protestai dėl kultūros ir valstybinės politikos.;0.0;0.0;0.0;0.86403608;0.85417801;0.85907882;0.1179674;0.71305102
+0005.jpg;Ant stalo padėtos kodekso knygos;Ko dekasas;0.0;0.0;0.0;0.80250144;0.78673667;0.79454082;0.15606456;0.22989908
+0006.jpg;Ranka virš čekių;Kvitus ir rašto materialai.;0.0;0.0;0.0;0.85867941;0.85641551;0.85754597;0.08194143;0.50121468
+0007.jpg;Vyras tikrinasi regėjimą;Virškelė ant nosis.;0.0;0.0;0.0;0.81528413;0.81185061;0.8135637;-0.04056554;0.3612645
+0008.jpg;Daugiabučio namo renovacija;Sodraus kaimynystėje stebima būre.;0.0;0.0;0.0;0.84943366;0.84516269;0.84729284;0.05492912;0.40393034
+0009.jpg;Lietuvos pašto dėžutė ant sienos;Lietuvos paštas.;0.0;0.10638298;0.4;0.87187845;0.84876925;0.86016864;0.54434001;0.68549067
+0010.jpg;Krovininis laivas plaukiantis į uostą;Didžioji transportu laivų priemoka.;0.0;0.0;0.0;0.88330877;0.83214152;0.85696208;0.21318695;0.76273769
+0011.jpg;Pervažas stebi išmaniosios vaizdo sistemos;Pervaza stebima vaizdo kameras.;0.0;0.10204082;0.18181818;0.89143753;0.88722408;0.8893258;0.44549042;0.83537573
+0012.jpg;Prekių vežimėlis prekybos centre;Kūrybinės gali ir消费品;0.0;0.0;0.0;0.85776347;0.84773976;0.85272217;0.06021181;0.31901869
+0013.jpg;Tiltu einantys žmonės ir esantys šalia jo;Miesto tiltas ir vandens priekai.;0.0;0.07352941;0.15384615;0.87513024;0.88249946;0.87879944;0.12938073;0.81010109
+0014.jpg;Vėjo jėgainės jūroje;Vėjo turbinos ir laukas.;0.0;0.16129032;0.33333333;0.92238784;0.90472096;0.91346896;0.29272449;0.83421242
+0015.jpg;Pinigų banknotai;ESA piniginės.;0.0;0.0;0.0;0.86724889;0.88946033;0.87821418;0.41268992;0.5609439
+0016.jpg;Indai pilni persikų;Šiukšlės ir obeliai.;0.0;0.0;0.0;0.88053495;0.8396681;0.8596161;0.12403711;0.62277049
+0017.jpg;Traktorius dirba laukuose;Didžioji žolės lauke.;0.0;0.0;0.0;0.86464721;0.86947596;0.86705488;0.21314465;0.64713895
+0018.jpg;Kombainas dirba laukuose;KLAA'S combine harvester.;0.0;0.0;0.0;0.82007498;0.8309862;0.82549453;0.29000869;0.49253076
+0019.jpg;Žmogus rankose nešantis įvairių daržovių krepšį;Organikos vaisliai ir daržovės.;0.0;0.0;0.14285714;0.88941896;0.90291595;0.89611661;0.18926197;0.61649036
+0020.jpg;Virtuvė prieš ir po remonto;Dvivinkis šiukšlinė salė.;0.0;0.0;0.0;0.87998724;0.82306236;0.85057336;0.06226186;0.35406372
+0021.jpg;Kondensatas susidaręs prie lango;Draugystės stiklas ir plantas.;0.0;0.0;0.2;0.85181969;0.83756137;0.8446303;0.15106559;0.61648154
+0022.jpg;Maža mergaitė sėdinti ant grindų;Vaikas mąsto prie televizoriaus.;0.0;0.0;0.0;0.90257418;0.88746536;0.89495605;0.09664918;0.43465072
+0023.jpg;Kompostuojamos atliekos angare;Šiukšlės ir žemės plėstymas.;0.0;0.0;0.0;0.8368125;0.81832755;0.82746685;0.09277823;0.45378533
+0024.jpg;Sodo komposto dėžė;Šiukšlės dėžė su organinių atliekų kompostavimas.;0.0;0.15151515;0.18181818;0.87755239;0.9436667;0.90940946;0.35375196;0.94425905
+0025.jpg;Šiukšliavežė su šiukšlėmis ir darbininku;Dėkui už nuotrauką!;0.0;0.0;0.0;0.86539018;0.84500766;0.85507745;-0.01207599;0.32688734
+0026.jpg;Daug vikšrų;Šiukšlės žuvėlapiai.;0.0;0.0;0.0;0.87063164;0.85467696;0.86258048;0.00542996;0.80643064
+0027.jpg;Daug vikšrų;Daug spindintų plaukų.;0.0;0.23809524;0.33333333;0.87216699;0.85514629;0.86357278;0.4187873;0.65377635
+0028.jpg;Antrankiais surakintas žmogus;Arbačių nusikeltas nusikeltas.;0.0;0.0;0.0;0.79383671;0.79741794;0.79562324;0.14266601;0.76381052
+0029.jpg;Naftos terminalas Rusijoje;Švyturys ir miesto skrybė.;0.0;0.0;0.0;0.8723641;0.82390559;0.84744263;0.04652508;0.27304
+0030.jpg;Vyras laikantis automobilio ratą;Automobilis garšinamas.;0.0;0.0;0.0;0.84392917;0.84308368;0.84350616;0.42237484;0.52968925
+0031.jpg;Aukso luitai ir žmogaus pirštas;"""Gold bars and smartphone chart""";0.0;0.0;0.0;0.86034328;0.85198796;0.8561452;0.15346527;0.53151488
+0032.jpg;Moksleiviai sėdintys klasėje;Studentai mokosi klasėje.;0.0;0.0;0.44444444;0.94907928;0.93000197;0.93944377;0.63218886;0.91517937
+0033.jpg;Mokytoja stovinti prie išmanios lentos;Šioje klasėje mokininkė paskaito.;0.0;0.0;0.0;0.89728272;0.90056729;0.89892197;0.15096983;0.8170433
+0034.jpg;Vaistai ir pinigai;Finansai, vaistai, skaičiavimas.;0.0;0.0;0.28571429;0.89709055;0.89599764;0.8965438;0.32721502;0.79734999
+0035.jpg;Nobelio prizas skiriamas labiausiai nusipelniusiems mokslininkams;Nobelys medalis;0.0;0.0;0.0;0.87479842;0.81288588;0.84270656;0.43264538;0.6975112
+0036.jpg;Žemė ir skriejantis asteroidas;Planeta ir meteoritas.;0.0;0.12820513;0.28571429;0.91817588;0.8567704;0.88641101;0.35724917;0.78726196
+0037.jpg;Žemė ir skriejantis asteroidas;Didysis asteroidas prie planetos.;0.0;0.125;0.25;0.87231147;0.86115158;0.86669558;0.36852247;0.91384894
+0038.jpg;Palydovas kosmose;Satelitas dangaus švirkštas.;0.0;0.0;0.0;0.8596164;0.87008387;0.86481839;0.26591122;0.79104477
+0039.jpg;Blogas kvapas;"""Meilės švirkštas""";0.0;0.0;0.0;0.79044914;0.81879151;0.80437076;0.01759837;0.41915467
+0040.jpg;Naujagimius ligoninėje prižiūri seselė;"""Pakūpstantys vaikai ir gydytoja""";0.0;0.0;0.0;0.82787097;0.86689568;0.84693402;-0.04360013;0.63152784
+0041.jpg;Zebras;Žiūrėtoji zebra su švirkštu.;0.0;0.38461538;0.25;0.75073093;0.79533547;0.77238971;0.74802971;0.88375413
+0042.jpg;Rankos pirštų nagai;Gerai trumpai nupiestas rankos piešinimas.;0.0;0.15625;0.2;0.83903396;0.84665036;0.84282494;0.49790698;0.66011757
+0043.jpg;Daug radioteleskopų;Satelitų stebėjimo stebėtojai.;0.0;0.0;0.0;0.86420453;0.8480233;0.85603744;0.10739511;0.62382352
+0044.jpg;Du šernai pievoje;Dvi pigi dvasios pradeda kelio laikiną atostogą.;0.0;0.0;0.0;0.80739152;0.80907637;0.80823302;0.35150689;0.48857346
+0045.jpg;Pomidorai ir bulvės;Tomai ir obeliskai.;0.0;0.16666667;0.28571429;0.87905014;0.84464431;0.86150384;0.24409461;0.1636337
+0046.jpg;Du vilkai miške;Šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.69453436;0.82505006;0.75418723;0.17845902;0.42625439
+0047.jpg;Vilkas miške prie medžio;Šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.71089917;0.84224135;0.77101678;0.18926686;0.1388571
+0048.jpg;Rudasis lokys miške;Šiukšlės vyno šakelės;0.0;0.0;0.0;0.82924908;0.82762182;0.82843465;0.0310104;0.40560865
+0049.jpg;Skrendančių paukščių būrys;Septyne gysloji keliautoja.;0.0;0.0;0.0;0.82933563;0.83867896;0.83398116;-0.07083397;0.50966209
+0050.jpg;Žmogus miške pjauna grybą;"""Kai gyvūnas ir jo draugas""";0.0;0.0;0.0;0.82685888;0.81190515;0.81931382;0.08293298;0.42834443
+0051.jpg;Angis ant kibiro;Šiukšlėje vytis.;0.0;0.0;0.0;0.8009215;0.81502247;0.8079105;0.06464169;0.73562205
+0052.jpg;Sužymėtos sraigės;Skaičių kulkšnių šiukšlėje.;0.0;0.0;0.0;0.87029088;0.87085474;0.87057275;0.13746855;0.7591666
+0053.jpg;Žmogus laužiantis šokoladą;Kakao ir avokado čokolata.;0.0;0.0;0.0;0.87051427;0.85007083;0.86017114;0.20538518;0.64074677
+0054.jpg;Apgraužti baravykai prie pintinės;Šiukšlės ir galiukai.;0.0;0.0;0.18181818;0.87352264;0.84191519;0.85742766;0.02278828;0.89777172
+0055.jpg;Skaičiuojami pinigai;Finansų skaičiavimas mobiliuoju įrežiniu.;0.0;0.0;0.22222222;0.80714232;0.88166767;0.84276062;0.21158966;0.59858882
+0056.jpg;Seselė skiepiją žmogų;Medžiaga į veine.;0.0;0.0;0.0;0.86769056;0.858661;0.86315221;0.0422924;0.50285763
+0057.jpg;Zaporižios atominė elektrinė;Industrių sklynas priebalui vandens.;0.0;0.0;0.0;0.81988788;0.85390121;0.83654892;0.07066551;0.4258101
+0058.jpg;Lazdyno riešutų sauja;"""Kelnių šiukšlės ir kepurelė.""";0.0;0.0;0.0;0.86115682;0.83091307;0.84576464;0.11715964;0.40982062
+0059.jpg;Troleibusas prie troleibusų stotelės;Tramvajus ir autobusas miesto šiukšlėje.;0.0;0.0;0.0;0.89077055;0.83429033;0.86160582;0.32580379;0.69357002
+0060.jpg;Minia žmonių protestuojančių su ženklais;Kultūra: pavojas arba reklama?;0.0;0.0;0.0;0.83804476;0.81472945;0.82622266;0.02307084;0.22644791
+0061.jpg;Negalią turintys asmenys;Didysis raktas ir raktas.;0.0;0.0;0.0;0.85230106;0.8909601;0.87120193;-0.01115705;0.19615172
+0062.jpg;Neapdoroti makaronai esantys restorano terasoje;Spagetių šaukštas grybais.;0.0;0.0;0.0;0.85784388;0.8263433;0.84179896;-0.02265813;0.75430661
+0063.jpg;Bendras vaizdas į Žmogaus teisių ir civilizacijų aljanso kambarį;"""Didysis spalvų stropis""";0.0;0.0;0.0;0.83718449;0.83290362;0.8350386;0.07112329;0.35201678
+0064.jpg;Utėlės plaukuose;Delsiantysis švelnumas;0.0;0.0;0.0;0.8232109;0.82010382;0.82165438;0.1419038;0.47581303
+0065.jpg;Moteriai operacinėje atliekama akių operacija;Optikos tyrimas.;0.0;0.0;0.0;0.85005367;0.86573064;0.85782051;0.07899832;0.51545888
+0066.jpg;Europos Centrinis Bankas;Europos bankas.;0.0;0.17241379;0.8;0.85321844;0.80472988;0.82826513;0.82996589;0.87761337
+0067.jpg;Kalifornijos Nacionalinės gvardijos kariai ir jūrų pėstininkai sulaiko demonstrantus;"""Operacijos akylumas""";0.0;0.0;0.0;0.86264384;0.84070766;0.85153449;-0.03243093;0.09741943
+0068.jpg;Automobilių servise taisomas automobilis;Automobilis sunkioje sunkioje.;0.0;0.12820513;0.28571429;0.84138471;0.85065693;0.84599537;0.48790497;0.62369519
+0069.jpg;Avižų košė su obuoliais;Šiaudinės duonos ir obeliskio valgykla.;0.0;0.0;0.0;0.842852;0.86397338;0.85328197;0.22663671;0.49030688
+0070.jpg;Kavos stiklinė;Kofeinė būdelė su kavos pipelių dekoru.;0.0;0.20833333;0.22222222;0.83940136;0.92348725;0.87943894;0.41335434;0.88953227
+0071.jpg;Kavos puodelis;Kavos paviršius su švirkštais.;0.0;0.22727273;0.25;0.81593668;0.84558481;0.83049625;0.38646948;0.87558889
+0072.jpg;Keptos perlinės kruopos su grybais;Kūkolo ir mūšių valioji.;0.0;0.0;0.0;0.85330069;0.83336818;0.84321666;0.04894285;0.33674237
+0073.jpg;Elektros stulpai ir kabantys laidai;Elektrinės linijos ir gamta.;0.0;0.10204082;0.2;0.90405154;0.85328788;0.87793654;0.28296843;0.74147338
+0074.jpg;Pleviasuojanti Japonijos vėliava;Japonijos国旗.;0.0;0.0;0.4;0.86054087;0.8342917;0.84721303;0.53491938;0.8146565
+0075.jpg;Moteris su puodelius susiėmusi už gerklės;Šių dienų sunkumai.;0.0;0.0;0.0;0.89505255;0.81991905;0.85584003;0.04803346;0.41636658
+0076.jpg;Moteris susiėmusi už gerklės ir krūtinės;Šių simptomų atidžius tyrimas.;0.0;0.0;0.0;0.84742707;0.83137012;0.83932173;0.13034058;0.34387732
+0077.jpg;Moteris su puodelius susiėmusi už gerklės;Šių naktų nemiegumas.;0.0;0.0;0.0;0.87028831;0.82621217;0.84767765;0.04827536;0.45972157
+0078.jpg;Seselė skiepija vaiką;Švirkštas.;0.0;0.0;0.0;0.88779378;0.88969451;0.88874316;0.04357996;0.21373828
+0079.jpg;Seselė skiepija vaiką;Medžiaga į ranką.;0.0;0.0;0.0;0.91881108;0.92038202;0.9195959;0.02573426;0.33955228
+0080.jpg;Tamponas laikomas rankose;Šiukšlė su švirkštu.;0.0;0.0;0.0;0.85777223;0.85713184;0.85745192;-0.00565929;0.69965935
+0081.jpg;Plaukų slinkimas, plaukų netekimas;"""Šiukšlės plaukymas""";0.0;0.0;0.0;0.87545085;0.88521963;0.88030821;0.4255479;0.35549667
+0082.jpg;Švirkštai ant žemės;Atsikirkti šaukščiai ir vamzdeliai.;0.0;0.0;0.0;0.8195073;0.81314254;0.81631249;0.15340787;0.76284921
+0083.jpg;Gaminama mačia;Žaliųdainis arbatas su šiaurinėmis dandelionų petelėmis.;0.0;0.0;0.0;0.82662344;0.83414614;0.83036774;-0.1193508;0.56737614
+0084.jpg;Moteris žindo kūdikį;Mamos ir vaikas lojoje.;0.0;0.0;0.0;0.87957919;0.83168924;0.85496414;-0.02885737;0.67658913
+0085.jpg;Besilaukianti moteris laikosi už pilvo;Bendruomenės nėštumo laikas.;0.0;0.0;0.0;0.86970544;0.86273533;0.86620641;0.13599291;0.77385414
+0086.jpg;Uodas siurbia kraują;Didysis šiukšlės kardas.;0.0;0.0;0.0;0.83477831;0.83513105;0.83495462;0.34325412;0.67961317
+0087.jpg;Automobilis degalinėje;Automobilis ir benzino pumpa.;0.0;0.22727273;0.28571429;0.89965641;0.91512477;0.90732467;0.47721678;0.87396008
+0088.jpg;Moteris kraunanti elektromobilį;Automobilis kyla į kabelį.;0.0;0.0;0.0;0.89805466;0.88067758;0.88928121;0.2101929;0.40746728
+0089.jpg;Eismas draudžiamas;Draudimas.;0.0;0.0;0.0;0.8811698;0.82622546;0.85281354;0.68525386;0.61662638
+0090.jpg;Slenkantys ledynai;Ledo kalnas vandeniu apsunkęs.;0.0;0.0;0.0;0.86846149;0.86546713;0.86696172;0.33075631;0.8416658
+0091.jpg;Baltyminiai milteliai;Pudingas iš米粉 ir vandens.;0.0;0.0;0.0;0.81978524;0.87853992;0.84814626;0.17025343;0.25270906
+0092.jpg;Spermatozoidai ir kiaušialąstės;Spermos ir oocyte susisniekimas.;0.0;0.16129032;0.2;0.84544396;0.82871521;0.83699602;0.37969017;0.89335448
+0093.jpg;DNR struktūra;Dna struktūra ir evoliucija.;0.0;0.22727273;0.5;0.85646993;0.88850653;0.87219411;0.66653949;0.56818688
+0094.jpg;Grūdai;Siaulys pavėžėje saulėje.;0.0;0.0;0.0;0.78674012;0.79991114;0.79327089;0.03693952;0.71522284
+0095.jpg;Obuolys rankoje;Baltais lapais ir rausva pirma.;0.0;0.0;0.0;0.83296347;0.8377285;0.83533919;0.08823109;0.48228312
+0096.jpg;Daug obuolių dėžėje;Raudonu ir žaliu obelai.;0.0;0.0;0.0;0.82143915;0.85908008;0.83983803;0.15809488;0.70202386
+0097.jpg;Didelių gabaritų atliekos;Atsikratymo metai ir daiktai.;0.0;0.0;0.0;0.90234208;0.85672343;0.87894118;0.05084974;0.47386777
+0098.jpg;Didelių gabaritų atliekos prie tvoros;Atsivairius daiktai šiukšlėje.;0.0;0.0;0.0;0.89642119;0.85240614;0.87385976;0.15647718;0.66492593
+0099.jpg;Dubajaus šokoladas su pistacijomis;Šokolado batonai su avokado ir miltelėmis.;0.0;0.11904762;0.18181818;0.84587014;0.83893681;0.84238917;0.39090976;0.76032174
+0100.jpg;Augančios raudonos saldžiosios paprikos;Raudonasis paprikinis.;0.0;0.0;0.0;0.86791337;0.84911585;0.85841167;0.57631212;0.84135622
+0101.jpg;Įdarytos paprikos su smulkinta mėsa ir ryžiais;Šviežios tomate ir miššiai.;0.0;0.07462687;0.26666667;0.87202483;0.83720148;0.85425836;0.22745848;0.48138264
+0102.jpg;Du baliniai vėžliai;Dviese vandens kekės.;0.0;0.0;0.0;0.89468831;0.94387758;0.91862494;0.18300974;0.7025094
+0103.jpg;Moteris konservuoja daržoves;"""Šiukšlės su vandens priskysta.""";0.0;0.0;0.0;0.84432578;0.82297385;0.83351308;0.09928417;0.15100843
+0104.jpg;Rusijos karys leidžia droną karinėse pratybose;Soldier launches drone in field.;0.0;0.0;0.0;0.86085469;0.85123974;0.85602027;0.22790821;0.70995748
+0105.jpg;Dronai nešantys dvi vėliavas;Dviejų valių vaisingumas.;0.0;0.0;0.0;0.9231205;0.88466847;0.90348554;0.40309167;0.44519931
+0106.jpg;Dronas skraidantis danguje;Drone su aukštoji kruviniu aksesuaru.;0.0;0.0;0.0;0.8061744;0.81690478;0.81150413;0.2391019;0.81601697
+0107.jpg;Rusijos tankai parade;Armėjų parade Maskvoje.;0.0;0.16666667;0.28571429;0.89332908;0.87061095;0.88182372;0.38358331;0.85184908
+0108.jpg;Pastatyti užtvarai ant tilto prie šalių sienos;"""Pavadinimas: Darbo baze""";0.0;0.0;0.0;0.82436687;0.84388411;0.83401132;-0.14187253;0.40309548
+0109.jpg;Gyvenamasis namas po Rusijos smūgių Kijeve;"""Degantysis miestas""";0.0;0.0;0.0;0.82403791;0.82559383;0.82481515;-0.04985431;0.41714749
+0110.jpg;Pusiau perpjauti avokadai;Avokado šiukšlės.;0.0;0.0;0.0;0.80638224;0.80244565;0.80440915;0.41232201;0.56964731
+0111.jpg;Sumuštinis su mėsa ir daržovėmis;Griksio sandėliai su paširiniu.;0.0;0.10204082;0.13333333;0.84086764;0.87020421;0.85528445;0.08359714;0.36708915
+0112.jpg;Kapų žvakės lentynoje;Staliukas su šviestais ir dekoratyviniais vėsaus staklais.;0.0;0.0;0.0;0.85458165;0.82297421;0.83848017;0.14424065;0.75085437
+0113.jpg;Viena deganti elektros lemputė tarp kitų lempučių;Ištaigos šviesa ir švirkštas.;0.0;0.0;0.14285714;0.87679094;0.83673489;0.85629475;0.01582065;0.8195551
+0114.jpg;Pelė prie vamzdžio;Šiukšlės šiukšlėje.;0.0;0.0;0.0;0.88457775;0.91190135;0.89803177;0.10513321;0.61444765
+0115.jpg;Lėktuvo keleivė lėktuve;Aviaresursas ir keležių pavadinimas.;0.0;0.0;0.0;0.8671971;0.88873219;0.87783265;0.09078553;0.78960335
+0116.jpg;Lobių skrynios;"""Didysis tėvynės pinigas""";0.0;0.0;0.0;0.86849171;0.90604901;0.88687295;0.14497787;0.54647303
+0117.jpg;Popieriniai dokumentai ir kompiuteris;Darbo ir analizės scenoje.;0.0;0.125;0.22222222;0.86907411;0.84079331;0.85469979;0.07619438;0.39648113
+0118.jpg;Nelaimingas jaunas vyras;"""Poilsio akimirkas""";0.0;0.0;0.0;0.81215894;0.80059463;0.80633527;0.04467776;0.33855784
+0119.jpg;Krūties vėžys, mamografija;Mammografija ir diagnostika;0.0;0.0;0.0;0.90878206;0.89402598;0.90134364;0.44088516;0.86284757
+0120.jpg;Pokalbis su vaiku;Vaikas ir vyras kalba.;0.0;0.0;0.0;0.83119345;0.84630084;0.83867913;0.28848356;0.80021369
+0121.jpg;Neteisėtai pagautos žuvys, unguriai;Šiukšlės ir žuvių eilė ant gėlės.;0.0;0.0;0.13333333;0.90111542;0.84921944;0.87439811;0.12396997;0.45127481
+0122.jpg;Kontrabandininkų balionas prie baidarininko;Kanoejus ir didysis mapelis.;0.0;0.0;0.0;0.81702864;0.81795335;0.81749076;-0.04605543;0.6684007
+0123.jpg;Fizinio barjero pasienyje su Baltarusija statyba;"""Sandėrių ribos""";0.0;0.0;0.0;0.83682716;0.83217704;0.83449566;0.07783664;0.47923678
+0124.jpg;Vagis laužiasi į automobilį;Automobilio stebėjimas naktį.;0.0;0.0;0.0;0.85878724;0.84554791;0.85211611;0.48146027;0.53475791
+0125.jpg;Ūkininko laukas prie miško;Auksuji pavasario diena miške.;0.0;0.0;0.2;0.89995402;0.89739072;0.89867055;0.2023266;0.6805051
+0126.jpg;Pistoletas rankose;Lietuvos policija;0.0;0.0;0.0;0.80495811;0.796543;0.80072844;-0.01447397;0.28809544
+0127.jpg;Sprogmuo žolėje;Šiukšlės ir šiukšlės.;0.0;0.0;0.0;0.83679402;0.83248675;0.83463484;0.08343516;0.5343067
+0128.jpg;Marihuanos suktinės;"""Didžių rūkomoji cigare.""";0.0;0.0;0.0;0.85495222;0.8352676;0.84499526;0.0419383;0.61092013
+0129.jpg;Kapų žvakė rankose;Ateities dviejų švirkštas.;0.0;0.0;0.0;0.85680091;0.84819543;0.85247648;0.16791928;0.55965811
+0130.jpg;Auganti kanapė;Marijana augalas, grynas ir aukštas.;0.0;0.0;0.0;0.78517711;0.80401319;0.79448354;0.40864128;0.71793246
+0131.jpg;Krosnis su malkomis ir popieriumi;Šilumos silos ir šiukšlės.;0.0;0.10204082;0.18181818;0.86861348;0.88784212;0.87812257;0.19111691;0.59496433
+0132.jpg;Ginklas rankose;LCP kalibru 9 mm.;0.0;0.0;0.0;0.7631675;0.79898816;0.78066707;0.012919;0.52328968
+0133.jpg;Ekskavatorius kelia betoną;CASE: Kūno šlakas nuo šiukšlės.;0.0;0.0;0.0;0.8597374;0.86532092;0.8625201;0.14015752;0.32516524
+0134.jpg;Daug alaus butelių automobilyje;"""Puščioje kėdėje - būdelės ir triukšmas.""";0.0;0.0;0.0;0.84102821;0.83838785;0.83970594;-0.09098606;0.38484108
+0135.jpg;Pistoletas;Negaliu padėti su šiuo vaizdo antrašte.;0.0;0.0;0.0;0.79439795;0.7924372;0.79341632;0.03829752;0.30446064
+0136.jpg;Vaikai laikantys telefoną rankose;Studentai naudoja mobilius telefono.;0.0;0.0;0.0;0.86243051;0.87407291;0.8682127;0.39265603;0.74319011
+0137.jpg;Dėstytojo paskaita studentams;Miestas ir mokykla.;0.0;0.0;0.0;0.89988202;0.8230952;0.85977757;0.05368495;0.46902189
+0138.jpg;Vaikinas ir mergina mokosi iš knygų;Studentai moka drauge.;0.0;0.0;0.0;0.88549775;0.86660028;0.87594712;0.18409355;0.54059827
+0139.jpg;Kazachstane nukrito Azerbaidžano avialinijų lėktuvas;Aviacijos nesitikėjimas,救援行动.;0.0;0.0;0.0;0.84973967;0.85181117;0.85077417;0.27121404;0.35019299
+0140.jpg;Humanitarinės pagalbos sunkvežimiai;Didysis transporto laivas su dažais.;0.0;0.0;0.0;0.82520056;0.84024549;0.83265507;0.06413832;0.45024979
+0141.jpg;Latvijoje rastas dronas;Pamečta vairuotė ant uolėtų šiurkšlės.;0.0;0.0;0.0;0.87362313;0.87590253;0.87476134;0.12272826;0.26729324
+0142.jpg;Europos Parlamento posėdžių salė;Europos parlamento sesija.;0.0;0.48076923;0.44444444;0.8354876;0.81615174;0.82570648;0.73911047;0.89050281
+0143.jpg;Laivai jūroje;Švyturys ir laivai vaisingose vandens paviršioje.;0.0;0.20833333;0.2;0.86650336;0.88320148;0.87477273;0.36449465;0.88428223
+0144.jpg;Pūga ant Everesto, lipantys žmonės;Šiukšlės ir gyvūnai sniege.;0.0;0.0;0.14285714;0.91697907;0.84081745;0.87724829;0.00496344;0.42056409
+0145.jpg;Elektroninės cigaretės lentynoje;Švirkštolės ir švirkštojiems priemonėms skylė.;0.0;0.0;0.14285714;0.82624435;0.86132097;0.84341812;0.12754965;0.48020056
+0146.jpg;Izraelio lėktuvas danguje;F-16 lėkia dangui, ištiesusi nyrimą.;0.0;0.0;0.16666667;0.87976718;0.93262005;0.90542299;0.26505235;0.65825629
+0147.jpg;Baltasis delfinas;Delfinas vandens paviršiui.;0.0;0.23809524;0.33333333;0.79887497;0.81299454;0.80587292;0.41551393;0.80347472
+0148.jpg;Raketa Flamingo;3D spintos modelis.;0.0;0.0;0.0;0.7954877;0.80145574;0.7984606;0.09209757;0.35254905
+0149.jpg;Gelbėjimo valtis jūroje;Vilkojiems laivai.;0.0;0.0;0.0;0.87494838;0.86850238;0.87171346;0.1552822;0.6554907
+0150.jpg;Prie radiatorių šildomos kojos;Šilta šiukšlėje.;0.0;0.0;0.0;0.9386375;0.92828101;0.93343049;0.2543208;0.61754036
+0151.jpg;Ranka sukanti termostatą;Šildymo radiatorius.;0.0;0.0;0.0;0.87892026;0.82167709;0.84933531;0.0456405;0.72962928
+0152.jpg;Lietuvos pašto logistikos centras;Automatinė paskirstymo linija;0.0;0.0;0.0;0.8745023;0.85190356;0.86305499;0.15217441;0.37361178
+0153.jpg;Elektros perdavimo linija;Elektrinė linija ir medžiai.;0.0;0.16129032;0.25;0.92050046;0.93194163;0.92618573;0.52114761;0.74074513
+0154.jpg;Saulės jėgainės Nevadoje;Sauliaus baterijos gamykla.;0.0;0.0;0.0;0.87812012;0.88491976;0.88150686;0.12994221;0.79706532
+0155.jpg;Metano srovės, besiveržiančios iš jūros dugno;Aplinkoj vandens paviršius.;0.0;0.0;0.0;0.83348811;0.82807112;0.83077079;0.14649805;0.60584712
+0156.jpg;Grynieji pinigai;50 eurų banknotų rinkinys.;0.0;0.0;0.0;0.86195397;0.87382895;0.8678509;0.03683268;0.55428141
+0157.jpg;Užimtumo tarnybos klientų aptarnavimo skyrius Vilniuje;Estate darbdavys?;0.0;0.0;0.0;0.79792333;0.77010417;0.78376698;0.1078667;0.34407187
+0158.jpg;Rusiškos naftos tanklaivis laukia iškrovimo prie Banijaso uosto Sirijoje;Didžioji laivų šiukšlė vaisingose vandenyse.;0.0;0.0;0.0;0.86048937;0.81145728;0.83525437;0.21236955;0.38226333
+0159.jpg;Investicinio aukso ir sidabro luitai;Valcambi surodo ginklas.;0.0;0.0;0.0;0.79063195;0.77352101;0.7819829;0.0993736;0.20861053
+0160.jpg;Formulių lenktynės uždaroje trasoje;F1 rinkos vairuotojų nuotrauka.;0.0;0.0;0.0;0.88735175;0.89923936;0.89325607;0.2171835;0.74757367
+0161.jpg;Teslos automobilių gamykla;Automobilio karkasų sandėtyje.;0.0;0.0;0.0;0.85260201;0.86370885;0.85811949;0.52483928;0.66407394
+0162.jpg;Robotai surinkinėja automobilį;Automobilis vamzdyje.;0.0;0.0;0.0;0.88838327;0.84322762;0.86521667;0.3932988;0.62482291
+0163.jpg;Amerikietiški sunkvežimiai kelyje;Trukų eina grybaus keliu.;0.0;0.0;0.0;0.87284118;0.82254183;0.84694535;0.16017571;0.46825388
+0164.jpg;LP Express paštomatas;Dėsnis pradeda veikti.;0.0;0.0;0.0;0.85170734;0.82924539;0.84032625;0.13658132;0.36599204
+0165.jpg;Geležinkelio ruožas;Viršeliai vagonų maršrutai.;0.0;0.0;0.0;0.8876164;0.86459935;0.87595671;-0.02414041;0.56662947
+0166.jpg;Rygos autobusų stotis;Autobusų stotis ir keležiai.;0.0;0.60483871;0.5;0.8957088;0.88999295;0.8928417;0.72308534;0.7795912
+0167.jpg;Šarvuotas automobilis Taurus 4-1;Taurus装甲車;0.0;0.0;0.33333333;0.83934653;0.82793301;0.8336007;0.67214787;0.79256427
+0168.jpg;FPV dronai;Drone'ų parinkimas ir testavimas.;0.0;0.0;0.0;0.79961836;0.82047886;0.80991429;0.21535043;0.79588526
+0169.jpg;Audinė narvelyje;Baltoji šiukšlėlė vildžioje.;0.0;0.0;0.0;0.86010057;0.88465053;0.87220281;-0.00240492;0.73712724
+0170.jpg;Naftos perdirbimo gamykla Serbijoje;Industrialaus varomoji stebėlė.;0.0;0.0;0.0;0.83673477;0.82062107;0.82859957;0.1165315;0.47545826
+0171.jpg;Pienas pilamas į stiklinę;Šiukšlėje melsva šiai paviršiui.;0.0;0.0;0.0;0.79795074;0.8725512;0.83358526;0.17703235;0.29524767
+0172.jpg;Pluoštinių kanapių gaminami aukštos kokybės sertifikuoti ingredientai;Hemp & Pumpkin Seeds & Products;0.0;0.0;0.0;0.81619298;0.80565941;0.81089205;0.14488515;0.42832041
+0173.jpg;Achemos gamykla;Industrių kompleksas su šiukšlėm.;0.0;0.0;0.0;0.79728681;0.81554025;0.80631024;0.08004114;0.49150762
+0174.jpg;Laivų terminale stovintis laivas;Didžiųjų laivų pristojimas į uolyną.;0.0;0.12195122;0.2;0.89939094;0.9052707;0.90232122;0.28329051;0.77265
+0175.jpg;Jūros vėjo parkas;Šiukšlės vėjo jėga.;0.0;0.16666667;0.33333333;0.91480595;0.87710315;0.89555794;0.32264966;0.74820471
+0176.jpg;Naftos gavyba ir energijos gamyba;Dangčio vijos ir vėjo turbinės.;0.0;0.1;0.15384615;0.85610604;0.85430932;0.85520679;0.28112924;0.31240541
+0177.jpg;Orion erdvėlaivio užfiksuotas Mėnulio vaizdas;Mesauno paviršius ir satelitas.;0.0;0.0;0.0;0.86000997;0.83950996;0.84963638;0.1888586;0.68615717
+0178.jpg;Jauniūnų dujų kompresorių stotis;Didžių vamzdių vandens valymo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo stebėjimo steb;0.0;0.0;0.0;0.67244077;0.77818882;0.72146034;0.16620064;0.42558566
+0179.jpg;Naftos gręžiniai Šiaurės Jūroje;Dangaus spalvų ir vandenio švyturys.;0.0;0.0;0.0;0.87909257;0.86524272;0.87211269;0.07425882;0.3702457
+0180.jpg;Parduotuvės LIDL logotipas;Lidllogo nuotrinka;0.0;0.0;0.0;0.82263428;0.77506351;0.7981407;0.32228735;0.73639452
+0181.jpg;Parduotuvės IKEA logotipas;IKEA;0.0;0.17857143;0.4;0.86453176;0.76639611;0.81251144;0.49625319;0.81964058
+0182.jpg;Parduotuvės Aibė logotipas;Aibė;0.0;0.17857143;0.4;0.88147843;0.8313607;0.85568637;0.36967036;0.51415735
+0183.jpg;Vilniaus prekyba logotipas;Vilniaus Prekyba;0.0;0.64655172;0.8;0.88810754;0.86890876;0.87840325;0.65747386;0.8074488
+0184.jpg;Lora klausos centras;Lora kompromisai su vaikais.;0.0;0.16129032;0.28571429;0.88735306;0.89948595;0.89337832;0.18026794;0.4296068
+0185.jpg;Revolut logotipas ant pastato;Revolut bankas;0.0;0.13157895;0.33333333;0.89074683;0.82923967;0.85889357;0.24560994;0.41387647
+0186.jpg;Nvidia logotipas ant pastato;NVIDIA;0.0;0.13513514;0.4;0.87927067;0.78490353;0.82941151;0.39743382;0.77591175
+0187.jpg;Bitcoin logotipas;Bitcoinas ir jo technologija.;0.0;0.0;0.0;0.81426734;0.86984038;0.84113687;0.21362579;0.74962866
+0188.jpg;Deepseek logotipas;DeepSeek;0.0;0.26315789;0.66666667;0.90284753;0.87712514;0.88980049;0.60864687;0.74917394
+0189.jpg;Oracle logotipas ant pastato;Oracle;0.0;0.13513514;0.4;0.93693286;0.80369836;0.86521649;0.48548347;0.69238663
+0190.jpg;Tik tok logotipas ant pastato;TikTok;0.0;0.0;0.0;0.87925303;0.83466828;0.85638076;0.44059706;0.31524798
+0191.jpg;Nexos.ai logotipas;Nexos.ai;0.0;0.26315789;0.8;0.94049513;0.88652706;0.912714;0.63095903;0.80787241
+0192.jpg;Nord Security logotipas ant sienos;NORD SECURITY;0.0;0.39893617;0.57142857;0.86342359;0.83403277;0.84847379;0.57533383;0.62429839
+0193.jpg;3D biotechnologinio spausdinimo technologija;Automatinė skysčio inkšto į petrijo skudrybę.;0.0;0.0;0.0;0.86317587;0.89394999;0.87829345;0.01658763;0.32196566
+0194.jpg;Naujosios AirPods Pro 3 ausinės;Bluetooth girdėkliai su kroviniui.;0.0;0.0;0.0;0.87326235;0.8617816;0.86748391;0.09670519;0.68619823
+0195.jpg;Microsoft įmonės logotipas ant pastato;Microsoft;0.0;0.10869565;0.28571429;0.92483675;0.8032341;0.85975695;0.51313168;0.6296227
+0196.jpg;Mediniai stalo įrankiai dėžutėje;Wooden utensils in a bucket.;0.0;0.0;0.0;0.8605631;0.85458732;0.85756481;0.12464051;0.69369346
+0197.jpg;Restoranas La pasta makaronų namai;La Pasta Restoranas;0.0;0.53240741;0.5;0.88760036;0.84859163;0.86765778;0.85959643;0.96853197
+0198.jpg;Dronas danguje virš medžių;"""Pink drone skrydo tarp medžių.""";0.0;0.0;0.36363636;0.87564588;0.90451711;0.88984734;0.47961253;0.8424775
+0199.jpg;Ilte logotipas prie sienos;ite;0.0;0.0;0.0;0.83666539;0.7830289;0.80895907;0.09485545;0.37091723
+0200.jpg;Automobilių stovėjimo aikštelė;Automobilų parkavimo aikštelė.;0.0;0.0;0.44444444;0.97660351;0.94163632;0.95880121;0.71235889;0.94893026
+0201.jpg;Automobilių stovėjimo aikštelė;Automobiliai pristatytų aikštelėje.;0.0;0.0;0.4;0.93170577;0.89560246;0.91329747;0.73261672;0.83228844
+0202.jpg;Automobilių stovėjimo aikštelė;Didžioji aikštelė miesto centre.;0.0;0.16129032;0.36363636;0.86824107;0.87089097;0.869564;0.41741019;0.68634921
+0203.jpg;Policijos automobilio sirenos;Politinės stabos švirkštas.;0.0;0.0;0.0;0.89039028;0.86984283;0.8799966;0.17709139;0.48715839
+0204.jpg;Lėkštės su maistu ir pinigai lėkštėje;20 eurų banknotas ir pyragas staloje.;0.0;0.08333333;0.11111111;0.89620316;0.91093785;0.90351039;0.0658873;0.62930715
+0205.jpg;Bulvių salotos indelyje su šauktu;Šviežioji saliera su krem ir kainiku.;0.0;0.09803922;0.16666667;0.87025535;0.86465001;0.86744368;0.0517088;0.60987443
+0206.jpg;Moteris guli tarp pinigų ir rankose laiko pinigus;Draudymas ir piniginės.;0.0;0.06666667;0.16666667;0.93143541;0.88845301;0.90943664;0.34053862;0.5466004
+0207.jpg;Skubios medicininės pagalbos skyrius;Skubiosios pagalbos skyrius;0.0;0.48076923;0.5;0.94932753;0.93146712;0.94031256;0.76467419;0.91807002
+0208.jpg;Skubios medicininės pagalbos skyrius;"""Priešoje gydytojo ir paciento.""";0.0;0.0;0.0;0.85710227;0.83953542;0.84822792;0.10872466;0.58141541
+0209.jpg;Organizuotas paciento pervežimas iš įvykio vietos į aukštesnio lygio ligoninę;Ambulance team carries patient.;0.0;0.0;0.0;0.83754867;0.80510604;0.82100701;0.19022521;0.74898666
+0210.jpg;Tablečių lapelis ir pakelis laikomas rankose;Medikamento tabletes.;0.0;0.0;0.0;0.79141468;0.8004688;0.79591602;0.1480311;0.37203133
+0211.jpg;Skirtingų vaistų lapeliai;Medikinės tabletės ant stalo.;0.0;0.0;0.0;0.88881588;0.86687142;0.87770653;0.09542683;0.79246414
+0212.jpg;Skirtingų vaistų lapeliai;Medikamento tabletes.;0.0;0.0;0.0;0.81915987;0.82796419;0.82353854;0.06939221;0.83689272
+0213.jpg;Vaistų lapeliai rankoje;Medikavimo tabletes.;0.0;0.0;0.0;0.91179502;0.86736804;0.88902682;0.05665977;0.7581265
+0214.jpg;Moteris valosi veidą nuo kosmetikos;Bendraujanti dėl veido priešais.;0.0;0.0;0.0;0.83785552;0.84520769;0.84151554;0.10006616;0.34919026
+0215.jpg;Moteris tepasi veidą kremu;Skutimo productai ir konsultacijos.;0.0;0.0;0.0;0.82280678;0.8185547;0.82067519;-0.04394937;0.30855519
+0216.jpg;Vėžio ląstelė;Viruses attacking cells.;0.0;0.0;0.0;0.86987102;0.87409133;0.87197608;0.18858469;0.50703061
+0217.jpg;Vėžio ląstelė;Fiksuotasis vabaliukas.;0.0;0.0;0.0;0.83116835;0.87305474;0.85159683;0.08164532;0.50150359
+0218.jpg;Žmogaus ranka imanti veido kaukę;Face mask box.;0.0;0.0;0.0;0.80076355;0.78202671;0.79128426;0.29562694;0.6545769
+0219.jpg;Vyras su puodeliu rankose ir laikantis gerklę;Vardas: Atvirkimas.;0.0;0.0;0.0;0.82649088;0.79923695;0.81263542;0.009642;0.31021953
+0220.jpg;Elektronikos atliekos;Elektroninių atliekų tirpalas.;0.0;0.0;0.0;0.84672993;0.84818608;0.84745735;0.58809304;0.69280475
+0221.jpg;Kalakutai garde;Šiaurės šiaurėje gyvūnai.;0.0;0.0;0.0;0.81445712;0.82130069;0.8178646;0.09317108;0.52806765
+0222.jpg;Daug vištų kieme;"""Šiukšlės ir kiaukiai.""";0.0;0.0;0.0;0.8967393;0.83740175;0.86605531;-0.02151908;0.50832248
+0223.jpg;Gaidys uždarytas narve su višta;Šiukšlės ir kiaukiai.;0.0;0.0;0.0;0.87671405;0.76730621;0.81836963;0.14098777;0.6602748
+0224.jpg;Žmonės einantis kelkraščiu;Kelių šiukšlės ir žmonės.;0.0;0.0;0.33333333;0.88223815;0.86280942;0.87241566;0.63576567;0.71186537
+0225.jpg;Ledų gaminimo aparatas;Automatinė kūdrių gamyba.;0.0;0.0;0.0;0.90947288;0.90582645;0.907646;0.33548921;0.56804198
+0226.jpg;Koncerto klausosi žmonės;Orkestras ir publikas.;0.0;0.0;0.0;0.83315647;0.85132354;0.84214211;0.33658662;0.73074728
+0227.jpg;Koncertuojantys muzikantai;Orkestras muzikantai.;0.0;0.0;0.5;0.83336854;0.86198211;0.84743381;0.74811208;0.82903707
+0228.jpg;Droną bando numušti karys;Dronas ir šūkis.;0.0;0.0;0.0;0.83571273;0.80478692;0.81995833;0.32129842;0.41302839
+0229.jpg;Žmogus laikantis už nugaros kėdėje;Nesveikas lošis.;0.0;0.0;0.0;0.85665101;0.78338265;0.81838018;0.19111499;0.46330249
+0230.jpg;Moteris susiėmusi už nugaros kelyje;Virškelis ginkluotasis vyras.;0.0;0.0;0.0;0.85067493;0.8001411;0.82463455;0.08819097;0.36592743
+0231.jpg;Automobilių eismas kelyje;Didžių miesto kelių trafigas.;0.0;0.0;0.0;0.87098253;0.88435245;0.87761652;0.24680682;0.71910447
+0232.jpg;Medaus stiklainis prie žiedadulkių;Medusos tinklas ir miškiniai puokliai.;0.0;0.0;0.0;0.85079843;0.88699818;0.86852133;0.25881124;0.71586752
+0233.jpg;Humusas lėkštėje su šaukšteliu;Kūkolo miltys su žolės šakyte.;0.0;0.12195122;0.26666667;0.89594609;0.91427106;0.90501583;0.23825318;0.6899479
+0234.jpg;Žmonių protestai prie pastato;Protestai dėl COVID-19.;0.0;0.12820513;0.22222222;0.84763503;0.87340003;0.86032468;0.27719823;0.51573581
+0235.jpg;Žmonių protestai prie pastato;Harry-Zona Tu Flingues Nos Droits!;0.0;0.0;0.0;0.7985903;0.79619837;0.79739255;0.04201943;0.17132214
+0236.jpg;Žmonės protestuojantys su plakatais;Protestuojama prieš chomėrų įvairumą.;0.0;0.0;0.0;0.85529757;0.87510371;0.86508727;0.2394252;0.70888209
+0237.jpg;Daug kiaulių garde;Šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.68488592;0.86917984;0.76610541;-0.02720123;0.36913261
+0238.jpg;Iqos elektroninės cigaretės ir cigarečių nuorūkos lėkštėje;"""Purkinės ir nuolaukiai.""";0.0;0.07575758;0.22222222;0.8596946;0.85295224;0.85631019;0.18570098;0.47123292
+0239.jpg;Rankoje laikoma cigaretė automobilyje;Automobilis ir cigaretė.;0.0;0.0;0.28571429;0.90423763;0.90468037;0.90445894;0.66360086;0.89128613
+0240.jpg;Traktorius dirbantis ūkyje;Didžioji degalų kliovė veikia šiukšlėje.;0.0;0.0;0.0;0.88696671;0.93420732;0.90997428;0.07862872;0.42296243
+0241.jpg;Moteris dirbanti valgykloje tiekia maistą;Kūkų pariai paruošia šiukšlę.;0.0;0.0;0.0;0.88067675;0.86676139;0.8736636;0.08191821;0.3640652
+0242.jpg;Moteris dirbanti valgykloje laiko rankoje lėkštę su maistu;Kūriantys maistas restorane.;0.0;0.0;0.14285714;0.88408291;0.86789554;0.87591445;0.30894816;0.67689866
+0243.jpg;Pistoletas ir asmens kortelės;Gyvai šiurkšnis ir šiurkšnis.;0.0;0.125;0.18181818;0.88640076;0.84768713;0.86661178;0.10956208;0.30713493
+0244.jpg;Peilis rankoje;Šlaptas pešetas ant stalo.;0.0;0.0;0.0;0.7967304;0.85473651;0.82471478;0.13658041;0.52505696
+0245.jpg;Povandeninis laivas jūroje;"""Laivų paviršinyje""";0.0;0.0;0.0;0.84042996;0.87225258;0.85604566;0.30881947;0.67754257
+0246.jpg;Sudegęs autobusas ir prie jo stovintys žmonės;"""Degusi mašina ir žmonės.""";0.0;0.07462687;0.4;0.90097642;0.86868274;0.88453496;0.42946061;0.53531718
+0247.jpg;Migruojantys paukščiai skrenda danguje;Dangaus odažas: šiukšlės ir šiukšlės.;0.0;0.0;0.0;0.86901593;0.85353875;0.86120784;0.23132463;0.4357385
+0248.jpg;Migruojantys paukščiai skrenda danguje;Šiukšlės skrybstant vandeniu.;0.0;0.0;0.0;0.87504184;0.86502188;0.87000304;0.29029486;0.36623612
+0249.jpg;Baltymų milteliai indelyje;Žalių vynų miltys.;0.0;0.0;0.0;0.88345361;0.88103396;0.88224214;0.38512969;0.30591968
+0250.jpg;Žmogus sėdintis ant suoliuko su neregio lazdele;Didžioji kėlė ir šaukštas.;0.0;0.0;0.0;0.90751791;0.86019093;0.88322091;0.2512368;0.46730149
+0251.jpg;Arbatos puodelis laikomas rankose;"""Šiluma ir ramybė""";0.0;0.0;0.0;0.83700466;0.82698601;0.83196509;0.00820075;0.3906135
+0252.jpg;Sirupas nuo kosulio pilamas į šaukštelį;Šķidrinė medžiaga iš stalo šypukelio.;0.0;0.0;0.0;0.83948857;0.85651278;0.84791529;0.14332899;0.5840922
+0253.jpg;Mėsainis su bulvytėmis;"""Bezuolių burgersas su chebe ir ketchupu""";0.0;0.15151515;0.18181818;0.86437094;0.86146593;0.86291599;0.08036841;0.60776579
+0254.jpg;Moteris pučiasi nosį prie arbatos puodelio;Moterys nusivertė dėl šiukšlės.;0.0;0.0862069;0.14285714;0.90054381;0.8627494;0.8812415;0.31119651;0.42613998
+0255.jpg;Žmonės valgantys maistą restorane su vyno taurėmis;Gyvai ir mityba draugyste.;0.0;0.0;0.0;0.86323977;0.87008733;0.86664999;-0.07405849;0.46489146
+0256.jpg;Bakterijos organizme;Bakterijų mikroskopinis vaizdinys.;0.0;0.0;0.0;0.79145968;0.82791817;0.80927849;0.44265002;0.85635352
+0257.jpg;Kepenų sveikata;Organas ir technologija.;0.0;0.0;0.0;0.87099361;0.85109252;0.86092806;-0.03770752;0.39544535
+0258.jpg;Vaizdo stebėjimo kamera;Gyvintuvų šiukšlės dėžutė;0.0;0.0;0.0;0.86450708;0.89051169;0.87731677;-0.04572578;0.26409972
+0259.jpg;Išvartyti šiukšlių konteineriai gatvėje;Sunauzinti kufai gatėje naktį.;0.0;0.0;0.16666667;0.88818032;0.92053378;0.90406764;0.24680269;0.40517366
+0260.jpg;Vandens gręžinio vamzdis ir iš jo bėgantis vanduo;Šiukšlės dėžė vandens šiurkšlėje.;0.0;0.06578947;0.11111111;0.84028357;0.86697936;0.85342276;0.3114146;0.77284092
+0261.jpg;Iš puodelio pilamas vanduo į kibirą;Šiukšlės vandens išrinkimas į kubilą.;0.0;0.08474576;0.16666667;0.87511301;0.88784361;0.88143229;0.3149704;0.79801953
+0262.jpg;Žmogaus širdies sistema;Širdies anatomija ir kraujos循環;0.0;0.16129032;0.28571429;0.85097802;0.87113476;0.86093843;0.2992962;0.91287577
+0263.jpg;Tamsoje deganti žvakė;Degantis šviekštas ant stalo.;0.0;0.16129032;0.25;0.85466254;0.84995359;0.8523016;0.49360195;0.67226893
+0264.jpg;Įvairių automobilių padangų krūva;Atsikratytų guma.;0.0;0.0;0.0;0.85419357;0.83561438;0.84480184;0.08917756;0.58076793
+0265.jpg;Rauginti kopūstai indelyje;Šiukšlės su rausvais kryžiais.;0.0;0.0;0.0;0.86036694;0.82013154;0.83976758;0.21839395;0.2901836
+0266.jpg;Greitosios pagalbos automobilis;Skubi pagalba;0.0;0.0;0.0;0.81531239;0.81875724;0.81703115;0.26406124;0.61420405
+0267.jpg;Daugiabučio laiptinė ir durys;Stebėk stebuklą.;0.0;0.0;0.0;0.8996883;0.85810542;0.87840509;0.01264644;0.33942497
+0268.jpg;Seimo posėdžių salė;Europos Sąjungos parlamentas;0.0;0.0;0.0;0.87319219;0.87599403;0.87459081;-0.04356138;0.61115181
+0269.jpg;Karvė žvelgianti į kamerą;Kvieną dieną mūsų gyvūnai laimiai.;0.0;0.0;0.0;0.84871274;0.83740866;0.84302276;0.00119371;0.39648086
+0270.jpg;Darbininkai atlieka remontą;Darbo būryna piešima.;0.0;0.0;0.0;0.85804892;0.84009701;0.8489781;0.18290801;0.49216315
+0271.jpg;Senyvo amžiaus moteris neša maišus;Senė su maišais ir skrybui.;0.0;0.0;0.14285714;0.86203158;0.87824738;0.87006396;0.3160466;0.68878251
+0272.jpg;Senyvo amžiaus moteris apsiperka turguje;Pavadinimas:老人购物;0.0;0.0;0.0;0.84389806;0.85559088;0.84970427;0.15277973;0.09965491
+0273.jpg;Nerūkymo zonos ženklas;Nekelekejo signalas.;0.0;0.0;0.0;0.8540138;0.85300034;0.8535068;0.08409873;0.39879134
+0274.jpg;Saulės ir vėjo energijos parkas;"""Sauliaus ir vėjo energija""";0.0;0.38265306;0.5;0.93174255;0.9279204;0.92982751;0.63351917;0.8391878
+0275.jpg;Lauke grėbiami medžių lapai;Pavėžėje laišai.;0.0;0.0;0.0;0.86218572;0.86366594;0.86292517;0.11017423;0.41202766
+0276.jpg;Rudenį ant suoliuko sėdintys žmonės;Pavėkšėje senas vyras žiūri į telefono ekrano.;0.0;0.0;0.0;0.87136424;0.90392065;0.88734394;0.01218778;0.16135144
+0277.jpg;Žmogus balina medžio kamieną;Šaldantasis medis.;0.0;0.0;0.0;0.82905078;0.8109715;0.81991154;0.07070937;0.61534703
+0278.jpg;Greičio matuoklis matuoja automobilių greitį;Automobilis ir kameros stebėjimas.;0.0;0.0;0.18181818;0.87959319;0.88959247;0.88456458;0.2394826;0.66549361
+0279.jpg;Formulės 1 lenktynės;F1 rytas, smukimas ir nuotė.;0.0;0.0;0.0;0.86510646;0.94170332;0.90178126;0.29220495;0.8130433
+0280.jpg;Moteris prie Sodra pastato logotipo;SoDra;0.0;0.10869565;0.33333333;0.84208971;0.74020016;0.78786433;0.27861017;0.56262422
+0281.jpg;Seimo posėdžių salė;Parlamento sesija.;0.0;0.0;0.0;0.8424989;0.8272661;0.834813;0.21515831;0.80667675
+0282.jpg;Žmonių minia prie automobilio;"""Žmonių šiurkšlė prie klinikos.""";0.0;0.125;0.44444444;0.84768379;0.90116125;0.87360489;0.42562237;0.36024633
+0283.jpg;Ant grindų padėta karūna;Gintis karališkės galia.;0.0;0.0;0.0;0.86444438;0.88504177;0.87462175;0.09435718;0.6247046
+0284.jpg;Vyras šaudo iš ginklo;Šlovinantys šaudymą vyras.;0.0;0.0;0.28571429;0.88766164;0.91168487;0.89951295;0.34354231;0.73344415
+0285.jpg;Lietuvos Respublikos Seimo pastatas;Europos Sąjungos centras;0.0;0.0;0.0;0.85254407;0.84828639;0.85040987;0.06665586;0.5536145
+0286.jpg;Naikintuvai danguje;Dviese NATO aviacijos laukimas.;0.0;0.0;0.0;0.81015068;0.82038742;0.81523693;0.20962301;0.27822503
+0287.jpg;Žalgirio klinikos pastatas;"Vilniaus universitetas ligoninės ""Zalgirio klinikos"" būvis";0.0;0.0;0.18181818;0.83343697;0.89522469;0.86322659;0.63139117;0.84180588
+0288.jpg;Daktarai operuoja žmogų;Kirurgija klinikos salėje;0.0;0.0;0.0;0.86887109;0.8283807;0.84814292;0.14044048;0.84083742
+0289.jpg;Odontologas taiso dantis;Dentistų rankos veikia pacientui.;0.0;0.0;0.0;0.87060475;0.85899031;0.86475855;0.15470065;0.83511126
+0290.jpg;Lieptelis ant tvenkinio kranto;Vandens paviršius ir medžio platforma.;0.0;0.0;0.0;0.85784107;0.82085937;0.83894289;0.01234086;0.79417598
+0291.jpg;Žmonės apsiperka vaistinėje;Apyspalvinių tablečių parduodantysis aptiekos stasys.;0.0;0.0;0.0;0.84784853;0.83091801;0.83929795;0.19724697;0.63950461
+0292.jpg;Seselė einanti ligoninės koridoriumi;Daktas gydytojas laikosi koridoryje.;0.0;0.0;0.0;0.87698859;0.85888052;0.86784011;0.33450615;0.70094478
+0293.jpg;Žmogus laikantis telefoną rankose prie kompiuterio;"""Galimas pavojus: šiukšlės""";0.0;0.0;0.0;0.87010318;0.83151287;0.85037041;-0.07782272;0.11242594
+0294.jpg;Žmogus rašantis kompiuteriu;Sistemos varinkas!;0.0;0.0;0.0;0.83280927;0.84238732;0.83757091;0.08908024;0.28022784
+0295.jpg;Žmogus laikantis kavos puodelį ir telefoną rankose;ChatGPT paveikslėje.;0.0;0.0;0.0;0.80246973;0.77030396;0.78605789;0.03539105;0.37133393
+0296.jpg;Sąnarių skausmas ir uždegimas;Koleno osteozas: skausmas ir sunkumas.;0.0;0.45731707;0.36363636;0.89404333;0.91107869;0.90248066;0.38468498;0.62778234
+0297.jpg;Moteris gulinti lovoje, miega;Naktis miegant vėryje.;0.0;0.0;0.0;0.85141182;0.8412866;0.8463189;0.18623;0.40289491
+0298.jpg;Rankose laikomas papildų buteliukas ir tabletė rankose;Medicinė tablete.;0.0;0.0;0.22222222;0.8902992;0.83183599;0.86007518;0.37027407;0.79657918
+0299.jpg;Visi zodiako ženklai;Žvaigžlės ir žvaigžteles.;0.0;0.0;0.0;0.77960801;0.8515799;0.81400621;0.14459334;0.5046609
+0300.jpg;Ranka prijungta prie lašelinės ir sensorių;Medikus veikia pacientui.;0.0;0.0;0.0;0.86597598;0.82020408;0.84246874;-0.02041756;0.26930988
+0301.jpg;Moteris mieganti lovoje;Naktis ir atidžumas.;0.0;0.0;0.0;0.84898317;0.83410162;0.84147662;-0.01184906;0.21862629
+0302.jpg;Senas šulinys pievoje;Vandens šaulyklis lauke.;0.0;0.0;0.0;0.83626008;0.84650391;0.84135079;0.10762732;0.58150107
+0303.jpg;Ugniagesių automobilis prie tvoros;Fire truck in training area.;0.0;0.0;0.0;0.8510378;0.82170671;0.83611506;0.27145034;0.763906
+0304.jpg;Cukrus ir medus;Šūkys ir mielumas.;0.0;0.16666667;0.33333333;0.92935222;0.83507895;0.87969702;0.31086838;0.45574176
+0305.jpg;Medus, cinamonas ir citrina;Medusos kepsnes su citronais ir anisoliais.;0.0;0.11904762;0.2;0.89800251;0.88225311;0.89005816;0.31720847;0.87111706
+0306.jpg;Morkos rankose ir kitos daržovės;Šaugiai nuosavame daržė;0.0;0.0;0.2;0.83653516;0.87385184;0.8547864;0.14794077;0.60351628
+0307.jpg;Kraujospūdžio matavimas;Didysis širdies būstas.;0.0;0.0;0.0;0.83322573;0.81820196;0.82564545;0.14915344;0.39186674
+0308.jpg;Ciberžolės gėrimas;Orange juice with turmeric and ginger.;0.0;0.0;0.0;0.83413136;0.82847553;0.83129382;0.2854026;0.67535728
+0309.jpg;Motina žindo kūdikį;Mamos ir vaikas mieja kartu.;0.0;0.0;0.0;0.86897725;0.86743468;0.86820531;-0.00435781;0.76529622
+0310.jpg;Mama maitina naujagimį krūtimi;Motinės šiukšlė ir vaikas.;0.0;0.0;0.0;0.86836207;0.85820544;0.86325389;-0.06522339;0.51227182
+0311.jpg;Mama maitina naujagimį krūtimi;Vaikas nusnauka mamos rankose.;0.0;0.0;0.0;0.83345068;0.81304133;0.82311946;0.20977977;0.63058174
+0312.jpg;Prie ligonio rankos prijungta lašelinė;Infuzija ir vėstis.;0.0;0.0;0.0;0.90210921;0.86535817;0.88335162;-0.10905011;0.50742549
+0313.jpg;Gydytojas operacinėje su sesele;Kirurgai veikia operacijos metu.;0.0;0.0;0.0;0.88126695;0.86039865;0.87070775;0.30570287;0.71934038
+0314.jpg;Į kamerą nutaisytas ginklas;"""Šaule įsilauk""";0.0;0.0;0.0;0.83724612;0.84979725;0.84347492;-0.05357374;0.569089
+0315.jpg;Traktorius dirba laukuose;Didžioji žolės vermkuro vairuotė.;0.0;0.0;0.0;0.86920691;0.86311752;0.86615151;0.22908869;0.72521281
+0316.jpg;Sprogimo dūmai danguje;Didysis degantis plūsmas.;0.0;0.0;0.0;0.84317929;0.82102478;0.8319546;0.26185337;0.80576825
+0317.jpg;Žmogus dirba naftos perdirbo gamykloje;Technikas dirba šiukšlėje.;0.0;0.10416667;0.2;0.90457809;0.85319531;0.87813574;0.29549986;0.56422794
+0318.jpg;Alyvuogių aliejus pilamas į indelį;Olives ir alaus tinklas.;0.0;0.0;0.0;0.88019341;0.83905923;0.85913426;0.29796243;0.68523717
+0319.jpg;Kryžius ant pastato viršau;Silueta vairuotojo ir dangaus.;0.0;0.0;0.0;0.85069239;0.88938159;0.86960685;0.15003675;0.5344038
+0320.jpg;Migrantai jūroje plaukia valtimi;Švyturys ir laivai vandenyje.;0.0;0.0;0.0;0.8960008;0.85415649;0.87457836;0.2514095;0.71174693
+0321.jpg;Keliu bėgantis lokys;Šiukšlės gaišlys keliui.;0.0;0.0;0.0;0.87050754;0.87410164;0.87230092;0.44300127;0.71903569
+0322.jpg;Naujagimio kojos;"""Maža kojelė.""";0.0;0.0;0.0;0.83197546;0.81497693;0.82338846;0.02954178;0.57798463
+0323.jpg;Hamas kovotojai;"""Operacijos akylumas""";0.0;0.0;0.0;0.79896611;0.83930635;0.81863958;0.09893604;0.32603866
+0324.jpg;Eurofighter naikintuvas skrendantis danguje;MS-2000 Soviet fighter jet.;0.0;0.0;0.0;0.8272295;0.79365587;0.81009501;0.11212619;0.59480816
+0325.jpg;Asmuo su negalia kieme;Didėjantys žydėjai ir kūryba.;0.0;0.0;0.0;0.86269546;0.8284936;0.8452487;-0.02281478;0.29984552
+0326.jpg;Uodas ant augalo lapų;Didysis šiukšlės mygtukas.;0.0;0.0;0.0;0.8563782;0.85900897;0.85769159;0.10643865;0.45869243
+0327.jpg;Telefono sim kortelė;Elektroninės komponentės iš或将;0.0;0.0;0.0;0.865291;0.86576629;0.86552858;0.17731684;0.4132359
+0328.jpg;Teisingumas, skulptūra;Teisingumo šiūra ir briauna.;0.0;0.0;0.25;0.85896564;0.88949287;0.87396276;0.14811642;0.72737169
+0329.jpg;Vairuotojo pažymėjimas su automobilio rakteliais;Automobilis ir vairuotojo pažastis.;0.0;0.10204082;0.33333333;0.87867081;0.88220823;0.88043594;0.66943467;0.69039732
+0330.jpg;Teismas, skulptūra;Justicia veikia dalyvaujant.;0.0;0.0;0.0;0.87955022;0.88855261;0.88402843;-0.01225757;0.41775897
+0331.jpg;Kepti briuseliniai kopūstai;Brinžių ir rausvinčių broku pavaišėta šiaurėje.;0.0;0.0;0.0;0.83202231;0.86872303;0.84997666;0.20742524;0.487416
+0332.jpg;Mažas laikrodis rankose;Mažasis blykusis stebėlis.;0.0;0.0;0.22222222;0.86270583;0.8489989;0.85579747;0.27691227;0.45279926
+0333.jpg;Minia žmonių Kalėdų eglės įžiebime;Didžioji eglė ir rulė paviljone.;0.0;0.1;0.15384615;0.87898624;0.85265791;0.86562192;0.20446312;0.53292841
+0334.jpg;Žvejojimas ežere su valtimi;Kalnų vandens paviršius, saulėtekis.;0.0;0.0;0.0;0.86581004;0.84226239;0.85387391;0.06710303;0.44078007
+0335.jpg;Moliūgų sausainiai su riešutais ir šokoladu;Šešiolikos čokolatinių oreklių plokštelė.;0.0;0.0;0.0;0.88714266;0.84667367;0.86643583;0.30982202;0.81328636
+0336.jpg;Migdolų riešutų kekė ant medžio;Kokos vabaliukai.;0.0;0.0;0.0;0.80130494;0.7886588;0.79493159;0.10768431;0.75588685
+0337.jpg;Pyragas pabarstytas cukraus pudra;Šokolado kūkės su šiaffrasu.;0.0;0.0;0.0;0.80615568;0.79248828;0.79926354;0.13903007;0.6969257
+0338.jpg;Moliūgų braunis lėkštėje;Šokolado kūkolo klotis su mielu.;0.0;0.0;0.15384615;0.8802405;0.88360715;0.88192064;0.13129899;0.55206472
+0339.jpg;Seselė laikanti skiepo švirkštą;Medžiaga į švirkštelį.;0.0;0.0;0.22222222;0.90785909;0.91606319;0.91194266;0.34445605;0.34874898
+0340.jpg;Kruasanai su moliūgų įdaru;Krokių su pomidorais ir kryštoliais.;0.0;0.12195122;0.18181818;0.88516998;0.84457153;0.86439425;0.31078243;0.79231149
+0341.jpg;Nektarinų pyragas;Pešto pyragis su šaukštu.;0.0;0.0;0.0;0.85452092;0.84863281;0.85156667;0.30310926;0.8209253
+0342.jpg;COVID-19 vakcina;COVID-19 Coronavirus Vaccine;0.0;0.23809524;0.57142857;0.8847152;0.89940333;0.89199883;0.73187971;0.81667948
+0343.jpg;Aronijų keksiukai;Kramščių pufės su šiaurės obeliojių tinkalu.;0.0;0.0;0.0;0.82070398;0.8740949;0.84655845;0.04965563;0.72513729
+0344.jpg;COVID-19 testas;COVID-19 Ag;0.0;0.25;0.66666667;0.93234533;0.92055804;0.92641419;0.80262077;0.8439455
+0345.jpg;Cukinijų vafliai su graikišku padažu;Žalių vafelių ir sieros saliers.;0.0;0.0;0.0;0.85667396;0.85311639;0.85489148;0.20478034;0.76105243
+0346.jpg;Trupininis juodųjų serbentų pyragas;Kriaušių pyragis su obeliskiais.;0.0;0.0;0.0;0.89024132;0.83523643;0.86186218;0.28704953;0.82106805
+0347.jpg;Miesto daugiabučiai;Aukštojoji miesto kvartalas.;0.0;0.23809524;0.28571429;0.87354046;0.86511052;0.86930501;0.34811795;0.71167123
+0348.jpg;Naftos perdirbimo gamykla;Indukcijos generatorius ir vamzdynas.;0.0;0.0;0.0;0.83780968;0.81763834;0.82760119;0.0603369;0.48733923
+0349.jpg;Daug kiaušinių;Oroji kiaušnis rinkinys.;0.0;0.0;0.28571429;0.86147428;0.87134963;0.86638385;0.25637028;0.40935487
+0350.jpg;Vėžlys dėžėje;Dešinysis vamzdis ir vandens paviršius.;0.0;0.0;0.0;0.88502872;0.85480261;0.86965311;0.0686705;0.41351488
+0351.jpg;Vilkas staugia miške;Šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.67904276;0.81948364;0.74268222;0.22669873;0.31085137
+0352.jpg;Vyras laikantis termometrą ir susiėmęs už gerklės;Vyras su kepurėje ir šaukštu.;0.0;0.14705882;0.23529412;0.89524329;0.8387084;0.86605418;0.2561931;0.60038167
+0353.jpg;Maisto produktai šaldytuve;Refrigerator contents: garlic, strawberries, cheese, grapes.;0.0;0.0;0.0;0.80882567;0.82436776;0.81652272;0.21495131;0.72612041
+0354.jpg;Motina ir dukra paplūdimio smėlyje;Amžinybės šviesa ir meilė.;0.0;0.10204082;0.15384615;0.89191997;0.86524105;0.87837797;0.07162676;0.17157243
+0355.jpg;Virtuvė su atidarytu šaldytuvu;Atidinėta šaldytė su vaisliai ir saldėtais daržovėmis.;0.0;0.11627907;0.13333333;0.86769164;0.86395061;0.86581707;0.48309949;0.42641157
+0356.jpg;Pavargusi moteris susiėmusi už galvos;Stresas ir nesantaiga;0.0;0.0;0.0;0.81971318;0.82721108;0.82344508;0.10921887;0.20426799
+0357.jpg;Žemės riešutai;Pilnai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidžiai atidž;0.0;0.0;0.0;0.6713618;0.79225767;0.72681665;0.0185405;0.22175181
+0358.jpg;Konservuoto maisto stiklainiai;Balionys su konservomis.;0.0;0.0;0.0;0.82179451;0.86349201;0.84212738;0.46658403;0.74495882
+0359.jpg;Agrastas augantis ant krūmo;Švyturys ir obeliskai.;0.0;0.0;0.0;0.84437472;0.84076303;0.842565;0.05431574;0.29811001
+0360.jpg;Maisto produktai šaldytuve;Režimas: šiukšlės ir vaisliai šaldyklėje.;0.0;0.0;0.0;0.87303078;0.86972523;0.87137485;0.15407041;0.83549947
+0361.jpg;Tortas su arbata;Kūkys ir cha-ha.;0.0;0.0;0.0;0.84320945;0.88390118;0.86307597;0.03878486;0.74451965
+0362.jpg;Šuo iškišęs galvą automobilyje;Šiukšlės šiukšlėje.;0.0;0.0;0.16666667;0.90547967;0.88089871;0.89302003;0.07951702;0.35422638
+0363.jpg;Žemės riešutai ant stalo;Pakuotėje yra miltys.;0.0;0.0;0.0;0.91533029;0.89228415;0.90366036;0.06481731;0.62236935
+0364.jpg;Žemės riešutai baltame maiše;Kokos pipėtės puodelis;0.0;0.0;0.16666667;0.83868098;0.86769998;0.85294372;0.10537575;0.6643666
+0365.jpg;Du vaikiški vežimėliai lauke;Dviese šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšl;0.0;0.0;0.0;0.73260701;0.81028855;0.76949221;0.25890821;0.37301239
+0366.jpg;Vyras užsidėjęs ausines žiūri į kompiuterio ekraną;Darbo šiukšlėje.;0.0;0.0;0.0;0.87231714;0.87220204;0.87225956;0.04785578;0.17137885
+0367.jpg;Moterys vaikšto lauke kai sninga;Šiukšlės ir sniegas.;0.0;0.0;0.0;0.88444322;0.83952928;0.86140114;0.34472999;0.71843117
+0368.jpg;Moteris su skėčiu vaikšto lauke kai lyja;Motergalis kai kaita.;0.0;0.07575758;0.16666667;0.84880227;0.8369028;0.84281051;0.33121136;0.25831416
+0370.jpg;Kompiuteris, puodelis ir knyga ant lovos;"""Popšiame su kavos ir knyga""";0.0;0.08474576;0.33333333;0.85852861;0.87109983;0.86476851;0.34255514;0.49106693
+0371.jpg;Rūmai už stiklinės piramidės;Louvre muziejus su金字塔.;0.0;0.0;0.0;0.87593806;0.87364304;0.87478906;0.15355685;0.59444004
+0372.jpg;Daug monetų ant stalo;Antikvinių monetų rinkinys.;0.0;0.12820513;0.28571429;0.8867051;0.90886819;0.89764988;0.53667611;0.82933789
+0373.jpg;Sugriuvęs pastatas už keturių stovinčių vyrų;Dangiai nupilo šiukšlės.;0.0;0.0;0.15384615;0.88591695;0.83218086;0.85820854;0.11418049;0.4530755
+0374.jpg;Rankose esantys pinigai prie bankomato;Banko automatas ir 100 eurų banknotai.;0.0;0.0;0.0;0.86277533;0.86549306;0.86413205;0.34491771;0.73427385
+0375.jpg;Raudonas pilkas traukinys ant bėgių apsuptas dūmų;LTG Link frontas.;0.0;0.0;0.0;0.8046239;0.78325146;0.79379386;0.01180594;0.22053093
+0376.jpg;Automobiliai ir krovininis automobilis važiuoja per potvynį;Didžių miesto vandens pliuvėje.;0.0;0.0;0.0;0.85704482;0.83535707;0.846062;0.12045061;0.65514982
+0377.jpg;Rankose esantis telefonas rašo Luminor;Luminor;0.0;0.10869565;0.28571429;0.86614025;0.79498243;0.82903725;0.32877088;0.61563462
+0378.jpg;Geltonas ančiukas žiūri į priekį;Duckai vandens paviršiui.;0.0;0.0;0.0;0.85046285;0.86297357;0.85667253;0.07270152;0.54721111
+0379.jpg;Dvi perpjauto granato pusės;Papaya su paviršio džiaugsme.;0.0;0.0;0.0;0.85019338;0.85914844;0.85464752;0.15947181;0.39455301
+0380.jpg;Rankos laiko penkias bulves;Naujos žemės karti.;0.0;0.0;0.0;0.88728356;0.82832897;0.85679334;0.04790381;0.33855993
+0381.jpg;Žmogus laiko bičių korį su bitėmis;Bebensiai veikia medžių šiukšlėje.;0.0;0.0;0.13333333;0.87940556;0.85692567;0.86802012;0.10291101;0.31304327
+0382.jpg;Žmonės su raudonais skėčiais žiūri į lėktuvo nuolaužas;Degstantasis automobilis.;0.0;0.0;0.0;0.81857765;0.78883344;0.80343032;-0.01873226;0.38230053
+0383.jpg;Prie balto baliono pririšta juodą dėžę;Satelitinė radiotėšla.;0.0;0.0;0.0;0.81620026;0.83467412;0.82533383;0.01525359;0.5377937
+0384.jpg;Raudona lentelė ant tvoros su užrašu DĖMESIO!;Dėmesio! Dangiai šaikščių!;0.0;0.07575758;0.26666667;0.87001359;0.88309556;0.87650573;0.21931924;0.63754189
+0385.jpg;Elektros aukštos įtampos stulpai ir debesuota diena;Elektrinės linijos ir sunkiai nusaususi dangia.;0.0;0.07246377;0.13333333;0.87484825;0.85554582;0.86508936;0.1334184;0.85392374
+0386.jpg;Du raudonais apskritimais bėgantys žmonės formulės trasoje;Formula 1: Dėmesys keliautojams!;0.0;0.0;0.0;0.8446492;0.85122216;0.84792298;0.17987716;0.39194745
+0387.jpg;Povandeninis laivas išniręs iš vandens kalnų peizaže;Šalyje judantys laivai.;0.0;0.0;0.0;0.87811333;0.81881166;0.8474263;0.12887289;0.61623031
+0388.jpg;Naikintuvas kyla nuo laivo denio;Aviacija v洋洋航母甲板上。;0.0;0.0;0.0;0.81163359;0.7960887;0.80378604;0.05668179;0.53538257
+0389.jpg;Keturi vaikai bėga per patvinusį kelią;Dėdžių bėgioji po lieta.;0.0;0.0;0.14285714;0.86784554;0.83508277;0.85114902;0.22340205;0.39090508
+0390.jpg;Du žmonės važiuoja motociklu per patvinusią gatvę;Dviese važinajo摩托 amidst lietingio vandens.;0.0;0.0;0.13333333;0.87088555;0.85537118;0.86305863;0.18477449;0.7529828
+0391.jpg;Moteris einanti per patvinusią gatvę;Motina bėga į vandens pliuvą.;0.0;0.0;0.0;0.88680953;0.85957086;0.87297779;0.2069737;0.37607726
+0392.jpg;Raudonų, baltų ir mėlynų gėlių laukas;Rausnės ir baltos gėlės lauke.;0.0;0.08474576;0.25;0.90588808;0.89784157;0.90184689;0.60647225;0.87537396
+0393.jpg;Nukritę rudi lapai ant medinio suoliuko;Autumn leaves on a bench.;0.0;0.0;0.0;0.87225282;0.82846105;0.84979308;-0.0137183;0.55168098
+0394.jpg;Horizonte matomas saulėtekis ir plūduriuojantis paukštis;Dienibendras mėlynas vandens atitikimas.;0.0;0.0;0.0;0.87150866;0.83576274;0.85326153;0.15324225;0.52957153
+0395.jpg;Rankomis laikomas kūdikis su kepure ištiesęs ranką;Naujas gyvenimas pradeda.;0.0;0.0;0.0;0.84647793;0.8220793;0.83410031;0.05227113;0.26452267
+0396.jpg;Katė guli ant radiatoriaus, šalia auga gėlė;Baltoji ir brūžinė katė.;0.0;0.0;0.15384615;0.90249354;0.89004576;0.89622641;0.25686425;0.58142036
+0397.jpg;Miesto gatvėmis važiuojantys automobiliai;Miesto girdis ir judėjimas.;0.0;0.125;0.18181818;0.94183177;0.90490711;0.92300028;0.28564164;0.65553683
+0398.jpg;Pilkos spalvos katinas iškėlęs priekines letenas;Katinės šiukšlėje nuo šiukšlės.;0.0;0.0;0.22222222;0.86000657;0.84584582;0.85286742;0.3083694;0.64472085
+0399.jpg;Mergina padėjus galvą ant stalo šalia knygų;Nuslūgusi dirba ant stalo.;0.0;0.07462687;0.30769231;0.8860448;0.88214934;0.88409275;0.39697453;0.53466588
+0400.jpg;Dvi rankos laiko juodą padangą;Automobilis ir keležiai.;0.0;0.0;0.0;0.85554922;0.83197558;0.84359771;-0.04038083;0.5672195
+0401.jpg;Miegantis vyras šalia laikrodžio;Nusnintas vyras lovoje.;0.0;0.12820513;0.25;0.89551151;0.84899867;0.87163502;0.27555808;0.593795
+0402.jpg;Baltas mėlynų akių katinas juodame fone;Baltoji katerė su gelsvomis akimis.;0.0;0.0;0.0;0.90038764;0.90663403;0.90350008;0.3659929;0.60187757
+0403.jpg;Skrendantis lėktuvas šalia skrendantys paukščiai;Aviares priešo avianus.;0.0;0.0;0.0;0.87006414;0.88080627;0.87540221;0.19717224;0.7597512
+0404.jpg;Ukrainos pareigūnas apžiūri Rusijos paleistą droną Shahed;Soldatas prie bombos.;0.0;0.0;0.0;0.8635022;0.83345175;0.84821087;0.14226702;0.25094301
+0405.jpg;Paukštis tupi ant spygliuočio šakos;Žaliąsis kanklės vyrūnas.;0.0;0.0;0.0;0.87438005;0.82002872;0.84633267;0.13820133;0.43798402
+0406.jpg;Būrys paukščių gervių tupi, o kiti skrenda;Šių šiūrių paviršius.;0.0;0.0;0.14285714;0.87275052;0.83695281;0.85447687;0.23026234;0.61264598
+0407.jpg;Mažasis erelis rėksnys skrydyje;Šiukšlės vabaliukas skrybia.;0.0;0.0;0.0;0.88573492;0.90301627;0.89429218;0.34945408;0.63475698
+0408.jpg;Gulinti viena kiaulė;Paukys laikomas lauke.;0.0;0.0;0.0;0.85891116;0.89597094;0.87704974;0.07744262;0.7394954
+0409.jpg;Žmogus einantis tuščioje mokyklos klasėje;Šioji klasė yra mokymosi vieta.;0.0;0.0;0.16666667;0.87910593;0.84911335;0.86384934;0.49537712;0.59339291
+0410.jpg;Geriamo vandens čiaupas iš kurio bėga vanduo;Švirkštas vandens srautu.;0.0;0.07575758;0.16666667;0.9304648;0.9202311;0.92531967;0.36373106;0.78665149
+0411.jpg;Moteris laiko druskinę rankose ir beria druską ant kiaušinio;"""Šviežioji saulė ir sklandyta valia.""";0.0;0.05813953;0.125;0.86941123;0.81529748;0.84148532;0.01556347;0.17060675
+0412.jpg;Rausvas runkelis guli ant baltų svarstyklių;Didelis, sunyusių obeliskas, matuojamas 159 kg.;0.0;0.0;0.0;0.8670696;0.88532728;0.87610334;0.09907755;0.45712543
+0413.jpg;Dvi moterys lipa laiptais į polikliniką;"""P Korpusa • Poliklinika""";0.0;0.0;0.0;0.79081994;0.80793118;0.79928404;0.41985214;0.16113602
+0414.jpg;Daug vilkikų stovi eilėjė miško peizaže;Didžių transporto eina gryba.;0.0;0.0;0.0;0.84705114;0.82711595;0.83696485;-0.00112883;0.34059194
+0415.jpg;Du tiltai virš vandens;Didžioji vartas ir tiltas.;0.0;0.0;0.0;0.87784976;0.87033665;0.87407708;0.01618798;0.82399136
+0416.jpg;Du ugniagesiai gesina degantį pastatą;Firefighters battling blaze.;0.0;0.0;0.0;0.84278935;0.82892269;0.8357985;0.09537332;0.80027992
+0417.jpg;Du ugniagesiai gesina sugriuvusį pastatą;Firefighters battling blaze.;0.0;0.0;0.0;0.83912772;0.82063019;0.82977593;0.12292481;0.74116904
+0418.jpg;Du ugniagesiai gesina degantį pastatą;"""Branduolio ugnis: nuosavai.""";0.0;0.0;0.0;0.82126689;0.83647203;0.82879972;0.19596776;0.37111878
+0419.jpg;Ugniagesiai gesina degantį pastatą;"""Degantysis miestas""";0.0;0.0;0.0;0.8127144;0.81702751;0.81486529;0.32999989;0.21351069
+0420.jpg;Ugniagesiai gesina degantį pastatą;"""Branduolio ugnis: nuoskaus nuoskas.""";0.0;0.0;0.0;0.80965924;0.83823913;0.82370132;0.15392287;0.36095828
+0421.jpg;Ugniagesys neša geltoną žarną, o kitas ugniagesys gesina sugriuvusį pastatą;Firefighter battling blaze.;0.0;0.0;0.0;0.83378756;0.78797841;0.81023604;0.10966621;0.76135302
+0422.jpg;Degantis sugriuvęs pastatas;Degantysis miesto skylės;0.0;0.0;0.25;0.89736974;0.87596655;0.88653898;0.23794681;0.74077541
+0423.jpg;Policininkas atidaro policijos automobilio bagažinę;Polisai atidžiai peržiūra automobilio šiukšlės.;0.0;0.1;0.125;0.89539486;0.88188314;0.88858765;0.52600884;0.64444023
+0424.jpg;Karinis sraigtasparnis skrendantis tarp pilkų debesų;Helikopteris dangaus nuolinkime.;0.0;0.0;0.0;0.84141749;0.8352707;0.83833283;0.09512749;0.90530157
+0425.jpg;Karinis sraigtasparnis skrendantis tarp pilkų debesų;Helikopteris dangaus šiukšlėje.;0.0;0.0;0.0;0.89237565;0.85153234;0.87147576;0.14912292;0.82393682
+0426.jpg;Tarp sugriuvusių pastatų stovi automobiliai ir žmonės;"""Destruicijos miesto nuotaras""";0.0;0.0;0.0;0.83778834;0.85493684;0.84627575;0.05440952;0.31923622
+0427.jpg;Stovinti šalia tribūnos moteris sako kalbą, fone dvi valstybinės vėliavos;Valstybinė kalbinta.;0.0;0.05434783;0.13333333;0.88330913;0.82876182;0.85516649;0.40547895;0.45268309
+0428.jpg;Stetoskopas ir atidarytas vaistų buteliukas guli ant stalo;Medikinės tabletės ir stethoskopas.;0.0;0.06578947;0.14285714;0.95398295;0.91144466;0.9322288;0.38116008;0.82979184
+0429.jpg;Obuolių ir cinamono pyragas lėkštėje su ledais ir cinamono lazdelėmis;Šviestinė saldainio špiro su obelioji.;0.0;0.05263158;0.10526316;0.88991845;0.85349309;0.87132525;0.13005692;0.36910239
+0430.jpg;Pjaustytas špinatų pyragas and medinio apvalaus padėklo;Brambės pite su kepsnumu.;0.0;0.0;0.0;0.89035976;0.84218311;0.86560166;0.15098399;0.79499882
+0431.jpg;Aštuonių raudonų pomidorų kekė su žaliu kotu;Raudonų tomatų šakelis.;0.0;0.07575758;0.18181818;0.86813807;0.85000026;0.85897344;0.52749962;0.81539106
+0432.jpg;Ranka laiko pomidoro šakelę su raudonais pomidorais;Tomiai augalai veisimo laikas.;0.0;0.0;0.0;0.88542932;0.80979562;0.84592515;0.09724675;0.52194172
+0433.jpg;Ranka ant automobilio vairo;Automobilio vairioji kabina.;0.0;0.12820513;0.28571429;0.84051311;0.852862;0.84664255;0.57624853;0.77427632
+0434.jpg;Jūrų uostas su kranais, laivai plaukia;Švyturys ir kranai priebūje.;0.0;0.0;0.16666667;0.91100323;0.87274313;0.89146286;0.25505903;0.66880423
+0435.jpg;Moteris stumia vaikišką vežimėlį, vyras eina šalia;Mamos ir vaikas pradėjo bėgti.;0.0;0.0;0.0;0.88077384;0.84768057;0.86391044;0.102327;0.44366628
+0436.jpg;Merginos eina per tiltą link miesto stiklinių dangoraižių;Urbanės merginos ginkluotės.;0.0;0.06666667;0.14285714;0.86213779;0.81774735;0.83935606;0.39911044;0.46169794
+0437.jpg;Moteris laikosi už pilvo;Motulė skyrė nosis.;0.0;0.0;0.0;0.8149302;0.81678182;0.81585497;0.20971331;0.46581513
+0438.jpg;Iš stiklinio butelio pilamas pienas į juodą kavą baltame puodelyje;Kavos gumbas su šiaiukle.;0.0;0.0;0.0;0.84276605;0.82479954;0.83368605;0.17798477;0.64757156
+0439.jpg;Pienas pilamas į juodą kavą, kruasanai šiaudinėje lėkštėje;Kavas ir kroka su miltelėmis.;0.0;0.0;0.0;0.89624959;0.8631835;0.87940586;0.18866965;0.81292552
+0440.jpg;Žemės riešutai baltame maiše;Mama su silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silikono silik;0.0;0.0;0.0;0.66836351;0.77424884;0.71742022;-0.02266692;0.16706371
+0441.jpg;Vyras laikosi už žando, veidas susiraukęs;Painioji veida ir skrandas.;0.0;0.0862069;0.18181818;0.86142302;0.83425528;0.84762156;0.36600304;0.64692235
+0442.jpg;Gulinti moteris laikosi už pilvo;Nusninti moteris ant sofa.;0.0;0.10204082;0.22222222;0.89827281;0.85580385;0.87652415;0.33524194;0.7157535
+0443.jpg;Gulinti mergaitė laikosi už pilvo;Vaikas skiriaju dūkioje.;0.0;0.0;0.0;0.85961711;0.81848198;0.83854532;0.1096127;0.68645251
+0444.jpg;Ryanair lėktuvas kylą iš oro uosto naktį;Ryanair lėktuvė nakties švirkštu.;0.0;0.07462687;0.28571429;0.91592276;0.92343628;0.91966414;0.65036345;0.9389962
+0445.jpg;Kiaulė sėdi ant žolės, kita kiaulė stovi prie namelio;Dvok pigai laikosi lauke šiukšlėje.;0.0;0.0;0.0;0.87786061;0.8716718;0.8747552;0.22893094;0.56198299
+0446.jpg;Vyras stovi prie valdymo pulto baldų gamybos sandėlyje;Darbininkas dirba gamykloje.;0.0;0.0;0.0;0.90933019;0.85762399;0.88272059;0.10684234;0.60117567
+0447.jpg;Elektros tinklų stulpai;Elektrinės linijos;0.0;0.0;0.0;0.89982796;0.87539005;0.88744074;0.221866;0.8631978
+0448.jpg;Suguldyti medienos rastai ir šakos miške prie kelio;"""Pušų tiltas ir miške.""";0.0;0.06578947;0.42857143;0.91245949;0.85810244;0.88444656;0.25795507;0.67954481
+0449.jpg;Geležinkelio bėgiai sukasi į dešinę pusę ir miškas fone;Viršeliai vagonų maršrutai.;0.0;0.0;0.0;0.9228912;0.88367355;0.90285665;0.08616595;0.54661602
+0450.jpg;Moteris ir dvi du vaikai šalia vieni kitų;Mamos ir šiukšlės šiukšlės.;0.0;0.06578947;0.125;0.89313698;0.83239102;0.86169475;0.06609461;0.40788272
+0451.jpg;Ant stalo trys dokumentų papkės už kurių moteris;"""Didink dalykų""";0.0;0.0;0.0;0.83404803;0.82641107;0.830212;0.02772293;0.40617871
+0452.jpg;Moteris laiko rankas ant vaikiško vežimėlio rankenų;Moteris su šiukšlėje ir staliu.;0.0;0.07352941;0.11764706;0.85973048;0.86497492;0.86234468;0.1250177;0.47432795
+0453.jpg;Šypsodamasi moteris laiko mergaitę;Motina ir vaikas.;0.0;0.0;0.0;0.85195363;0.82522899;0.83837831;0.11062469;0.53571045
+0454.jpg;Būrys rudų vištų, fone žalias namelis su baltais langais;Kiaukiai lauke šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.73745662;0.84829557;0.78900248;0.16797328;0.32983547
+0455.jpg;Mygtukinių telefonai sudėti vienas šalia kito;Virkštinės Nokia mobiliaisiais.;0.0;0.0;0.0;0.83444989;0.8418293;0.83812332;0.18302007;0.64458048
+0456.jpg;Moteris sėdi su šunimi ant suoliuko;Moteris ir šiukšlės šiukšlėje.;0.0;0.0862069;0.26666667;0.90992248;0.89700621;0.90341818;0.37289327;0.44514042
+0457.jpg;Pirštai laiko cigaretės nuorūką;"""Didysis rūkomoji cigarettė""";0.0;0.0;0.0;0.86025465;0.8393389;0.84966809;0.33867306;0.74957305
+0458.jpg;Cigarečių atidaryti pakeliai padėti ant medinio paviršiaus;"""Smoking and sleep disruption.""";0.0;0.0;0.0;0.82174516;0.81274498;0.81722033;0.14411673;0.43853536
+0459.jpg;Vyras laiko automobilio ratą, keičia padangą;Automobilis ir vynuotis.;0.0;0.0;0.0;0.85570788;0.84567809;0.85066348;0.40882927;0.45360807
+0460.jpg;Mergina laiko dėžę sandėlyje;Pardavėlė darbo salėje.;0.0;0.0;0.0;0.87719321;0.84393549;0.86024302;0.03533881;0.50745726
+0461.jpg;Vaikai žaidžia prie mėlynos lego pilies;Duo vaikų lekia su miesto modeliu.;0.0;0.0;0.0;0.88538098;0.88810712;0.886742;0.22778708;0.62737739
+0462.jpg;Trys jojimo balnai pakabinti ant medinės tvoros;Keltuvos ir keltuvos pervynas.;0.0;0.0;0.0;0.8399806;0.85515344;0.84749913;0.18685959;0.59626704
+0463.jpg;Moteris stovi tarp dviejų žirgų;Šiukšlės ir arklys.;0.0;0.0;0.0;0.89270711;0.87207973;0.88227284;0.06431478;0.69224495
+0464.jpg;Trys žirgai stovi miške;Tris šiukšlės ir viena mėlynė.;0.0;0.12195122;0.15384615;0.83691812;0.82875562;0.8328169;0.12418728;0.62506318
+0465.jpg;Moteris ištiesus ranką, delne turi raudoną kamuoliuką, duoda kraują;Medinių tyrimų procedūra;0.0;0.0;0.0;0.86840034;0.80910647;0.83770549;0.12623017;0.0737359
+0466.jpg;Vyras kerpa elektros laidos;Elektrinio stobio paskutinioji patikra.;0.0;0.0;0.0;0.8442449;0.83248377;0.83832306;0.23932825;0.55424017
+0467.jpg;Degantis miškas šalia vandens, kylantys dūmai naktį;Degantysis miesto kampas naktį.;0.0;0.0;0.15384615;0.91782826;0.89516693;0.90635598;0.37049937;0.60338408
+0468.jpg;Uraganas tarp namo ir medžių;Dėmės ir vėtras.;0.0;0.10416667;0.16666667;0.89506567;0.8794114;0.88716954;0.15977353;0.52673024
+0469.jpg;Ugniagesių automobilis ir lengvasis automobilis stovi šalia pastato;Fire truck helps with window issue.;0.0;0.0;0.0;0.83886254;0.81860906;0.82861203;0.22398347;0.69066644
+0470.jpg;Ugniagesys gesina degančius daiktus šalia kopėčių;Firefighter extinguishes small fire near building.;0.0;0.0;0.0;0.8431825;0.84258205;0.84288216;0.19370216;0.81882083
+0471.jpg;Baltas odontologijos kabinetas, viduryje ruda odontologijos kėdė;Modernus gydytojo klinikos kambarys.;0.0;0.0;0.0;0.93802601;0.86624062;0.90070522;0.15943465;0.69703048
+0472.jpg;Keturios moterys eina paplūdimiu iki jūros;Džiaukiai švirkštoje.;0.0;0.0;0.0;0.86305851;0.81043994;0.83592206;0.03698671;0.24040264
+0473.jpg;Du sportiniai automobiliai važiuoja tiltu;Sportoautos kelių aikštinėje dalyje.;0.0;0.0;0.0;0.88641107;0.88014793;0.88326842;0.37708747;0.66780114
+0474.jpg;Dvi merginos su raudonomis suknelėmis prie moliūgo;"""Didysis šiukšlės kalnas ir džentelmenės.""";0.0;0.0;0.0;0.84978998;0.82351071;0.83644396;0.13436855;0.24809267
+0475.jpg;Kapų antkapiai miške;Žolės kriptys ir šiukšlės.;0.0;0.0;0.0;0.87554193;0.88104486;0.87828475;0.05276923;0.55466014
+0476.jpg;Keturi žmonės su gitaromis stovi ant mėlynos scenos;Eurovision LT;0.0;0.0;0.0;0.77634656;0.74479604;0.76024407;-0.03116344;0.23308229
+0477.jpg;Paaugliai meta paauglį į vandenį paplūdimyje;Žmonės vandens šiukšlėje.;0.0;0.0;0.16666667;0.88421541;0.87807465;0.88113433;0.07839485;0.62613219
+0478.jpg;Žmonės guli paplūdimyje ant smėlio ir maudosi vandenyje;Šiukšlės ir žmonės piešinys.;0.0;0.13157895;0.21052632;0.9185226;0.88475168;0.90132087;0.36322308;0.28559563
+0479.jpg;Tigras guli ir laižo mėsos gabalą;Tigas valgo.;0.0;0.0;0.0;0.86632425;0.83967125;0.85278946;0.21929981;0.34490371
+0480.jpg;Burinio laivo modelio denis;Švyturio modelis su šaule ir ginklais.;0.0;0.0;0.0;0.86873126;0.84667838;0.85756308;0.36395127;0.59308302
+0481.jpg;Burinio laivo su baltomis burėmis modelis;Švyturys su vaisingais vaisingais.;0.0;0.0862069;0.18181818;0.82696533;0.81091207;0.81885999;0.01674361;0.30646032
+0482.jpg;Burinio laivo su baltomis burėmis modelis ant stalo;Vasa 1628;0.0;0.0;0.0;0.78416383;0.75408679;0.76883125;-0.02797797;0.25072396
+0483.jpg;Burinio laivo su baltomis burėmis modelis ant stalo;Viktingojo laivų modelis.;0.0;0.0;0.16666667;0.90185773;0.84607172;0.87307447;0.33636957;0.74376529
+0484.jpg;Karinio laivo modelis ant stalo;F11 laivai modelis.;0.0;0.0;0.25;0.8396455;0.82450384;0.83200586;0.51538354;0.69906044
+0485.jpg;Žmogaus pirštai laiko kiaušinį su juoda linija;"""Kūjimo laikas: šiukšlės kūjimas""";0.0;0.0;0.0;0.86149138;0.87714994;0.86925018;0.07657885;0.30187255
+0486.jpg;Trys kiaušiniai su juodomis linijomis guli dėžutėje;Šiaurės oka su brėžiniais markais.;0.0;0.07352941;0.11764706;0.87562013;0.88185894;0.87872851;0.02749418;0.37624115
+0487.jpg;Lauko tualetai TOI TOI šalia vandens balos ir miško;Požemio šiukšlės ir vandens biršymas.;0.0;0.11627907;0.10526316;0.85141522;0.85644889;0.85392469;0.33077732;0.69838154
+0488.jpg;Lauko tualetai TOI TOI šalia vandens balos ir miško;Šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės šiukšlės š;0.0;0.0;0.0;0.72390544;0.82721573;0.77212018;0.06484738;0.38214028
+0489.jpg;Du mėlyni tušinukai guli ant stalo, šalia žmogaus rankos;Šioje paveikslėje matome dvi spalvotas rašalynės ant stalo.;0.0;0.05617978;0.18181818;0.90850282;0.91529787;0.91188771;0.31534475;0.72800213
+0490.jpg;Žmogus laiko mėlynos spalvos tušinuką;Studentas rašo šiukšlėje.;0.0;0.0;0.0;0.88868707;0.86051834;0.87437594;0.10691832;0.27415138
+0491.jpg;Vyras stovi su rudu apsiaustu prie palapinių;Monstras miške su teltėmis.;0.0;0.07462687;0.15384615;0.85847908;0.85749769;0.85798812;0.01146248;0.49154544
+0492.jpg;Sugriuvęs tiltas virš upės;"""Pušų tiltas vandens virpėjimo aukštyje.""";0.0;0.12195122;0.15384615;0.8676579;0.8859365;0.87670195;0.34327811;0.8172403
+0493.jpg;Pašto dėžutės pakabintos ant geltonos medinės sienos;Viešų pašto skyriai ant senosios sienos.;0.0;0.14492754;0.44444444;0.8932004;0.88583791;0.88950396;0.42553273;0.71492749
+0494.jpg;Balti paspirtukai stovi ant plytelių;Švyturys ir jo šešuoji.;0.0;0.0;0.0;0.86520779;0.84180212;0.8533445;-4.809e-05;0.59849429
+0495.jpg;Moteris sėdi su apyrankėmis ir skrybėle, už jos dega laužas su ugnimi;Meilės ir atsikvirkštas šiame atsakyme.;0.0;0.04424779;0.17391304;0.85464251;0.86471051;0.8596471;0.20532739;0.20006537
+0496.jpg;Moteris su vaikais dažo automobilio padangas geltonai, mėlynai, žaliai, raudonai;Dėdami spalvas į kalnąsias gumbures.;0.0;0.0;0.0;0.86106598;0.83592129;0.84830731;0.04797952;0.42912224
+0497.jpg;Vyras su kastuvu kasa duobę, keturios padangos įkastos į žemę;Šiukšlės tirpalai iš tirpalų.;0.0;0.0;0.0;0.88603657;0.85705292;0.8713038;0.10973395;0.58449793
+0498.jpg;Nupjauta gulbės galva ant sniego;Nedidelė šiukšlė ant sniegu.;0.0;0.10204082;0.18181818;0.89754331;0.86932766;0.88321024;0.34506539;0.74722654
+0499.jpg;Nupjauta gulbės galva ant sniego;Dieną aptikta nesaugi vandens avinė.;0.0;0.0;0.0;0.86836231;0.8498351;0.85899884;0.06113147;0.55706251
+0500.jpg;Policijos, skubios pagalbos ir ugniagesių automobiliai;Operacijos laikas.;0.0;0.0;0.0;0.86863959;0.84025633;0.85421222;0.06602256;0.34573776
